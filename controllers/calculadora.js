@@ -13,19 +13,33 @@ var obj_calculadora = {
 	},
 	Render: function(el_content){
 		var self = this;
+		self.RenderIMC(el_content.find('#estrutura-imc'));
+		self.RenderCalc(el_content.find('#estrutura-calc'));
+	},
+	RenderIMC: function(el_content){
+		var self = this;
+		el_content.find('#btn-calc-imc').click(function(){
+			var peso_imc = el_content.find('#peso-imc').val();
+			var altura_imc = el_content.find('#altura-imc').val();
+			var resultado_imc = peso_imc / (altura_imc * altura_imc);
+			el_content.find('#result-imc').val(resultado_imc);
+		});
+	},
+	RenderCalc: function(el_content){
+		var self = this;
 		el_content.find('.btn-num-calc').click(function(){
 			var comando = $(this).data('comando');
-			self.EventoCalc(comando,el_content);
+			self.EventoComandoCalc(comando,el_content);
 		});
 
 		el_content.find('#result-calc').keyup(function( event ){
 			if ( event.which == 13 ) {
 				event.preventDefault();
-				self.EventoCalc('=',el_content);
+				self.EventoComandoCalc('=',el_content);
 			}
 		});
 	},
-	EventoCalc: function(comando,el_content){
+	EventoComandoCalc: function(comando,el_content){
 		var result_calc = el_content.find('#result-calc');
 		if(comando == 'c'){
 			result_calc.val('');
