@@ -1,0 +1,8 @@
+var obj_base = {
+	Init: function(el_local){
+		$.post(location+'view_base.html', {
+		}, function (html_view) {
+		    el_local.html(html_view);
+		});
+	}
+}

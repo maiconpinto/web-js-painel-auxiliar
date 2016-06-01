@@ -1,0 +1,20 @@
+
+$.getScript("obj_base.js", function(){
+	var el_local = $('#painel-content');
+	obj_base.Init(el_local);
+});
+$.getScript("obj_base.js", function(){
+	var el_local = $('#painel-content');
+	obj_base.Init(el_local);
+});
+
+
+
+function lalala(nome_obj){
+	$.getScript(nome_obj+".js", function(){
+		var el_local = $('#painel-content');
+		
+		obj_base.Init(el_local);
+		nome_obj.Init
+	});
+}

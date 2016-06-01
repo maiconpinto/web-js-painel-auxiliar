@@ -1,0 +1,21 @@
+var obj_base = {
+	Url: function(view){
+		return url_view('base',view);
+	},
+	Init: function(el_local){
+		var self = this;
+		var url = this.Url('form');
+		$.post(url, {}, function (html_view) {
+			el_local.html(html_view);
+			self.Render(el_local);
+		});
+	},
+	Render: function(el_content){
+		el_content.find('.painel-option').click(function(){
+			var painel_option = $(this).data('option');
+			
+			var base_content = el_content.find('#base-content');
+			obj_bootstrap.Init(base_content);
+		});
+	}
+}

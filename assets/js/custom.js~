@@ -1,0 +1,7 @@
+
+alert(location+'controllers/base.js');
+$.getScript(location+'controler/base.js', function(){
+	var el_local = $('#painel-content');
+	obj_base.Init(el_local);
+});
+

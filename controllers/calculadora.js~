@@ -1,0 +1,28 @@
+var obj_calculadora = {
+	Url: function(view){
+		return url_view('calculadora',view);
+	},
+	Init: function(el_local){
+		var self = this;
+		var url = this.Url('form');
+		$.post(url, {}, function (html_view) {
+			el_local.html(html_view);
+			self.Render(el_local);
+		});
+	},
+	Render: function(el_content){
+		var self = this;
+		var help_content = el_content.find('#help-content');
+
+		//el_content.find('.btn-num-calc').click(function(){
+		//	var comando = $(this).data('comando');
+		//	self.EventoCalc(comando);
+		//});
+		
+	},
+	EventoCalc: function(comando){
+		if(isnumeric(comando)){
+		} else if(true){
+		}
+	}
+}
