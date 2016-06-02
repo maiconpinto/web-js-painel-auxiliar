@@ -21,6 +21,8 @@ var obj_base = {
 				obj_calculadora.Init(base_content);
 			} else if(painel_option == 'cores'){
 				obj_cores.Init(base_content);
+			} else if(painel_option == 'busca'){
+				obj_busca.Init(base_content);
 			}
 		});
 	}
