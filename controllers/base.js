@@ -19,6 +19,8 @@ var obj_base = {
 				obj_bootstrap.Init(base_content);
 			} else if(painel_option == 'calculadora'){
 				obj_calculadora.Init(base_content);
+			} else if(painel_option == 'cores'){
+				obj_cores.Init(base_content);
 			}
 		});
 	}

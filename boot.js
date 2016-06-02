@@ -18,6 +18,7 @@
 		'controllers/base',
 		'controllers/bootstrap',
 		'controllers/calculadora',
+		'controllers/cores',
 	], function() {
 		var el_local = $('#painel-content');
 		obj_base.Init(el_local);
