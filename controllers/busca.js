@@ -13,6 +13,5 @@ var obj_busca = {
 	},
 	Render: function(el_content){
 		var self = this;
-		//el_content.find('#estrutura');
 	}
 }
