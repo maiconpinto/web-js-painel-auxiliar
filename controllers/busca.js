@@ -14,10 +14,19 @@ var obj_busca = {
 	Render: function(el_content){
 		var self = this;
 
-		el_content.find('#busc-gerar').click(function(){
-			var str_busca = el_content.find('#busc-texto').val();
+		var el_busc_geral = el_content.find('#busc-geral');
+		el_busc_geral.find('#busc-gerar').click(function(){
+			var str_busca = el_busc_geral.find('#busc-texto').val();
 			window.open('https://www.google.com.br/search?q='+encodeURI(str_busca), '_blank');
 			window.open('http://www.bing.com/search?q='+encodeURI(str_busca), '_blank');
+		});
+
+		var el_busc_whois = el_content.find('#busc-whois');
+		el_busc_whois.find('#busc-gerar').click(function(){
+			var str_busca = el_busc_whois.find('#busc-texto').val();
+			window.open('http://www.whois.com/whois/'+str_busca, '_blank'); //melhor buscador
+			window.open('http://who.is/whois/'+str_busca, '_blank');
+			window.open('https://www.whois.net/'+str_busca, '_blank');
 		});
 	}
 }
