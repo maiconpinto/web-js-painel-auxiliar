@@ -28,5 +28,13 @@ var obj_busca = {
 			window.open('http://who.is/whois/'+str_busca, '_blank');
 			window.open('https://www.whois.net/'+str_busca, '_blank');
 		});
+
+		var el_busc_mapa = el_content.find('#busc-mapa');
+		el_busc_mapa.find('#busc-gerar').click(function(){
+			var str_busca = el_busc_mapa.find('#busc-texto').val();
+			window.open('https://www.google.com.br/maps/place/'+encodeURI(str_busca), '_blank');
+			window.open('https://maps.here.com/search/'+encodeURI(str_busca), '_blank');
+			window.open('http://cep.guiamais.com.br/busca/'+encodeURI(str_busca), '_blank'); // cep
+		});
 	}
 }

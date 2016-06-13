@@ -35,6 +35,9 @@ window.open('https://www.google.com.br/maps/place/'+encodeURI(str_busca), '_blan
 window.open('https://maps.here.com/search/'+encodeURI(str_busca), '_blank');
 window.open('http://cep.guiamais.com.br/busca/'+encodeURI(str_busca), '_blank'); // cep
 
+//######## TRADUTORES ########
+google...
+
 
 //###### PRODUTO PREÇOS ######
 http://www.zoom.com.br/relogio-pulso?q=rel%C3%B3gio+c%C3%A1sio&shortcut=1
