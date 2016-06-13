@@ -19,6 +19,7 @@
 		'controllers/bootstrap',
 		'controllers/calculadora',
 		'controllers/cores',
+		'controllers/busca_painel',
 		'controllers/busca',
 	], function() {
 		var el_local = $('#painel-content');

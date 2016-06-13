@@ -1,16 +1,14 @@
 
-
 function url_view(tela, view){
 	return location+'views/'+tela+'/'+view+'.html';
 }
 
-function lalala(nome_obj){
-	$.getScript(nome_obj+".js", function(){
-		var el_local = $('#painel-content');
-		
-		obj_base.Init(el_local);
-		nome_obj.Init
-	});
+function obj_serial(){
+   var numS = '';
+   //while($('id-'+numS).length > 0){
+      numS = Math.floor((Math.random() * 1000) + 1);
+   //}
+   return 'id-'+numS;
 }
 
 function is_numeric(n) {
