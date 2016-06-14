@@ -1,10 +1,5 @@
 <div class="row">
 	<div class="col-lg-12">
-		<h1 class="page-header">Painel Prog</h1>
-	</div>
-</div>
-<div class="row">
-	<div class="col-lg-12">
 		<button type="button" class="btn painel-option" data-option="bootstrap">Bootstrap</button>
 		<button type="button" class="btn painel-option" data-option="calculadora">Calculadora</button>
 		<button type="button" class="btn painel-option" data-option="cores">Cores</button>
@@ -13,7 +8,6 @@
 </div>
 <div class="row">
 	<div class="col-lg-12" id="base-content"></div>
-	
 </div>
 
 
