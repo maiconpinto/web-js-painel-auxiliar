@@ -38,6 +38,13 @@ window.open('http://cep.guiamais.com.br/busca/'+encodeURI(str_busca), '_blank');
 //######## TRADUTORES ########
 google...
 
+//######## INTERFACE SORTEIO ########
+>lista de teclas para competidores em um pc
+>foco em campo input
+>observar keydown e mostrar tecla
+>contador de tempo para definir queima antecipada, tempo de resposta
+>contador pode ser segundos normal ou semáforo com tempo random, corridas de arrancada
+
 
 #Painel comparativo
 tabela de comparativo, coluna vertical são critérios, coluna horizontal são elementos avaliados
