@@ -14,16 +14,7 @@ var obj_base = {
 		el_content.find('.painel-option').click(function(){
 			var base_content = el_content.find('#base-content');
 			var painel_option = $(this).data('option');
-			
-			if(painel_option == 'bootstrap'){
-				obj_bootstrap.Init(base_content);
-			} else if(painel_option == 'calculadora'){
-				obj_calculadora.Init(base_content);
-			} else if(painel_option == 'cores'){
-				obj_cores.Init(base_content);
-			} else if(painel_option == 'busca_painel'){
-				obj_busca_painel.Init(base_content);
-			}
+			eval('obj_'+painel_option).Init(base_content);
 		});
 	}
 }
