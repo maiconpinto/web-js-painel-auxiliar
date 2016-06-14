@@ -11,7 +11,7 @@
 
 </style>
 <div class="row">
-	<div class="col-md-2 col-xs-12" id="estrutura-calc">
+	<div class="col-lg-2" id="estrutura-calc">
 		<div class="panel panel-default">
 	        <div class="panel-heading">Calculadora</div>
 	        <div class="panel-body">
@@ -35,46 +35,46 @@
 				</div>
 
 				<div class="row">
-					<div class="col-lg-3 nopadding">
+					<div class="col-xs-3 nopadding">
 						<button type="button" class="btn btn-lg btn-block btn-info btn-num-calc" data-comando="4">4</button>
 					</div>
-					<div class="col-lg-3 nopadding">
+					<div class="col-xs-3 nopadding">
 						<button type="button" class="btn btn-lg btn-block btn-info btn-num-calc" data-comando="5">5</button>
 					</div>
-					<div class="col-lg-3 nopadding">
+					<div class="col-xs-3 nopadding">
 						<button type="button" class="btn btn-lg btn-block btn-info btn-num-calc" data-comando="6">6</button>
 					</div>
-					<div class="col-lg-3 nopadding">
+					<div class="col-xs-3 nopadding">
 						<button type="button" class="btn btn-lg btn-block btn-default btn-num-calc" data-comando="-">-</button>
 					</div>
 				</div>
 
 				<div class="row">
-					<div class="col-lg-3 nopadding">
+					<div class="col-xs-3 nopadding">
 						<button type="button" class="btn btn-lg btn-block btn-info btn-num-calc" data-comando="1">1</button>
 					</div>
-					<div class="col-lg-3 nopadding">
+					<div class="col-xs-3 nopadding">
 						<button type="button" class="btn btn-lg btn-block btn-info btn-num-calc" data-comando="2">2</button>
 					</div>
-					<div class="col-lg-3 nopadding">
+					<div class="col-xs-3 nopadding">
 						<button type="button" class="btn btn-lg btn-block btn-info btn-num-calc" data-comando="3">3</button>
 					</div>
-					<div class="col-lg-3 nopadding">
+					<div class="col-xs-3 nopadding">
 						<button type="button" class="btn btn-lg btn-block btn-default btn-num-calc" data-comando="*">X</button>
 					</div>
 				</div>
 
 				<div class="row">
-					<div class="col-lg-3 nopadding">
+					<div class="col-xs-3 nopadding">
 						<button type="button" class="btn btn-lg btn-block btn-warning btn-num-calc" data-comando="c">C</button>
 					</div>
-					<div class="col-lg-3 nopadding">
+					<div class="col-xs-3 nopadding">
 						<button type="button" class="btn btn-lg btn-block btn-info btn-num-calc" data-comando="0">0</button>
 					</div>
-					<div class="col-lg-3 nopadding">
+					<div class="col-xs-3 nopadding">
 						<button type="button" class="btn btn-lg btn-block btn-default btn-num-calc" data-comando="=">=</button>
 					</div>
-					<div class="col-lg-3 nopadding">
+					<div class="col-xs-3 nopadding">
 						<button type="button" class="btn btn-lg btn-block btn-default btn-num-calc" data-comando="/">/</button>
 					</div>
 				</div>

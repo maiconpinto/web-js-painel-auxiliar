@@ -6,7 +6,7 @@ var obj_calculadora = {
 		var self = this;
 		var url = this.Url('form');
 
-		$.post(url, {}, function (html_view) {
+		$.post(url, {teste: 'casa'}, function (html_view) {
 			el_local.html(html_view);
 			self.Render(el_local);
 		});
