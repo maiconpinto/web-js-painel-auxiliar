@@ -11,15 +11,22 @@ function obj_serial(){
    return 'id-'+numS;
 }
 
-function mk_panel(id, content){
+function mk_panel(id, tamanho){
    if(id != undefined){
       var objDiv = document.createElement('div');
-      objDiv.className = 'col-lg-4 app-painel'
+      objDiv.className = 'app-painel '+tamanho;
       objDiv.id = id;
-      objDiv.innerHTML = content;
       return objDiv;
    }
    return false;
+}
+
+function randomIntFromInterval(min,max){
+    return Math.floor(Math.random()*(max-min+1)+min);
+}
+
+function mod(dividendo,divisor) {
+   return Math.round(dividendo - (Math.floor(dividendo/divisor)*divisor));
 }
 
 function is_numeric(n) {
