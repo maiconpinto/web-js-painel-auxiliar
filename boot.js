@@ -21,6 +21,8 @@
 		'controllers/cores',
 		'controllers/busca_painel',
 		'controllers/busca',
+		'controllers/item',
+		'controllers/item_teste',
 	], function() {
 		var el_local = $('#painel-content');
 		obj_base.Init(el_local);

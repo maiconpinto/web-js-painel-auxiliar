@@ -16,5 +16,12 @@ var obj_base = {
 			var painel_option = $(this).data('option');
 			eval('obj_'+painel_option).Init(base_content);
 		});
+
+		el_content.find('.item-painel').click(function(){
+			var item_list = el_content.find('#item-list');
+			var item_option = $(this).data('option');
+			obj_item.Init(item_list, item_option);
+			
+		});
 	}
 }

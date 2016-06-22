@@ -5,10 +5,21 @@ function url_view(tela, view){
 
 function obj_serial(){
    var numS = '';
-   //while($('id-'+numS).length > 0){
+   //while($('id-'+numS).length > 0){ // testar novamente e implementar
       numS = Math.floor((Math.random() * 1000) + 1);
    //}
    return 'id-'+numS;
+}
+
+function mk_panel(id, content){
+   if(id != undefined){
+      var objDiv = document.createElement('div');
+      objDiv.className = 'col-lg-4 app-painel'
+      objDiv.id = id;
+      objDiv.innerHTML = content;
+      return objDiv;
+   }
+   return false;
 }
 
 function is_numeric(n) {
