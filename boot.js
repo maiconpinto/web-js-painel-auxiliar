@@ -23,6 +23,7 @@
 		'controllers/busca',
 		'controllers/item',
 		'controllers/item_teste',
+		'controllers/gerador_docs'
 	], function() {
 		var el_local = $('#painel-content');
 		obj_base.Init(el_local);
