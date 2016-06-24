@@ -2,6 +2,8 @@ define(
 	["jquery", "func", "func_search", "bootstrap"],
 	function ($, func) {
 		return {
+			Title: 'Buscar',
+			SizeClass: '',
 			Url: function(view){
 				return url_view('search',view);
 			},

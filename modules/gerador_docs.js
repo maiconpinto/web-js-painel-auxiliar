@@ -2,6 +2,7 @@ define(
 	["jquery", "func", "func_number", "bootstrap"],
 	function ($, func, func_number) {
 		return {
+			Title: 'Gerador Docs',
 			Url: function(view){
 				return url_view('gerador_docs',view);
 			},
