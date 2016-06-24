@@ -3,29 +3,20 @@
 
 	require.config({  
 		name: 'Painel',
+		baseUrl: "modules",
 		paths: {
-			'jquery': 'assets/js/jquery-2.2.4.min',
-			'bootstrap': 'assets/bootstrap/dist/js/bootstrap.min',
-			'metisMenu': 'assets/metisMenu/dist/metisMenu.min',
+			'jquery': '../assets/js/jquery-2.2.4.min',
+			'bootstrap': '../assets/bootstrap/dist/js/bootstrap.min',
+			'metisMenu': '../assets/metisMenu/dist/metisMenu.min',
+			'func' : '../assets/js/func',
+			'func_date' : '../assets/js/func_date',
+			'func_number' : '../assets/js/func_number',
+			'func_search' : '../assets/js/func_search'
 		}
 	});
 
-	require([
-		'jquery',
-		'bootstrap',
-		'metisMenu',
-		'assets/js/functions',
-		'controllers/base',
-		'controllers/bootstrap',
-		'controllers/calculadora',
-		'controllers/cores',
-		'controllers/busca_painel',
-		'controllers/busca',
-		'controllers/item',
-		'controllers/item_teste',
-		'controllers/gerador_docs'
-	], function() {
+	require(['jquery', 'interface'], function($, Interface){
 		var el_local = $('#painel-content');
-		obj_base.Init(el_local);
+		Interface.Init(el_local);
 	});
 })();
