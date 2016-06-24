@@ -20,22 +20,26 @@ define(
 					objPanelJq.html(html_view);
 
 					// call module and config panel
-					self.LoadModule(objPanelJq, module_option);
+					self.LoadModule(objPanelJq, module_option, objDiv);
 				});
 			},
-			LoadModule: function(el_content, module_option){
+			LoadModule: function(el_content, module_option, objDiv){
 				var self = this;
-
-				// config details panel
-				el_content.find('#item-titulo').html('teste titulo fixo');
-				el_content.find('#btn-item-fechar').click(function(){
-					alert('fechar item!');
-				});
 
 				// make content panel with module
 				var el_item_option = el_content.find('#item-content');
 				require([module_option], function(module_option){
 					module_option.Init(el_item_option);
+
+					var title = 'Painel';
+					if(typeof module_option.Title != 'undefined'){
+						title = module_option.Title;
+					}
+					// config details panel
+					el_content.find('#item-titulo').html(title);
+					el_content.find('#btn-item-fechar').click(function(){
+						objDiv.parentNode.removeChild(objDiv);
+					});
 				});
 			}
 		}
