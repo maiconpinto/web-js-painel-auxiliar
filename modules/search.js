@@ -54,7 +54,6 @@ define(
 				}
 			},
 			BuscarGeral: function(str_busca){
-				alert('c');
 				search_all(str_busca);
 			},
 			BuscarWhois: function(str_busca){
