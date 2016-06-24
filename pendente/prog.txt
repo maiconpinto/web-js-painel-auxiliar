@@ -1,4 +1,15 @@
 
+func_search
+define(
+	["jquery", "func", "func_number", "bootstrap"],
+	function ($, func, func_number) {
+		return {
+		}
+	}
+);
+
+
+
 Caracteres html
 https://www.ime.usp.br/~glauber/html/acentos.htm
 
