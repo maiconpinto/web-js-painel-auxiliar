@@ -3,7 +3,7 @@ define(
 	function ($, func) {
 		return {
 			Title: 'Buscar',
-			SizeClass: '',
+			SizeClass: 'col-lg-4',
 			Url: function(view){
 				return url_view('search',view);
 			},
