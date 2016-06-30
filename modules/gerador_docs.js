@@ -3,6 +3,7 @@ define(
 	function ($, func, func_number) {
 		return {
 			Title: 'Gerador Docs',
+			SizeClass: 'col-lg-4',
 			Url: function(view){
 				return url_view('gerador_docs',view);
 			},
