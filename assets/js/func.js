@@ -11,10 +11,10 @@ function obj_serial(){
    return 'id-'+numS;
 }
 
-function mk_panel(id, tamanho){
+function mk_panel(id){
    if(id != undefined){
       var objDiv = document.createElement('div');
-      objDiv.className = 'app-painel '+tamanho;
+      objDiv.className = 'app-painel';
       objDiv.id = id;
       return objDiv;
    }

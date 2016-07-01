@@ -11,7 +11,7 @@ define(
 				var objSerial = obj_serial();
 
 				// make div to model
-				var objDiv = mk_panel(objSerial,'col-lg-4'); // controle do tamanho
+				var objDiv = mk_panel(objSerial); // controle do tamanho
 				el_list.append(objDiv);
 				var objPanelJq = el_list.find('#'+objSerial);
 
@@ -20,6 +20,7 @@ define(
 					objPanelJq.html(html_view);
 
 					// call module and config panel
+					objPanelJq.hide();
 					self.LoadModule(objPanelJq, module_option, objDiv);
 				});
 			},
@@ -35,11 +36,19 @@ define(
 					if(typeof module_option.Title != 'undefined'){
 						title = module_option.Title;
 					}
+
+					var sizePanel = 'col-lg-4';
+					if(typeof module_option.SizeClass != 'undefined'){
+						sizePanel = module_option.SizeClass;
+					}
+
 					// config details panel
 					el_content.find('#item-titulo').html(title);
+					el_content.addClass(sizePanel);
 					el_content.find('#btn-item-fechar').click(function(){
 						objDiv.parentNode.removeChild(objDiv);
 					});
+					el_content.show();
 				});
 			}
 		}
