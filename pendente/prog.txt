@@ -8,6 +8,8 @@ define(
 	}
 );
 
+//##### Montar ASCII ART Text #######
+http://patorjk.com/software/taag/#p=display&f=Graffiti&t=
 
 
 Caracteres html
