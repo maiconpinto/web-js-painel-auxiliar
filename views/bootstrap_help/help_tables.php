@@ -4,6 +4,120 @@
 	</div>
 </div>
 
+<div class="row">
+    <div class="col-lg-12">
+        <div class="panel panel-default">
+            <div class="panel-heading">
+                Texto
+            </div>
+            <!-- /.panel-heading -->
+            <div class="panel-body">
+                <div class="row">
+                    <div class="col-lg-12">
+                        <p class="text-left">Left aligned text.</p>
+                        <p class="text-center">Center aligned text.</p>
+                        <p class="text-right">Right aligned text.</p>
+                        <p class="text-justify">Justified text.</p>
+                        <p class="text-nowrap">No wrap text.</p>
+                    </div>
+                </div>
+                <hr>
+                <div class="row">
+                    <div class="col-lg-12">
+                        <p class="text-lowercase">Lowercased text.</p>
+                        <p class="text-uppercase">Uppercased text.</p>
+                        <p class="text-capitalize">Capitalized text.</p>
+                    </div>
+                </div>
+                <hr>
+                <div class="row">
+                    <div class="col-lg-12">
+                        <p>Abreviando <abbr title="Structure query la lalala">SQL</abbr> para um teste.</p>
+                    </div>
+                </div>
+                <hr>
+                <div class="row">
+                    <div class="col-lg-12">
+                        <address>
+                          <strong>Twitter, Inc.</strong><br>
+                          1355 Market Street, Suite 900<br>
+                          San Francisco, CA 94103<br>
+                          <abbr title="Phone">P:</abbr> (123) 456-7890
+                        </address>
+
+                        <address>
+                          <strong>Full Name</strong><br>
+                          <a href="mailto:#">first.last@example.com</a>
+                        </address>
+                    </div>
+                </div>
+                <hr>
+                <div class="row">
+                    <div class="col-lg-12">
+                        <blockquote class="blockquote-reverse">
+                          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer posuere erat a ante.</p>
+                          <footer>Someone famous in <cite title="Source Title">Source Title</cite></footer>
+                        </blockquote>
+                    </div>
+                </div>
+                <hr>
+                <div class="row">
+                    <div class="col-lg-12">
+                        <ol>
+                          <li>Ordem item automar</li>
+                          <li>veja que esse é o 2</li>
+                          <li>facil</li>
+                        </ol>
+                    </div>
+                </div>
+                <hr>
+                <div class="row">
+                    <div class="col-lg-12">
+                        <ul class="list-inline">
+                          <li>item na mesma linha</li>
+                          <li>outro item</li>
+                          <li>dif outro</li>
+                        </ul>
+                    </div>
+                </div>
+                <hr>
+                <div class="row">
+                    <div class="col-lg-12">
+                        <dl> <!-- class="dl-horizontal" -->
+                          <dt>titulo</dt>
+                          <dd>texto sobre o assunto</dd>
+                        </dl>
+                        <dl>
+                          <dt>titulo sobre outro assunto</dt>
+                          <dd>descrição do segundo...</dd>
+                        </dl>
+                    </div>
+                </div>
+                <hr>
+                <div class="row">
+                    <div class="col-lg-12">
+                        <p>For example, <code>&lt;section&gt;</code> should be wrapped as inline.</p>
+                        <p>To edit settings, press <kbd><kbd>ctrl</kbd> + <kbd>,</kbd></kbd></p>
+                        <p>Texto teste teste, teste, <u>teste</u>, <em>teste 2</em>, <s>texto teste</s>.</p>
+                    </div>
+                </div>
+                <hr>
+                <div class="row">
+                    <div class="col-lg-12">
+                        <h1>h1. Bootstrap heading <small>Secondary text</small></h1>
+                        <h2>h2. Bootstrap heading <small>Secondary text</small></h2>
+                        <h3>h3. Bootstrap heading <small>Secondary text</small></h3>
+                        <h4>h4. Bootstrap heading <small>Secondary text</small></h4>
+                        <h5>h5. Bootstrap heading <small>Secondary text</small></h5>
+                        <h6>h6. Bootstrap heading <small>Secondary text</small></h6>
+                    </div>
+                </div>
+
+            </div>
+        </div>
+    </div>
+</div>
+
 
 
 <!-- /.row -->

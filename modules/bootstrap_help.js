@@ -4,6 +4,9 @@ define(
 		return {
 			Title: 'Bootstrap Help',
 			SizeClass: 'col-lg-12',
+			ListLink: {
+				'Bootstrap': 'http://getbootstrap.com/css/',
+				'Alexanmtz git io': 'http://alexanmtz.github.io/bootstrap/components.html'},
 			Url: function(view){
 				return url_view('bootstrap_help',view);
 			},
