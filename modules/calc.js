@@ -2,6 +2,8 @@ define(
 	["jquery", "func", "func_number", "bootstrap"],
 	function ($, func, func_number) {
 		return {
+			Title: 'Calculadora',
+			SizeClass: 'col-lg-3',
 			Url: function(view){
 				return url_view('calc',view);
 			},
@@ -15,10 +17,6 @@ define(
 				});
 			},
 			Render: function(el_content){
-				var self = this;
-				self.RenderCalc(el_content.find('#estrutura-calc'));
-			},
-			RenderCalc: function(el_content){
 				var self = this;
 				el_content.find('.btn-num-calc').click(function(){
 					var comando = $(this).data('comando');
