@@ -2,6 +2,8 @@ define(
 	["jquery", "func", "bootstrap"],
 	function ($, func) {
 		return {
+			Title: 'Bootstrap Help',
+			SizeClass: 'col-lg-12',
 			Url: function(view){
 				return url_view('bootstrap_help',view);
 			},
