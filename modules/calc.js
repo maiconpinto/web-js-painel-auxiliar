@@ -1,6 +1,6 @@
 define(
 	["jquery", "func", "func_number", "bootstrap"],
-	function ($, func, func_number) {
+	function ($) {
 		return {
 			Title: 'Calculadora',
 			SizeClass: 'col-lg-3',
