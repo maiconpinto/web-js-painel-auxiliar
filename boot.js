@@ -11,6 +11,7 @@
 			'func' : '../assets/js/func',
 			'func_date' : '../assets/js/func_date',
 			'func_number' : '../assets/js/func_number',
+			'func_cript' : '../assets/js/func_cript',
 			'func_search' : '../assets/js/func_search'
 		}
 	});
