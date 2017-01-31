@@ -1,6 +1,6 @@
 
 function url_view(tela, view){
-   return location+'views/'+tela+'/'+view+'.php';
+   return location+'modules/'+tela+'/'+view+'.php';
 }
 
 function obj_serial(){
