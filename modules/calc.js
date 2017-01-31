@@ -1,5 +1,5 @@
 define(
-	["jquery", "func", "func_number", "bootstrap"],
+	["jquery", "func_number"],
 	function ($) {
 		return {
 			Title: 'Calculadora',
@@ -33,12 +33,12 @@ define(
 			EventoComandoCalc: function(comando,el_content){
 				var result_calc = el_content.find('#result-calc');
 				if(comando == 'c'){
-					result_calc.val('');
+					result_calc.val('').focus();
 				} else if(comando == '='){
-					result_calc.val(eval(result_calc.val()));
+					result_calc.val(eval(result_calc.val())).focus();
 					//Calc.Input.value = eval(Calc.Input.value)
 				} else {
-					result_calc.val(result_calc.val()+comando);
+					result_calc.val(result_calc.val()+comando).focus();
 				}
 			}
 		}
