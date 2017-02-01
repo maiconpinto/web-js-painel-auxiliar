@@ -1,6 +1,6 @@
 <div class="row">
 	<div class="col-lg-12">
-		<input class="form-control" id="busc-texto" placeholder="www.pudim.com.br">
+		<input class="form-control" id="busc-texto" placeholder="rua teste n°254">
     </div>
 </div>
 <div class="row">

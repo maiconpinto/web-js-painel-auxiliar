@@ -19,3 +19,7 @@ function search_map(str) {
    web_open_new('https://maps.here.com/search/'+encodeURI(str));
    web_open_new('http://cep.guiamais.com.br/busca/'+encodeURI(str)); // cep
 }
+
+function search_translate(str, optDe, optPara) {
+   web_open_new('https://translate.google.com/#'+optDe+'/'+optPara+'/'+encodeURI(str));
+}

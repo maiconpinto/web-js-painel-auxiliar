@@ -49,10 +49,17 @@ define(
 
 				if(s_option == 'all'){
 					self.BuscarGeral(str_busca);
+
 				} else if(s_option == 'whois'){
 					self.BuscarWhois(str_busca);
+
 				} else if(s_option == 'map'){
 					self.BuscarMapa(str_busca);
+
+				} else if(s_option == 'translate'){
+					var optDe = el_content.find('select[id=opt-de]').val();
+					var optPara = el_content.find('select[id=opt-para]').val();
+					search_translate(str_busca, optDe, optPara);
 				}
 			},
 			BuscarGeral: function(str_busca){
