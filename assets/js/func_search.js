@@ -12,6 +12,14 @@ function search_whois(str) {
    web_open_new('http://www.whois.com/whois/'+str); //best
    web_open_new('http://who.is/whois/'+str);
    web_open_new('https://www.whois.net/'+str);
+
+   //análise técnica, seo, erros, melhorias, key words, estatísticas acesso, rank relevância
+   web_open_new('http://www.alexa.com/siteinfo/'+str); // 
+   web_open_new('https://moz.com/researchtools/ose/links?site='+str);
+   web_open_new('https://www.woorank.com/pt/www/'+str);
+   web_open_new('https://developers.google.com/speed/pagespeed/insights/?url='+str); //google velocidade
+   web_open_new('https://www.google.com/webmasters/tools/mobile-friendly/?url='+str); //google mobile
+   web_open_new('https://www.site-analyzer.com/en/analyze/'+str);
 }
 
 function search_map(str) {
