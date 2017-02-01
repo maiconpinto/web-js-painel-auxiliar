@@ -1,12 +1,4 @@
 
-func_search
-define(
-	["jquery", "func", "func_number", "bootstrap"],
-	function ($, func, func_number) {
-		return {
-		}
-	}
-);
 
 //##### Montar ASCII ART Text #######
 http://patorjk.com/software/taag/#p=display&f=Graffiti&t=
@@ -14,18 +6,6 @@ http://patorjk.com/software/taag/#p=display&f=Graffiti&t=
 
 Caracteres html
 https://www.ime.usp.br/~glauber/html/acentos.htm
-
-//##### Busca texto #######
-var str_busca = prompt('Buscar:');
-window.open('https://www.google.com.br/search?q='+encodeURI(str_busca), '_blank');
-window.open('http://www.bing.com/search?q='+encodeURI(str_busca), '_blank');
-
-// #### Buscar site #####
-var str_busca = prompt('Buscar:');
-//whois...
-window.open('http://www.whois.com/whois/'+str_busca, '_blank'); //melhor buscador
-window.open('http://who.is/whois/'+str_busca, '_blank');
-window.open('https://www.whois.net/'+str_busca, '_blank');
 
 //histórico
 window.open('http://web.archive.org/web/*/'+str_busca, '_blank');
@@ -37,19 +17,10 @@ window.open('https://developers.google.com/speed/pagespeed/insights/?url='+str_b
 window.open('https://www.google.com/webmasters/tools/mobile-friendly/?url='+str_busca, '_blank'); //google mobile
 window.open('https://www.site-analyzer.com/en/analyze/'+str_busca, '_blank');
 
-
 //######## Pessoas ########
 window.open('https://moz.com/followerwonk/analyze/'+str_busca, '_blank'); //twitter @realfetter então buscar realfetter
 window.open('https://foller.me/?name='+str_busca, '_blank'); //twitter @realfetter então buscar realfetter
 
-
-//######## Mapas, lugares, geografia ########
-window.open('https://www.google.com.br/maps/place/'+encodeURI(str_busca), '_blank');
-window.open('https://maps.here.com/search/'+encodeURI(str_busca), '_blank');
-window.open('http://cep.guiamais.com.br/busca/'+encodeURI(str_busca), '_blank'); // cep
-
-//######## TRADUTORES ########
-google...
 
 //######## Design #########
 https://color.adobe.com/
