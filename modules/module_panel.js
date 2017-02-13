@@ -42,9 +42,12 @@ define(
 						sizePanel = module_option.SizeClass;
 					}
 
+					//montando css do panel
+					el_content.addClass(sizePanel);
+					el_content.addClass('nopadding');
+
 					// config details panel
 					el_content.find('#item-titulo').html(title);
-					el_content.addClass(sizePanel);
 					el_content.find('#btn-item-fechar').click(function(){
 						objDiv.parentNode.removeChild(objDiv);
 					});

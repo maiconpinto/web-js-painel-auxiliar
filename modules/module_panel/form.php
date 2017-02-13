@@ -1,4 +1,4 @@
-<div class="col-lg-12">
+<div class="col-lg-12 min-padding">
 	<div class="panel panel-default">
         <div class="panel-heading">
         	<div class="row">
