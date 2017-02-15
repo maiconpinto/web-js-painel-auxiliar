@@ -18,6 +18,15 @@
     }
 }
 
+.navbar{
+    min-height: 30px;
+}
+
+.navbar-brand{
+    height: 30px;
+    padding: 5px 5px;
+}
+
 .navbar-top-links {
     margin-right: 0;
 }
@@ -123,7 +132,7 @@
         z-index: 1;
         position: absolute;
         width: 250px;
-        margin-top: 51px;
+        margin-top: 31px;
     }
 
     .navbar-top-links .dropdown-messages,
@@ -131,4 +140,8 @@
     .navbar-top-links .dropdown-alerts {
         margin-left: auto;
     }
+}
+
+.nav > li > a{
+    padding: 7px 10px;
 }
