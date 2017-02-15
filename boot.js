@@ -5,15 +5,20 @@
 		name: 'Painel',
 		baseUrl: "modules",
 		paths: {
-			'jquery': '../assets/js/jquery-2.2.4.min',
-			'bootstrap': '../assets/bootstrap/dist/js/bootstrap.min',
-			'metisMenu': '../assets/metisMenu/dist/metisMenu.min',
-			'func' : '../assets/js/func',
-			'func_date' : '../assets/js/func_date',
-			'func_number' : '../assets/js/func_number',
-			'func_cript' : '../assets/js/func_cript',
-			'func_search' : '../assets/js/func_search'
-		}
+			jquery : '../assets/js/jquery-2.2.4.min',
+			bootstrap : '../assets/bootstrap/dist/js/bootstrap.min',
+			metis_menu : '../assets/metisMenu/dist/metisMenu.min',
+			func : '../assets/js/func',
+			func_date : '../assets/js/func_date',
+			func_number : '../assets/js/func_number',
+			func_cript : '../assets/js/func_cript',
+			func_search : '../assets/js/func_search'
+		},
+		shim: {
+        	metis_menu: {
+            	deps: ['jquery']
+        	}
+    	}
 	});
 
 	require(['jquery', 'interface'], function($, Interface){
