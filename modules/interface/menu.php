@@ -1,72 +1,57 @@
 <?php
-
-	// [key chamada] = texto exibir descrição
 	$menuList = array(
 		'login' => 'Login',
-		'bootstrap_help' => 'Bootstrap',
+		'prog' => array(
+			'desc'=>'Programação',
+			'menu'=> array(
+				'bootstrap_help' => 'Bootstrap',
+				'cores' => 'Cores'
+			)
+		),
 		'calc' => 'Calculadora',
-		'cores' => 'Cores',
 		'search' => 'Busca',
 		'gerador_docs' => 'Gerar Docs',
-		'cript' => 'Cript'
+		'cript' => 'Criptografia'
 	);
-
 ?>
-<div class="navbar-default sidebar" role="navigation">
-	<div class="sidebar-nav navbar-collapse">
-		<ul class="nav" id="side-menu">
-			<?php foreach($menuList as $keyChamada => $descricao){ ?>
-				<li>
-					<a href="javascript:;" class="get-module" data-option="<?=$keyChamada?>"><?=$descricao?></a>
-				</li>
-			<?php } ?>
-			<!-- guardado para exemplo
-			<li> 
-				<a href="#">Cadastros <span class="fa arrow"></span></a>
-				<ul class="nav nav-second-level">
-					<li>
-						<a href="flot.html">Pessoas</a>
-					</li>
-					<li>
-						<a href="flot.html">Colaboradores</a>
-					</li>
-					<li>
-						<a href="flot.html">Clientes</a>
-					</li>
-					<li>
-						<a href="flot.html">Financeiro</a>
-					</li>
-					<li>
-						<a href="flot.html">Produtos</a>
-					</li>
-				</ul>
-			</li>
-			<li>
-				<a href="flot.html">Movimentos</a>
-			</li>
-			<li>
-				<a href="#"><i class="fa fa-bar-chart-o fa-fw"></i> Gráficos<span class="fa arrow"></span></a>
-				<ul class="nav nav-second-level">
-					<li>
-						<a href="flot.html">Vendas Bruto e Líquido</a>
-					</li>
-					<li>
-						<a href="flot.html">Inadimplentes(%)</a>
-					</li>
-				</ul>
-			</li>
-			<li>
-				<a href="#"><i class="fa fa-dashboard fa-fw"></i> BI<span class="fa arrow"></span></a>
-				<ul class="nav nav-second-level">
-					<li>
-						<a href="flot.html">Vendas Bruto e Líquido</a>
-					</li>
-					<li>
-						<a href="flot.html">DRE</a>
-					</li>
-				</ul>
-			</li -->
-		</ul>
+<nav class="navbar navbar-default navbar-static-top" role="navigation" style="margin-bottom: 0">
+	<div class="navbar-header">
+		<button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+			<span class="sr-only"></span>
+			<span class="icon-bar"></span>
+			<span class="icon-bar"></span>
+			<span class="icon-bar"></span>
+		</button>
+		<a class="navbar-brand" href="index.html">Painel Multifunção</a>
 	</div>
-	<!-- /.sidebar-collapse -->
-</div>
+	<div class="navbar-default sidebar" role="navigation">
+		<div class="sidebar-nav navbar-collapse">
+			<ul class="nav" id="side-menu">
+				<?php
+					foreach($menuList as $keyChamada => $descricao){
+						if(is_array($descricao)){
+				?>
+					<li> 
+						<a href="javascript:;"><?=$descricao['desc']?> <span class="fa arrow"></span></a>
+						<ul class="nav nav-second-level">
+							<?php foreach($descricao['menu'] as $subKeyChamada => $subDescricao){ ?>
+							<li>
+								<a href="javascript:;" class="get-module" data-option="<?=$subKeyChamada?>"><?=$subDescricao?></a>
+							</li>
+							<?php } ?>
+						</ul>
+					</li>
+				<?php
+						} else {
+				?>
+					<li>
+						<a href="javascript:;" class="get-module" data-option="<?=$keyChamada?>"><?=$descricao?></a>
+					</li>
+				<?php 
+						} 
+					}
+				?>
+			</ul>
+		</div>
+	</div>
+</nav>

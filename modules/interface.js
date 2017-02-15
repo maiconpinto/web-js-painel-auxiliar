@@ -1,5 +1,5 @@
 define(
-	["jquery", "func", "bootstrap", "metisMenu"],
+	["jquery", "func", "bootstrap", "metis_menu"],
 	function ($, func) {
 		return {
 			Url: function(view){

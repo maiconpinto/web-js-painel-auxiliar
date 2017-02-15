@@ -11,15 +11,17 @@
 		<link href="assets/bootstrap-social/bootstrap-social.css" rel="stylesheet">
 		<link href="assets/font-awesome/css/font-awesome.min.css" rel="stylesheet">
 		<link href="assets/metisMenu/dist/metisMenu.min.css" rel="stylesheet">
+		<link href="assets/css/page_estruture.css" rel="stylesheet" type="text/css">
 		<link href="assets/css/custom.css" rel="stylesheet" type="text/css">
 	</head>
 	<body>
-		<div id="wrapper">
+		<!-- <div id="wrapper">
 			<div id="page-wrapper">
 				<div class="container-fluid" id='painel-content'>
 				</div>
 			</div>
-		</div>
+		</div> -->
+		<div id="painel-content"></div>
 		
 		<script src="assets/js/require.js" data-main="boot"></script>
 	</body>
