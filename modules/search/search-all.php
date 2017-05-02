@@ -1,6 +1,12 @@
+<hr>
 <div class="row">
 	<div class="col-lg-12">
-	    <input class="form-control" id="busc-texto" placeholder="">
+	    <div class="input-group">
+	      <input type="text" class="form-control" id="busc-texto" placeholder="Buscar...">
+	      <span class="input-group-btn">
+	        <button class="btn btn-secondary" type="button">Buscar</button>
+	      </span>
+	    </div>
     </div>
 </div>
 <div class="row">

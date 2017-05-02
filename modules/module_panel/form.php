@@ -5,8 +5,8 @@
 	        	<div  id="item-titulo" class="col-lg-8"></div>
 	        	<div id="item-opt" class="col-lg-4">
 	        		<button type="button" id="btn-item-fechar" class="btn pull-right btn-xs">x</button>
-	        		<button type="button" id="btn-item-fechar" class="btn pull-right btn-xs">+</button>
-	        		<button type="button" id="btn-item-fechar" class="btn pull-right btn-xs">-</button>
+	        		<button type="button" id="btn-item-max" class="btn pull-right btn-xs">+</button>
+	        		<button type="button" id="btn-item-min" class="btn pull-right btn-xs">-</button>
 	        	</div>
 	        	<!-- <div class="col-lg-12">
 	        		<span id="item-titulo"></span>
