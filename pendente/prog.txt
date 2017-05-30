@@ -21,6 +21,8 @@ window.open('https://www.site-analyzer.com/en/analyze/'+str_busca, '_blank');
 window.open('https://moz.com/followerwonk/analyze/'+str_busca, '_blank'); //twitter @realfetter então buscar realfetter
 window.open('https://foller.me/?name='+str_busca, '_blank'); //twitter @realfetter então buscar realfetter
 
+//######## Programacao #########
+http://stackoverflow.com/search?q=teste
 
 //######## Design #########
 https://color.adobe.com/
