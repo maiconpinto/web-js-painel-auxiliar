@@ -1,17 +1,28 @@
 <?php
 	$menuList = array(
-		'login' => 'Login',
+		// 'login' => 'Login',
 		'prog' => array(
-			'desc'=>'Programação',
+			'desc'=>'Prog. Info',
 			'menu'=> array(
 				'bootstrap_help' => 'Bootstrap',
 				'cores' => 'Cores'
 			)
 		),
-		'calc' => 'Calculadora',
-		'search' => 'Busca',
-		'gerador_docs' => 'Gerar Docs',
-		'cript' => 'Criptografia'
+		'infos' => array(
+			'desc'=>'Informação',
+			'menu'=> array(
+				'search' => 'Busca',
+				'links' => 'Links'
+			)
+		),
+		'ferramentas' => array(
+			'desc'=>'Ferramentas',
+			'menu'=> array(
+				'gerador_docs' => 'CPF CNPJ',
+				'cript' => 'Criptografia',
+				'calc' => 'Calculadora',
+			)
+		)
 	);
 ?>
 

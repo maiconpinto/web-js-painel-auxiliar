@@ -15,6 +15,6 @@
 	</head>
 	<body>
 		<div id="painel-content"></div>
-		<script src="assets/js/require.js" data-main="boot"></script>
+		<script src="assets/js/require.js" data-main="modules/boot"></script>
 	</body>
 </html>

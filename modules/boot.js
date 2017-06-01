@@ -20,7 +20,7 @@
     	}
 	});
 
-	require(['jquery', 'interface', 'sys'], function($, Interface){
+	require(['jquery', 'interface'], function($, Interface){
 		var el_local = $('#painel-content');
 		Interface.Init(el_local);
 	});
