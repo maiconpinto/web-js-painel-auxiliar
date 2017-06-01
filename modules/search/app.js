@@ -5,7 +5,7 @@ define(
 			Url: function(view){
 				return url_view('search',view);
 			},
-			Init: function(el_local,tipo_busca){
+			Init: function(){
 				var self = this;
 				App.Modal({
 					title: 'Buscar',

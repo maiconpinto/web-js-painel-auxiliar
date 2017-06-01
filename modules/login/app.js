@@ -5,7 +5,7 @@ define(
 			Url: function(view){
 				return url_view('login',view);
 			},
-			Init: function(el_local){
+			Init: function(){
 				var self = this;
 				App.Modal({
 					title: 'Acesso Restrito',

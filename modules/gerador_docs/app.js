@@ -2,12 +2,10 @@ define(
 	["jquery", "app", "func", "func_number", "bootstrap"],
 	function ($, App) {
 		return {
-			Title: 'Gerador Docs',
-			SizeClass: 'col-lg-4',
 			Url: function(view){
 				return url_view('gerador_docs',view);
 			},
-			Init: function(el_local){
+			Init: function(){
 				var self = this;
 				App.Modal({
 					title: 'Gerador Docs',

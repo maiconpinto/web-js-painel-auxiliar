@@ -8,7 +8,7 @@ define(
 			Url: function(view){
 				return url_view('bootstrap_help',view);
 			},
-			Init: function(el_local){
+			Init: function(){
 				var self = this;
 				App.Modal({
 					title: 'Bootstrap Help',
