@@ -1,19 +1,19 @@
 define(
-	["jquery", "func", "func_search", "bootstrap"],
-	function ($, func) {
+	["jquery", "app", "func", "func_search", "bootstrap"],
+	function ($, App) {
 		return {
-			Title: 'Buscar',
-			SizeClass: 'col-lg-4',
 			Url: function(view){
 				return url_view('search',view);
 			},
 			Init: function(el_local,tipo_busca){
 				var self = this;
-				var url = this.Url('form');
-
-				$.post(url, {}, function (html_view) {
-					el_local.html(html_view);
-					self.Render(el_local);
+				App.Modal({
+					title: 'Buscar',
+					url: self.Url('form'),
+					size_class: 'col-lg-4',
+					callback: function(div){
+						self.Render(div);
+					}
 				});
 			},
 			Render: function(el_content){

@@ -1,9 +1,7 @@
 define(
-	["jquery", "func", "bootstrap"],
-	function ($, func) {
+	["jquery", "app", "func", "bootstrap"],
+	function ($, App) {
 		return {
-			Title: 'Bootstrap Help',
-			SizeClass: 'col-lg-12',
 			ListLink: {
 				'Bootstrap': 'http://getbootstrap.com/css/',
 				'Alexanmtz git io': 'http://alexanmtz.github.io/bootstrap/components.html'},
@@ -12,10 +10,13 @@ define(
 			},
 			Init: function(el_local){
 				var self = this;
-				var url = this.Url('form');
-				$.post(url, {}, function (html_view) {
-					el_local.html(html_view);
-					self.Render(el_local);
+				App.Modal({
+					title: 'Bootstrap Help',
+					url: self.Url('form'),
+					size_class: 'col-lg-12',
+					callback: function(div){
+						self.Render(div);
+					}
 				});
 			},
 			Render: function(el_content){

@@ -7,6 +7,7 @@
 		paths: {
 			jquery : '../assets/js/jquery-2.2.4.min',
 			bootstrap : '../assets/bootstrap/js/bootstrap.min',
+			app : '../assets/js/app',
 			func : '../assets/js/func',
 			func_date : '../assets/js/func_date',
 			func_number : '../assets/js/func_number',
@@ -20,7 +21,7 @@
     	}
 	});
 
-	require(['jquery', 'interface'], function($, Interface){
+	require(['jquery', 'interface/app'], function($, Interface){
 		var el_local = $('#painel-content');
 		Interface.Init(el_local);
 	});

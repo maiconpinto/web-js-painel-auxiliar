@@ -1,19 +1,19 @@
 define(
-	["jquery", "func", "bootstrap"],
-	function ($, func, func_number) {
+	["jquery", "app", "func", "bootstrap"],
+	function ($, App) {
 		return {
-			Title: 'Acesso Restrito',
-			SizeClass: 'col-lg-12',
 			Url: function(view){
 				return url_view('login',view);
 			},
 			Init: function(el_local){
 				var self = this;
-				var url = this.Url('form');
-
-				$.post(url, {}, function (html_view) {
-					el_local.html(html_view);
-					self.Render(el_local);
+				App.Modal({
+					title: 'Acesso Restrito',
+					url: self.Url('form'),
+					size_class: 'col-lg-12',
+					callback: function(div){
+						self.Render(div);
+					}
 				});
 			},
 			Render: function(el_content){
