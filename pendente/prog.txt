@@ -24,6 +24,9 @@ window.open('https://foller.me/?name='+str_busca, '_blank'); //twitter @realfett
 //######## Programacao #########
 http://stackoverflow.com/search?q=teste
 
+//######## Informacoes globais, humor mundo #########
+https://trends.google.com/trends/explore?date=today%2012-m&q=palavra%20de%20busca
+
 //######## Design #########
 https://color.adobe.com/
 http://www.flaticon.com/
