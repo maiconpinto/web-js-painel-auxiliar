@@ -12,6 +12,7 @@
 			'desc'=>'Informação',
 			'menu'=> array(
 				'search' => 'Busca',
+				'finance' => 'Financeiro',
 				'links' => 'Links'
 			)
 		),
