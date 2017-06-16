@@ -22,6 +22,8 @@
 				'gerador_docs' => 'CPF CNPJ',
 				'cript' => 'Criptografia',
 				'calc' => 'Calculadora',
+				'clima' => 'Clima',
+				'webcam' => 'Webcam',
 			)
 		)
 	);

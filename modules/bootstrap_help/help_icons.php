@@ -1,823 +1,2163 @@
-    <div class="row">
-        <div class="col-lg-12">
-            <h1 class="page-header">Icons</h1>
-        </div>
-        <!-- /.col-lg-12 -->
+<div class="row">
+    <div class="col-lg-12">
+        <h1 class="page-header">Icons (font-awesome)</h1>
     </div>
-    <!-- /.row -->
-    <div class="row">
-        <div class="col-lg-12">
-            <div class="panel panel-default">
-                <div class="panel-heading">
-                    All available icons (font-awesome)
-                </div>
-                <div class="panel-body">
-                    <div class="row">
-                        <div class="fa col-lg-3">
-                            <p class="fa fa-glass"> fa-glass </p><br/>
-                            <p class="fa fa-music"> fa-music </p><br/>
-                            <p class="fa fa-search"> fa-search </p><br/>
-                            <p class="fa fa-envelope-o"> fa-envelope-o </p><br/>
-                            <p class="fa fa-heart"> fa-heart </p><br/>
-                            <p class="fa fa-star"> fa-star </p><br/>
-                            <p class="fa fa-star-o"> fa-star-o </p><br/>
-                            <p class="fa fa-user"> fa-user </p><br/>
-                            <p class="fa fa-film"> fa-film </p><br/>
-                            <p class="fa fa-th-large"> fa-th-large </p><br/>
-                            <p class="fa fa-th"> fa-th </p><br/>
-                            <p class="fa fa-th-list"> fa-th-list </p><br/>
-                            <p class="fa fa-check"> fa-check </p><br/>
-                            <p class="fa fa-times"> fa-times </p><br/>
-                            <p class="fa fa-search-plus"> fa-search-plus </p><br/>
-                            <p class="fa fa-search-minus"> fa-search-minus </p><br/>
-                            <p class="fa fa-power-off"> fa-power-off </p><br/>
-                            <p class="fa fa-signal"> fa-signal </p><br/>
-                            <p class="fa fa-gear"> fa-gear </p><br/>
-                            <p class="fa fa-cog"> fa-cog </p><br/>
-                            <p class="fa fa-trash-o"> fa-trash-o </p><br/>
-                            <p class="fa fa-home"> fa-home </p><br/>
-                            <p class="fa fa-file-o"> fa-file-o </p><br/>
-                            <p class="fa fa-clock-o"> fa-clock-o </p><br/>
-                            <p class="fa fa-road"> fa-road </p><br/>
-                            <p class="fa fa-download"> fa-download </p><br/>
-                            <p class="fa fa-arrow-circle-o-down"> fa-arrow-circle-o-down </p><br/>
-                            <p class="fa fa-arrow-circle-o-up"> fa-arrow-circle-o-up </p><br/>
-                            <p class="fa fa-inbox"> fa-inbox </p><br/>
-                            <p class="fa fa-play-circle-o"> fa-play-circle-o </p><br/>
-                            <p class="fa fa-rotate-right"> fa-rotate-right </p><br/>
-                            <p class="fa fa-repeat"> fa-repeat </p><br/>
-                            <p class="fa fa-refresh"> fa-refresh </p><br/>
-                            <p class="fa fa-list-alt"> fa-list-alt </p><br/>
-                            <p class="fa fa-lock"> fa-lock </p><br/>
-                            <p class="fa fa-flag"> fa-flag </p><br/>
-                            <p class="fa fa-headphones"> fa-headphones </p><br/>
-                            <p class="fa fa-volume-off"> fa-volume-off </p><br/>
-                            <p class="fa fa-volume-down"> fa-volume-down </p><br/>
-                            <p class="fa fa-volume-up"> fa-volume-up </p><br/>
-                            <p class="fa fa-qrcode"> fa-qrcode </p><br/>
-                            <p class="fa fa-barcode"> fa-barcode </p><br/>
-                            <p class="fa fa-tag"> fa-tag </p><br/>
-                            <p class="fa fa-tags"> fa-tags </p><br/>
-                            <p class="fa fa-book"> fa-book </p><br/>
-                            <p class="fa fa-bookmark"> fa-bookmark </p><br/>
-                            <p class="fa fa-print"> fa-print </p><br/>
-                            <p class="fa fa-camera"> fa-camera </p><br/>
-                            <p class="fa fa-font"> fa-font </p><br/>
-                            <p class="fa fa-bold"> fa-bold </p><br/>
-                            <p class="fa fa-italic"> fa-italic </p><br/>
-                            <p class="fa fa-text-height"> fa-text-height </p><br/>
-                            <p class="fa fa-text-width"> fa-text-width </p><br/>
-                            <p class="fa fa-align-left"> fa-align-left </p><br/>
-                            <p class="fa fa-align-center"> fa-align-center </p><br/>
-                            <p class="fa fa-align-right"> fa-align-right </p><br/>
-                            <p class="fa fa-align-justify"> fa-align-justify </p><br/>
-                            <p class="fa fa-list"> fa-list </p><br/>
-                            <p class="fa fa-dedent"> fa-dedent </p><br/>
-                            <p class="fa fa-outdent"> fa-outdent </p><br/>
-                            <p class="fa fa-indent"> fa-indent </p><br/>
-                            <p class="fa fa-video-camera"> fa-video-camera </p><br/>
-                            <p class="fa fa-photo"> fa-photo </p><br/>
-                            <p class="fa fa-image"> fa-image </p><br/>
-                            <p class="fa fa-picture-o"> fa-picture-o </p><br/>
-                            <p class="fa fa-pencil"> fa-pencil </p><br/>
-                            <p class="fa fa-map-marker"> fa-map-marker </p><br/>
-                            <p class="fa fa-adjust"> fa-adjust </p><br/>
-                            <p class="fa fa-tint"> fa-tint </p><br/>
-                            <p class="fa fa-edit"> fa-edit </p><br/>
-                            <p class="fa fa-pencil-square-o"> fa-pencil-square-o </p><br/>
-                            <p class="fa fa-share-square-o"> fa-share-square-o </p><br/>
-                            <p class="fa fa-check-square-o"> fa-check-square-o </p><br/>
-                            <p class="fa fa-arrows"> fa-arrows </p><br/>
-                            <p class="fa fa-step-backward"> fa-step-backward </p><br/>
-                            <p class="fa fa-fast-backward"> fa-fast-backward </p><br/>
-                            <p class="fa fa-backward"> fa-backward </p><br/>
-                            <p class="fa fa-play"> fa-play </p><br/>
-                            <p class="fa fa-pause"> fa-pause </p><br/>
-                            <p class="fa fa-stop"> fa-stop </p><br/>
-                            <p class="fa fa-forward"> fa-forward </p><br/>
-                            <p class="fa fa-fast-forward"> fa-fast-forward </p><br/>
-                            <p class="fa fa-step-forward"> fa-step-forward </p><br/>
-                            <p class="fa fa-eject"> fa-eject </p><br/>
-                            <p class="fa fa-chevron-left"> fa-chevron-left </p><br/>
-                            <p class="fa fa-chevron-right"> fa-chevron-right </p><br/>
-                            <p class="fa fa-plus-circle"> fa-plus-circle </p><br/>
-                            <p class="fa fa-minus-circle"> fa-minus-circle </p><br/>
-                            <p class="fa fa-times-circle"> fa-times-circle </p><br/>
-                            <p class="fa fa-check-circle"> fa-check-circle </p><br/>
-                            <p class="fa fa-question-circle"> fa-question-circle </p><br/>
-                            <p class="fa fa-info-circle"> fa-info-circle </p><br/>
-                            <p class="fa fa-crosshairs"> fa-crosshairs </p><br/>
-                            <p class="fa fa-times-circle-o"> fa-times-circle-o </p><br/>
-                            <p class="fa fa-check-circle-o"> fa-check-circle-o </p><br/>
-                            <p class="fa fa-ban"> fa-ban </p><br/>
-                            <p class="fa fa-arrow-left"> fa-arrow-left </p><br/>
-                            <p class="fa fa-arrow-right"> fa-arrow-right </p><br/>
-                            <p class="fa fa-arrow-up"> fa-arrow-up </p><br/>
-                            <p class="fa fa-arrow-down"> fa-arrow-down </p><br/>
-                            <p class="fa fa-mail-forward"> fa-mail-forward </p><br/>
-                            <p class="fa fa-share"> fa-share </p><br/>
-                            <p class="fa fa-expand"> fa-expand </p><br/>
-                            <p class="fa fa-compress"> fa-compress </p><br/>
-                            <p class="fa fa-plus"> fa-plus </p><br/>
-                            <p class="fa fa-minus"> fa-minus </p><br/>
-                            <p class="fa fa-asterisk"> fa-asterisk </p><br/>
-                            <p class="fa fa-exclamation-circle"> fa-exclamation-circle </p><br/>
-                            <p class="fa fa-gift"> fa-gift </p><br/>
-                            <p class="fa fa-leaf"> fa-leaf </p><br/>
-                            <p class="fa fa-fire"> fa-fire </p><br/>
-                            <p class="fa fa-eye"> fa-eye </p><br/>
-                            <p class="fa fa-eye-slash"> fa-eye-slash </p><br/>
-                            <p class="fa fa-warning"> fa-warning </p><br/>
-                            <p class="fa fa-exclamation-triangle"> fa-exclamation-triangle </p><br/>
-                            <p class="fa fa-plane"> fa-plane </p><br/>
-                            <p class="fa fa-calendar"> fa-calendar </p><br/>
-                            <p class="fa fa-random"> fa-random </p><br/>
-                            <p class="fa fa-comment"> fa-comment </p><br/>
-                            <p class="fa fa-magnet"> fa-magnet </p><br/>
-                            <p class="fa fa-chevron-up"> fa-chevron-up </p><br/>
-                            <p class="fa fa-chevron-down"> fa-chevron-down </p><br/>
-                            <p class="fa fa-retweet"> fa-retweet </p><br/>
-                            <p class="fa fa-shopping-cart"> fa-shopping-cart </p><br/>
-                            <p class="fa fa-folder"> fa-folder </p><br/>
-                            <p class="fa fa-folder-open"> fa-folder-open </p><br/>
-                        </div>
-                        <!-- /.col-lg-6 (nested) -->
-                        <div class="fa col-lg-3">
-                            <p class="fa fa-arrows-v"> fa-arrows-v </p><br/>
-                            <p class="fa fa-arrows-h"> fa-arrows-h </p><br/>
-                            <p class="fa fa-bar-chart-o"> fa-bar-chart-o </p><br/>
-                            <p class="fa fa-twitter-square"> fa-twitter-square </p><br/>
-                            <p class="fa fa-facebook-square"> fa-facebook-square </p><br/>
-                            <p class="fa fa-camera-retro"> fa-camera-retro </p><br/>
-                            <p class="fa fa-key"> fa-key </p><br/>
-                            <p class="fa fa-gears"> fa-gears </p><br/>
-                            <p class="fa fa-cogs"> fa-cogs </p><br/>
-                            <p class="fa fa-comments"> fa-comments </p><br/>
-                            <p class="fa fa-thumbs-o-up"> fa-thumbs-o-up </p><br/>
-                            <p class="fa fa-thumbs-o-down"> fa-thumbs-o-down </p><br/>
-                            <p class="fa fa-star-half"> fa-star-half </p><br/>
-                            <p class="fa fa-heart-o"> fa-heart-o </p><br/>
-                            <p class="fa fa-sign-out"> fa-sign-out </p><br/>
-                            <p class="fa fa-linkedin-square"> fa-linkedin-square </p><br/>
-                            <p class="fa fa-thumb-tack"> fa-thumb-tack </p><br/>
-                            <p class="fa fa-external-link"> fa-external-link </p><br/>
-                            <p class="fa fa-sign-in"> fa-sign-in </p><br/>
-                            <p class="fa fa-trophy"> fa-trophy </p><br/>
-                            <p class="fa fa-github-square"> fa-github-square </p><br/>
-                            <p class="fa fa-upload"> fa-upload </p><br/>
-                            <p class="fa fa-lemon-o"> fa-lemon-o </p><br/>
-                            <p class="fa fa-phone"> fa-phone </p><br/>
-                            <p class="fa fa-square-o"> fa-square-o </p><br/>
-                            <p class="fa fa-bookmark-o"> fa-bookmark-o </p><br/>
-                            <p class="fa fa-phone-square"> fa-phone-square </p><br/>
-                            <p class="fa fa-twitter"> fa-twitter </p><br/>
-                            <p class="fa fa-facebook"> fa-facebook </p><br/>
-                            <p class="fa fa-github"> fa-github </p><br/>
-                            <p class="fa fa-unlock"> fa-unlock </p><br/>
-                            <p class="fa fa-credit-card"> fa-credit-card </p><br/>
-                            <p class="fa fa-rss"> fa-rss </p><br/>
-                            <p class="fa fa-hdd-o"> fa-hdd-o </p><br/>
-                            <p class="fa fa-bullhorn"> fa-bullhorn </p><br/>
-                            <p class="fa fa-bell"> fa-bell </p><br/>
-                            <p class="fa fa-certificate"> fa-certificate </p><br/>
-                            <p class="fa fa-hand-o-right"> fa-hand-o-right </p><br/>
-                            <p class="fa fa-hand-o-left"> fa-hand-o-left </p><br/>
-                            <p class="fa fa-hand-o-up"> fa-hand-o-up </p><br/>
-                            <p class="fa fa-hand-o-down"> fa-hand-o-down </p><br/>
-                            <p class="fa fa-arrow-circle-left"> fa-arrow-circle-left </p><br/>
-                            <p class="fa fa-arrow-circle-right"> fa-arrow-circle-right </p><br/>
-                            <p class="fa fa-arrow-circle-up"> fa-arrow-circle-up </p><br/>
-                            <p class="fa fa-arrow-circle-down"> fa-arrow-circle-down </p><br/>
-                            <p class="fa fa-globe"> fa-globe </p><br/>
-                            <p class="fa fa-wrench"> fa-wrench </p><br/>
-                            <p class="fa fa-tasks"> fa-tasks </p><br/>
-                            <p class="fa fa-filter"> fa-filter </p><br/>
-                            <p class="fa fa-briefcase"> fa-briefcase </p><br/>
-                            <p class="fa fa-arrows-alt"> fa-arrows-alt </p><br/>
-                            <p class="fa fa-group"> fa-group </p><br/>
-                            <p class="fa fa-users"> fa-users </p><br/>
-                            <p class="fa fa-chain"> fa-chain </p><br/>
-                            <p class="fa fa-link"> fa-link </p><br/>
-                            <p class="fa fa-cloud"> fa-cloud </p><br/>
-                            <p class="fa fa-flask"> fa-flask </p><br/>
-                            <p class="fa fa-cut"> fa-cut </p><br/>
-                            <p class="fa fa-scissors"> fa-scissors </p><br/>
-                            <p class="fa fa-copy"> fa-copy </p><br/>
-                            <p class="fa fa-files-o"> fa-files-o </p><br/>
-                            <p class="fa fa-paperclip"> fa-paperclip </p><br/>
-                            <p class="fa fa-save"> fa-save </p><br/>
-                            <p class="fa fa-floppy-o"> fa-floppy-o </p><br/>
-                            <p class="fa fa-square"> fa-square </p><br/>
-                            <p class="fa fa-navicon"> fa-navicon </p><br/>
-                            <p class="fa fa-reorder"> fa-reorder </p><br/>
-                            <p class="fa fa-bars"> fa-bars </p><br/>
-                            <p class="fa fa-list-ul"> fa-list-ul </p><br/>
-                            <p class="fa fa-list-ol"> fa-list-ol </p><br/>
-                            <p class="fa fa-strikethrough"> fa-strikethrough </p><br/>
-                            <p class="fa fa-underline"> fa-underline </p><br/>
-                            <p class="fa fa-table"> fa-table </p><br/>
-                            <p class="fa fa-magic"> fa-magic </p><br/>
-                            <p class="fa fa-truck"> fa-truck </p><br/>
-                            <p class="fa fa-pinterest"> fa-pinterest </p><br/>
-                            <p class="fa fa-pinterest-square"> fa-pinterest-square </p><br/>
-                            <p class="fa fa-google-plus-square"> fa-google-plus-square </p><br/>
-                            <p class="fa fa-google-plus"> fa-google-plus </p><br/>
-                            <p class="fa fa-money"> fa-money </p><br/>
-                            <p class="fa fa-caret-down"> fa-caret-down </p><br/>
-                            <p class="fa fa-caret-up"> fa-caret-up </p><br/>
-                            <p class="fa fa-caret-left"> fa-caret-left </p><br/>
-                            <p class="fa fa-caret-right"> fa-caret-right </p><br/>
-                            <p class="fa fa-columns"> fa-columns </p><br/>
-                            <p class="fa fa-unsorted"> fa-unsorted </p><br/>
-                            <p class="fa fa-sort"> fa-sort </p><br/>
-                            <p class="fa fa-sort-down"> fa-sort-down </p><br/>
-                            <p class="fa fa-sort-desc"> fa-sort-desc </p><br/>
-                            <p class="fa fa-sort-up"> fa-sort-up </p><br/>
-                            <p class="fa fa-sort-asc"> fa-sort-asc </p><br/>
-                            <p class="fa fa-envelope"> fa-envelope </p><br/>
-                            <p class="fa fa-linkedin"> fa-linkedin </p><br/>
-                            <p class="fa fa-rotate-left"> fa-rotate-left </p><br/>
-                            <p class="fa fa-undo"> fa-undo </p><br/>
-                            <p class="fa fa-legal"> fa-legal </p><br/>
-                            <p class="fa fa-gavel"> fa-gavel </p><br/>
-                            <p class="fa fa-dashboard"> fa-dashboard </p><br/>
-                            <p class="fa fa-tachometer"> fa-tachometer </p><br/>
-                            <p class="fa fa-comment-o"> fa-comment-o </p><br/>
-                            <p class="fa fa-comments-o"> fa-comments-o </p><br/>
-                            <p class="fa fa-flash"> fa-flash </p><br/>
-                            <p class="fa fa-bolt"> fa-bolt </p><br/>
-                            <p class="fa fa-sitemap"> fa-sitemap </p><br/>
-                            <p class="fa fa-umbrella"> fa-umbrella </p><br/>
-                            <p class="fa fa-paste"> fa-paste </p><br/>
-                            <p class="fa fa-clipboard"> fa-clipboard </p><br/>
-                            <p class="fa fa-lightbulb-o"> fa-lightbulb-o </p><br/>
-                            <p class="fa fa-exchange"> fa-exchange </p><br/>
-                            <p class="fa fa-cloud-download"> fa-cloud-download </p><br/>
-                            <p class="fa fa-cloud-upload"> fa-cloud-upload </p><br/>
-                            <p class="fa fa-user-md"> fa-user-md </p><br/>
-                            <p class="fa fa-stethoscope"> fa-stethoscope </p><br/>
-                            <p class="fa fa-suitcase"> fa-suitcase </p><br/>
-                            <p class="fa fa-bell-o"> fa-bell-o </p><br/>
-                            <p class="fa fa-coffee"> fa-coffee </p><br/>
-                            <p class="fa fa-cutlery"> fa-cutlery </p><br/>
-                            <p class="fa fa-file-text-o"> fa-file-text-o </p><br/>
-                            <p class="fa fa-building-o"> fa-building-o </p><br/>
-                            <p class="fa fa-hospital-o"> fa-hospital-o </p><br/>
-                            <p class="fa fa-ambulance"> fa-ambulance </p><br/>
-                            <p class="fa fa-medkit"> fa-medkit </p><br/>
-                            <p class="fa fa-fighter-jet"> fa-fighter-jet </p><br/>
-                            <p class="fa fa-beer"> fa-beer </p><br/>
-                            <p class="fa fa-h-square"> fa-h-square </p><br/>
-                            <p class="fa fa-plus-square"> fa-plus-square </p><br/>
-                        </div>
-                        <div class="fa col-lg-3">
-                            <p class="fa fa-angle-double-left"> fa-angle-double-left </p><br/>
-                            <p class="fa fa-angle-double-right"> fa-angle-double-right </p><br/>
-                            <p class="fa fa-angle-double-up"> fa-angle-double-up </p><br/>
-                            <p class="fa fa-angle-double-down"> fa-angle-double-down </p><br/>
-                            <p class="fa fa-angle-left"> fa-angle-left </p><br/>
-                            <p class="fa fa-angle-right"> fa-angle-right </p><br/>
-                            <p class="fa fa-angle-up"> fa-angle-up </p><br/>
-                            <p class="fa fa-angle-down"> fa-angle-down </p><br/>
-                            <p class="fa fa-desktop"> fa-desktop </p><br/>
-                            <p class="fa fa-laptop"> fa-laptop </p><br/>
-                            <p class="fa fa-tablet"> fa-tablet </p><br/>
-                            <p class="fa fa-mobile-phone"> fa-mobile-phone </p><br/>
-                            <p class="fa fa-mobile"> fa-mobile </p><br/>
-                            <p class="fa fa-circle-o"> fa-circle-o </p><br/>
-                            <p class="fa fa-quote-left"> fa-quote-left </p><br/>
-                            <p class="fa fa-quote-right"> fa-quote-right </p><br/>
-                            <p class="fa fa-spinner"> fa-spinner </p><br/>
-                            <p class="fa fa-circle"> fa-circle </p><br/>
-                            <p class="fa fa-mail-reply"> fa-mail-reply </p><br/>
-                            <p class="fa fa-reply"> fa-reply </p><br/>
-                            <p class="fa fa-github-alt"> fa-github-alt </p><br/>
-                            <p class="fa fa-folder-o"> fa-folder-o </p><br/>
-                            <p class="fa fa-folder-open-o"> fa-folder-open-o </p><br/>
-                            <p class="fa fa-smile-o"> fa-smile-o </p><br/>
-                            <p class="fa fa-frown-o"> fa-frown-o </p><br/>
-                            <p class="fa fa-meh-o"> fa-meh-o </p><br/>
-                            <p class="fa fa-gamepad"> fa-gamepad </p><br/>
-                            <p class="fa fa-keyboard-o"> fa-keyboard-o </p><br/>
-                            <p class="fa fa-flag-o"> fa-flag-o </p><br/>
-                            <p class="fa fa-flag-checkered"> fa-flag-checkered </p><br/>
-                            <p class="fa fa-terminal"> fa-terminal </p><br/>
-                            <p class="fa fa-code"> fa-code </p><br/>
-                            <p class="fa fa-mail-reply-all"> fa-mail-reply-all </p><br/>
-                            <p class="fa fa-reply-all"> fa-reply-all </p><br/>
-                            <p class="fa fa-star-half-empty"> fa-star-half-empty </p><br/>
-                            <p class="fa fa-star-half-full"> fa-star-half-full </p><br/>
-                            <p class="fa fa-star-half-o"> fa-star-half-o </p><br/>
-                            <p class="fa fa-location-arrow"> fa-location-arrow </p><br/>
-                            <p class="fa fa-crop"> fa-crop </p><br/>
-                            <p class="fa fa-code-fork"> fa-code-fork </p><br/>
-                            <p class="fa fa-unlink"> fa-unlink </p><br/>
-                            <p class="fa fa-chain-broken"> fa-chain-broken </p><br/>
-                            <p class="fa fa-question"> fa-question </p><br/>
-                            <p class="fa fa-info"> fa-info </p><br/>
-                            <p class="fa fa-exclamation"> fa-exclamation </p><br/>
-                            <p class="fa fa-superscript"> fa-superscript </p><br/>
-                            <p class="fa fa-subscript"> fa-subscript </p><br/>
-                            <p class="fa fa-eraser"> fa-eraser </p><br/>
-                            <p class="fa fa-puzzle-piece"> fa-puzzle-piece </p><br/>
-                            <p class="fa fa-microphone"> fa-microphone </p><br/>
-                            <p class="fa fa-microphone-slash"> fa-microphone-slash </p><br/>
-                            <p class="fa fa-shield"> fa-shield </p><br/>
-                            <p class="fa fa-calendar-o"> fa-calendar-o </p><br/>
-                            <p class="fa fa-fire-extinguisher"> fa-fire-extinguisher </p><br/>
-                            <p class="fa fa-rocket"> fa-rocket </p><br/>
-                            <p class="fa fa-maxcdn"> fa-maxcdn </p><br/>
-                            <p class="fa fa-chevron-circle-left"> fa-chevron-circle-left </p><br/>
-                            <p class="fa fa-chevron-circle-right"> fa-chevron-circle-right </p><br/>
-                            <p class="fa fa-chevron-circle-up"> fa-chevron-circle-up </p><br/>
-                            <p class="fa fa-chevron-circle-down"> fa-chevron-circle-down </p><br/>
-                            <p class="fa fa-html5"> fa-html5 </p><br/>
-                            <p class="fa fa-css3"> fa-css3 </p><br/>
-                            <p class="fa fa-anchor"> fa-anchor </p><br/>
-                            <p class="fa fa-unlock-alt"> fa-unlock-alt </p><br/>
-                            <p class="fa fa-bullseye"> fa-bullseye </p><br/>
-                            <p class="fa fa-ellipsis-h"> fa-ellipsis-h </p><br/>
-                            <p class="fa fa-ellipsis-v"> fa-ellipsis-v </p><br/>
-                            <p class="fa fa-rss-square"> fa-rss-square </p><br/>
-                            <p class="fa fa-play-circle"> fa-play-circle </p><br/>
-                            <p class="fa fa-ticket"> fa-ticket </p><br/>
-                            <p class="fa fa-minus-square"> fa-minus-square </p><br/>
-                            <p class="fa fa-minus-square-o"> fa-minus-square-o </p><br/>
-                            <p class="fa fa-level-up"> fa-level-up </p><br/>
-                            <p class="fa fa-level-down"> fa-level-down </p><br/>
-                            <p class="fa fa-check-square"> fa-check-square </p><br/>
-                            <p class="fa fa-pencil-square"> fa-pencil-square </p><br/>
-                            <p class="fa fa-external-link-square"> fa-external-link-square </p><br/>
-                            <p class="fa fa-share-square"> fa-share-square </p><br/>
-                            <p class="fa fa-compass"> fa-compass </p><br/>
-                            <p class="fa fa-toggle-down"> fa-toggle-down </p><br/>
-                            <p class="fa fa-caret-square-o-down"> fa-caret-square-o-down </p><br/>
-                            <p class="fa fa-toggle-up"> fa-toggle-up </p><br/>
-                            <p class="fa fa-caret-square-o-up"> fa-caret-square-o-up </p><br/>
-                            <p class="fa fa-toggle-right"> fa-toggle-right </p><br/>
-                            <p class="fa fa-caret-square-o-right"> fa-caret-square-o-right </p><br/>
-                            <p class="fa fa-euro"> fa-euro </p><br/>
-                            <p class="fa fa-eur"> fa-eur </p><br/>
-                            <p class="fa fa-gbp"> fa-gbp </p><br/>
-                            <p class="fa fa-dollar"> fa-dollar </p><br/>
-                            <p class="fa fa-usd"> fa-usd </p><br/>
-                            <p class="fa fa-rupee"> fa-rupee </p><br/>
-                            <p class="fa fa-inr"> fa-inr </p><br/>
-                            <p class="fa fa-cny"> fa-cny </p><br/>
-                            <p class="fa fa-rmb"> fa-rmb </p><br/>
-                            <p class="fa fa-yen"> fa-yen </p><br/>
-                            <p class="fa fa-jpy"> fa-jpy </p><br/>
-                            <p class="fa fa-ruble"> fa-ruble </p><br/>
-                            <p class="fa fa-rouble"> fa-rouble </p><br/>
-                            <p class="fa fa-rub"> fa-rub </p><br/>
-                            <p class="fa fa-won"> fa-won </p><br/>
-                            <p class="fa fa-krw"> fa-krw </p><br/>
-                            <p class="fa fa-bitcoin"> fa-bitcoin </p><br/>
-                            <p class="fa fa-btc"> fa-btc </p><br/>
-                            <p class="fa fa-file"> fa-file </p><br/>
-                            <p class="fa fa-file-text"> fa-file-text </p><br/>
-                            <p class="fa fa-sort-alpha-asc"> fa-sort-alpha-asc </p><br/>
-                            <p class="fa fa-sort-alpha-desc"> fa-sort-alpha-desc </p><br/>
-                            <p class="fa fa-sort-amount-asc"> fa-sort-amount-asc </p><br/>
-                            <p class="fa fa-sort-amount-desc"> fa-sort-amount-desc </p><br/>
-                            <p class="fa fa-sort-numeric-asc"> fa-sort-numeric-asc </p><br/>
-                            <p class="fa fa-sort-numeric-desc"> fa-sort-numeric-desc </p><br/>
-                            <p class="fa fa-thumbs-up"> fa-thumbs-up </p><br/>
-                            <p class="fa fa-thumbs-down"> fa-thumbs-down </p><br/>
-                            <p class="fa fa-youtube-square"> fa-youtube-square </p><br/>
-                            <p class="fa fa-youtube"> fa-youtube </p><br/>
-                            <p class="fa fa-xing"> fa-xing </p><br/>
-                            <p class="fa fa-xing-square"> fa-xing-square </p><br/>
-                            <p class="fa fa-youtube-play"> fa-youtube-play </p><br/>
-                            <p class="fa fa-dropbox"> fa-dropbox </p><br/>
-                            <p class="fa fa-stack-overflow"> fa-stack-overflow </p><br/>
-                            <p class="fa fa-instagram"> fa-instagram </p><br/>
-                            <p class="fa fa-flickr"> fa-flickr </p><br/>
-                            <p class="fa fa-adn"> fa-adn </p><br/>
-                            <p class="fa fa-bitbucket"> fa-bitbucket </p><br/>
-                            <p class="fa fa-bitbucket-square"> fa-bitbucket-square </p><br/>
-                            <p class="fa fa-tumblr"> fa-tumblr </p><br/>
-                        </div>
-                        <div class="fa col-lg-3">
-                            <p class="fa fa-tumblr-square"> fa-tumblr-square </p><br/>
-                            <p class="fa fa-long-arrow-down"> fa-long-arrow-down </p><br/>
-                            <p class="fa fa-long-arrow-up"> fa-long-arrow-up </p><br/>
-                            <p class="fa fa-long-arrow-left"> fa-long-arrow-left </p><br/>
-                            <p class="fa fa-long-arrow-right"> fa-long-arrow-right </p><br/>
-                            <p class="fa fa-apple"> fa-apple </p><br/>
-                            <p class="fa fa-windows"> fa-windows </p><br/>
-                            <p class="fa fa-android"> fa-android </p><br/>
-                            <p class="fa fa-linux"> fa-linux </p><br/>
-                            <p class="fa fa-dribbble"> fa-dribbble </p><br/>
-                            <p class="fa fa-skype"> fa-skype </p><br/>
-                            <p class="fa fa-foursquare"> fa-foursquare </p><br/>
-                            <p class="fa fa-trello"> fa-trello </p><br/>
-                            <p class="fa fa-female"> fa-female </p><br/>
-                            <p class="fa fa-male"> fa-male </p><br/>
-                            <p class="fa fa-gittip"> fa-gittip </p><br/>
-                            <p class="fa fa-sun-o"> fa-sun-o </p><br/>
-                            <p class="fa fa-moon-o"> fa-moon-o </p><br/>
-                            <p class="fa fa-archive"> fa-archive </p><br/>
-                            <p class="fa fa-bug"> fa-bug </p><br/>
-                            <p class="fa fa-vk"> fa-vk </p><br/>
-                            <p class="fa fa-weibo"> fa-weibo </p><br/>
-                            <p class="fa fa-renren"> fa-renren </p><br/>
-                            <p class="fa fa-pagelines"> fa-pagelines </p><br/>
-                            <p class="fa fa-stack-exchange"> fa-stack-exchange </p><br/>
-                            <p class="fa fa-arrow-circle-o-right"> fa-arrow-circle-o-right </p><br/>
-                            <p class="fa fa-arrow-circle-o-left"> fa-arrow-circle-o-left </p><br/>
-                            <p class="fa fa-toggle-left"> fa-toggle-left </p><br/>
-                            <p class="fa fa-caret-square-o-left"> fa-caret-square-o-left </p><br/>
-                            <p class="fa fa-dot-circle-o"> fa-dot-circle-o </p><br/>
-                            <p class="fa fa-wheelchair"> fa-wheelchair </p><br/>
-                            <p class="fa fa-vimeo-square"> fa-vimeo-square </p><br/>
-                            <p class="fa fa-turkish-lira"> fa-turkish-lira </p><br/>
-                            <p class="fa fa-try"> fa-try </p><br/>
-                            <p class="fa fa-plus-square-o"> fa-plus-square-o </p><br/>
-                            <p class="fa fa-space-shuttle"> fa-space-shuttle </p><br/>
-                            <p class="fa fa-slack"> fa-slack </p><br/>
-                            <p class="fa fa-envelope-square"> fa-envelope-square </p><br/>
-                            <p class="fa fa-wordpress"> fa-wordpress </p><br/>
-                            <p class="fa fa-openid"> fa-openid </p><br/>
-                            <p class="fa fa-institution"> fa-institution </p><br/>
-                            <p class="fa fa-bank"> fa-bank </p><br/>
-                            <p class="fa fa-university"> fa-university </p><br/>
-                            <p class="fa fa-mortar-board"> fa-mortar-board </p><br/>
-                            <p class="fa fa-graduation-cap"> fa-graduation-cap </p><br/>
-                            <p class="fa fa-yahoo"> fa-yahoo </p><br/>
-                            <p class="fa fa-google"> fa-google </p><br/>
-                            <p class="fa fa-reddit"> fa-reddit </p><br/>
-                            <p class="fa fa-reddit-square"> fa-reddit-square </p><br/>
-                            <p class="fa fa-stumbleupon-circle"> fa-stumbleupon-circle </p><br/>
-                            <p class="fa fa-stumbleupon"> fa-stumbleupon </p><br/>
-                            <p class="fa fa-delicious"> fa-delicious </p><br/>
-                            <p class="fa fa-digg"> fa-digg </p><br/>
-                            <p class="fa fa-pied-piper-square"> fa-pied-piper-square </p><br/>
-                            <p class="fa fa-pied-piper"> fa-pied-piper </p><br/>
-                            <p class="fa fa-pied-piper-alt"> fa-pied-piper-alt </p><br/>
-                            <p class="fa fa-drupal"> fa-drupal </p><br/>
-                            <p class="fa fa-joomla"> fa-joomla </p><br/>
-                            <p class="fa fa-language"> fa-language </p><br/>
-                            <p class="fa fa-fax"> fa-fax </p><br/>
-                            <p class="fa fa-building"> fa-building </p><br/>
-                            <p class="fa fa-child"> fa-child </p><br/>
-                            <p class="fa fa-paw"> fa-paw </p><br/>
-                            <p class="fa fa-spoon"> fa-spoon </p><br/>
-                            <p class="fa fa-cube"> fa-cube </p><br/>
-                            <p class="fa fa-cubes"> fa-cubes </p><br/>
-                            <p class="fa fa-behance"> fa-behance </p><br/>
-                            <p class="fa fa-behance-square"> fa-behance-square </p><br/>
-                            <p class="fa fa-steam"> fa-steam </p><br/>
-                            <p class="fa fa-steam-square"> fa-steam-square </p><br/>
-                            <p class="fa fa-recycle"> fa-recycle </p><br/>
-                            <p class="fa fa-automobile"> fa-automobile </p><br/>
-                            <p class="fa fa-car"> fa-car </p><br/>
-                            <p class="fa fa-cab"> fa-cab </p><br/>
-                            <p class="fa fa-taxi"> fa-taxi </p><br/>
-                            <p class="fa fa-tree"> fa-tree </p><br/>
-                            <p class="fa fa-spotify"> fa-spotify </p><br/>
-                            <p class="fa fa-deviantart"> fa-deviantart </p><br/>
-                            <p class="fa fa-soundcloud"> fa-soundcloud </p><br/>
-                            <p class="fa fa-database"> fa-database </p><br/>
-                            <p class="fa fa-file-pdf-o"> fa-file-pdf-o </p><br/>
-                            <p class="fa fa-file-word-o"> fa-file-word-o </p><br/>
-                            <p class="fa fa-file-excel-o"> fa-file-excel-o </p><br/>
-                            <p class="fa fa-file-powerpoint-o"> fa-file-powerpoint-o </p><br/>
-                            <p class="fa fa-file-photo-o"> fa-file-photo-o </p><br/>
-                            <p class="fa fa-file-picture-o"> fa-file-picture-o </p><br/>
-                            <p class="fa fa-file-image-o"> fa-file-image-o </p><br/>
-                            <p class="fa fa-file-zip-o"> fa-file-zip-o </p><br/>
-                            <p class="fa fa-file-archive-o"> fa-file-archive-o </p><br/>
-                            <p class="fa fa-file-sound-o"> fa-file-sound-o </p><br/>
-                            <p class="fa fa-file-audio-o"> fa-file-audio-o </p><br/>
-                            <p class="fa fa-file-movie-o"> fa-file-movie-o </p><br/>
-                            <p class="fa fa-file-video-o"> fa-file-video-o </p><br/>
-                            <p class="fa fa-file-code-o"> fa-file-code-o </p><br/>
-                            <p class="fa fa-vine"> fa-vine </p><br/>
-                            <p class="fa fa-codepen"> fa-codepen </p><br/>
-                            <p class="fa fa-jsfiddle"> fa-jsfiddle </p><br/>
-                            <p class="fa fa-life-bouy"> fa-life-bouy </p><br/>
-                            <p class="fa fa-life-saver"> fa-life-saver </p><br/>
-                            <p class="fa fa-support"> fa-support </p><br/>
-                            <p class="fa fa-life-ring"> fa-life-ring </p><br/>
-                            <p class="fa fa-circle-o-notch"> fa-circle-o-notch </p><br/>
-                            <p class="fa fa-ra"> fa-ra </p><br/>
-                            <p class="fa fa-rebel"> fa-rebel </p><br/>
-                            <p class="fa fa-ge"> fa-ge </p><br/>
-                            <p class="fa fa-empire"> fa-empire </p><br/>
-                            <p class="fa fa-git-square"> fa-git-square </p><br/>
-                            <p class="fa fa-git"> fa-git </p><br/>
-                            <p class="fa fa-hacker-news"> fa-hacker-news </p><br/>
-                            <p class="fa fa-tencent-weibo"> fa-tencent-weibo </p><br/>
-                            <p class="fa fa-qq"> fa-qq </p><br/>
-                            <p class="fa fa-wechat"> fa-wechat </p><br/>
-                            <p class="fa fa-weixin"> fa-weixin </p><br/>
-                            <p class="fa fa-send"> fa-send </p><br/>
-                            <p class="fa fa-paper-plane"> fa-paper-plane </p><br/>
-                            <p class="fa fa-send-o"> fa-send-o </p><br/>
-                            <p class="fa fa-paper-plane-o"> fa-paper-plane-o </p><br/>
-                            <p class="fa fa-history"> fa-history </p><br/>
-                            <p class="fa fa-circle-thin"> fa-circle-thin </p><br/>
-                            <p class="fa fa-header"> fa-header </p><br/>
-                            <p class="fa fa-paragraph"> fa-paragraph </p><br/>
-                            <p class="fa fa-sliders"> fa-sliders </p><br/>
-                            <p class="fa fa-share-alt"> fa-share-alt </p><br/>
-                            <p class="fa fa-share-alt-square"> fa-share-alt-square </p><br/>
-                            <p class="fa fa-bomb"> fa-bomb </p><br/>
-                        </div>
-                        <!-- /.col-lg-6 (nested) -->
-                    </div>
-                    <!-- /.row (nested) -->
-                </div>
-                <!-- /.panel-body -->
-            </div>
-            <!-- /.panel -->
-        </div>
-        <!-- /.col-lg-12 -->
-    </div>
-    <!-- /.row -->
-    <div class="row">
-        <div class="col-lg-12">
-            <div class="panel panel-default">
-                <div class="panel-heading">
-                    All available icons (bootstrap)
-                </div>
-                <div class="panel-body">
-                    <div class="row">
-                        <div class="bs-glyphicons col-lg-4">
-                            <span class="glyphicon glyphicon-asterisk"> glyphicon-asterisk </span><br/>
-                            <span class="glyphicon glyphicon-plus"> glyphicon-plus </span><br/>
-                            <span class="glyphicon glyphicon-euro"> glyphicon-euro </span><br/>
-                            <span class="glyphicon glyphicon-eur"> glyphicon-eur </span><br/>
-                            <span class="glyphicon glyphicon-minus"> glyphicon-minus </span><br/>
-                            <span class="glyphicon glyphicon-cloud"> glyphicon-cloud </span><br/>
-                            <span class="glyphicon glyphicon-envelope"> glyphicon-envelope </span><br/>
-                            <span class="glyphicon glyphicon-pencil"> glyphicon-pencil </span><br/>
-                            <span class="glyphicon glyphicon-glass"> glyphicon-glass </span><br/>
-                            <span class="glyphicon glyphicon-music"> glyphicon-music </span><br/>
-                            <span class="glyphicon glyphicon-search"> glyphicon-search </span><br/>
-                            <span class="glyphicon glyphicon-heart"> glyphicon-heart </span><br/>
-                            <span class="glyphicon glyphicon-star"> glyphicon-star </span><br/>
-                            <span class="glyphicon glyphicon-star-empty"> glyphicon-star-empty </span><br/>
-                            <span class="glyphicon glyphicon-user"> glyphicon-user </span><br/>
-                            <span class="glyphicon glyphicon-film"> glyphicon-film </span><br/>
-                            <span class="glyphicon glyphicon-th-large"> glyphicon-th-large </span><br/>
-                            <span class="glyphicon glyphicon-th"> glyphicon-th </span><br/>
-                            <span class="glyphicon glyphicon-th-list"> glyphicon-th-list </span><br/>
-                            <span class="glyphicon glyphicon-ok"> glyphicon-ok </span><br/>
-                            <span class="glyphicon glyphicon-remove"> glyphicon-remove </span><br/>
-                            <span class="glyphicon glyphicon-zoom-in"> glyphicon-zoom-in </span><br/>
-                            <span class="glyphicon glyphicon-zoom-out"> glyphicon-zoom-out </span><br/>
-                            <span class="glyphicon glyphicon-off"> glyphicon-off </span><br/>
-                            <span class="glyphicon glyphicon-signal"> glyphicon-signal </span><br/>
-                            <span class="glyphicon glyphicon-cog"> glyphicon-cog </span><br/>
-                            <span class="glyphicon glyphicon-trash"> glyphicon-trash </span><br/>
-                            <span class="glyphicon glyphicon-home"> glyphicon-home </span><br/>
-                            <span class="glyphicon glyphicon-file"> glyphicon-file </span><br/>
-                            <span class="glyphicon glyphicon-time"> glyphicon-time </span><br/>
-                            <span class="glyphicon glyphicon-road"> glyphicon-road </span><br/>
-                            <span class="glyphicon glyphicon-download-alt"> glyphicon-download-alt </span><br/>
-                            <span class="glyphicon glyphicon-download"> glyphicon-download </span><br/>
-                            <span class="glyphicon glyphicon-upload"> glyphicon-upload </span><br/>
-                            <span class="glyphicon glyphicon-inbox"> glyphicon-inbox </span><br/>
-                            <span class="glyphicon glyphicon-play-circle"> glyphicon-play-circle </span><br/>
-                            <span class="glyphicon glyphicon-repeat"> glyphicon-repeat </span><br/>
-                            <span class="glyphicon glyphicon-refresh"> glyphicon-refresh </span><br/>
-                            <span class="glyphicon glyphicon-list-alt"> glyphicon-list-alt </span><br/>
-                            <span class="glyphicon glyphicon-lock"> glyphicon-lock </span><br/>
-                            <span class="glyphicon glyphicon-flag"> glyphicon-flag </span><br/>
-                            <span class="glyphicon glyphicon-headphones"> glyphicon-headphones </span><br/>
-                            <span class="glyphicon glyphicon-volume-off"> glyphicon-volume-off </span><br/>
-                            <span class="glyphicon glyphicon-volume-down"> glyphicon-volume-down </span><br/>
-                            <span class="glyphicon glyphicon-volume-up"> glyphicon-volume-up </span><br/>
-                            <span class="glyphicon glyphicon-qrcode"> glyphicon-qrcode </span><br/>
-                            <span class="glyphicon glyphicon-barcode"> glyphicon-barcode </span><br/>
-                            <span class="glyphicon glyphicon-tag"> glyphicon-tag </span><br/>
-                            <span class="glyphicon glyphicon-tags"> glyphicon-tags </span><br/>
-                            <span class="glyphicon glyphicon-book"> glyphicon-book </span><br/>
-                            <span class="glyphicon glyphicon-bookmark"> glyphicon-bookmark </span><br/>
-                            <span class="glyphicon glyphicon-print"> glyphicon-print </span><br/>
-                            <span class="glyphicon glyphicon-camera"> glyphicon-camera </span><br/>
-                            <span class="glyphicon glyphicon-font"> glyphicon-font </span><br/>
-                            <span class="glyphicon glyphicon-bold"> glyphicon-bold </span><br/>
-                            <span class="glyphicon glyphicon-italic"> glyphicon-italic </span><br/>
-                            <span class="glyphicon glyphicon-text-height"> glyphicon-text-height </span><br/>
-                            <span class="glyphicon glyphicon-text-width"> glyphicon-text-width </span><br/>
-                            <span class="glyphicon glyphicon-align-left"> glyphicon-align-left </span><br/>
-                            <span class="glyphicon glyphicon-align-center"> glyphicon-align-center </span><br/>
-                            <span class="glyphicon glyphicon-align-right"> glyphicon-align-right </span><br/>
-                            <span class="glyphicon glyphicon-align-justify"> glyphicon-align-justify </span><br/>
-                            <span class="glyphicon glyphicon-list"> glyphicon-list </span><br/>
-                            <span class="glyphicon glyphicon-indent-left"> glyphicon-indent-left </span><br/>
-                            <span class="glyphicon glyphicon-indent-right"> glyphicon-indent-right </span><br/>
-                            <span class="glyphicon glyphicon-facetime-video"> glyphicon-facetime-video </span><br/>
-                            <span class="glyphicon glyphicon-picture"> glyphicon-picture </span><br/>
-                            <span class="glyphicon glyphicon-map-marker"> glyphicon-map-marker </span><br/>
-                            <span class="glyphicon glyphicon-adjust"> glyphicon-adjust </span><br/>
-                            <span class="glyphicon glyphicon-tint"> glyphicon-tint </span><br/>
-                            <span class="glyphicon glyphicon-edit"> glyphicon-edit </span><br/>
-                            <span class="glyphicon glyphicon-share"> glyphicon-share </span><br/>
-                            <span class="glyphicon glyphicon-check"> glyphicon-check </span><br/>
-                            <span class="glyphicon glyphicon-move"> glyphicon-move </span><br/>
-                            <span class="glyphicon glyphicon-step-backward"> glyphicon-step-backward </span><br/>
-                            <span class="glyphicon glyphicon-fast-backward"> glyphicon-fast-backward </span><br/>
-                            <span class="glyphicon glyphicon-backward"> glyphicon-backward </span><br/>
-                            <span class="glyphicon glyphicon-play"> glyphicon-play </span><br/>
-                            <span class="glyphicon glyphicon-pause"> glyphicon-pause </span><br/>
-                            <span class="glyphicon glyphicon-stop"> glyphicon-stop </span><br/>
-                            <span class="glyphicon glyphicon-forward"> glyphicon-forward </span><br/>
-                            <span class="glyphicon glyphicon-fast-forward"> glyphicon-fast-forward </span><br/>
-                            <span class="glyphicon glyphicon-step-forward"> glyphicon-step-forward </span><br/>
-                            <span class="glyphicon glyphicon-eject"> glyphicon-eject </span><br/>
-                            <span class="glyphicon glyphicon-chevron-left"> glyphicon-chevron-left </span><br/>
-                            <span class="glyphicon glyphicon-chevron-right"> glyphicon-chevron-right </span><br/>
-                            <span class="glyphicon glyphicon-plus-sign"> glyphicon-plus-sign </span><br/>
-                        </div>
-                        <div class="bs-glyphicons col-lg-4">
-                            <span class="glyphicon glyphicon-minus-sign"> glyphicon-minus-sign </span><br/>
-                            <span class="glyphicon glyphicon-remove-sign"> glyphicon-remove-sign </span><br/>
-                            <span class="glyphicon glyphicon-ok-sign"> glyphicon-ok-sign </span><br/>
-                            <span class="glyphicon glyphicon-question-sign"> glyphicon-question-sign </span><br/>
-                            <span class="glyphicon glyphicon-info-sign"> glyphicon-info-sign </span><br/>
-                            <span class="glyphicon glyphicon-screenshot"> glyphicon-screenshot </span><br/>
-                            <span class="glyphicon glyphicon-remove-circle"> glyphicon-remove-circle </span><br/>
-                            <span class="glyphicon glyphicon-ok-circle"> glyphicon-ok-circle </span><br/>
-                            <span class="glyphicon glyphicon-ban-circle"> glyphicon-ban-circle </span><br/>
-                            <span class="glyphicon glyphicon-arrow-left"> glyphicon-arrow-left </span><br/>
-                            <span class="glyphicon glyphicon-arrow-right"> glyphicon-arrow-right </span><br/>
-                            <span class="glyphicon glyphicon-arrow-up"> glyphicon-arrow-up </span><br/>
-                            <span class="glyphicon glyphicon-arrow-down"> glyphicon-arrow-down </span><br/>
-                            <span class="glyphicon glyphicon-share-alt"> glyphicon-share-alt </span><br/>
-                            <span class="glyphicon glyphicon-resize-full"> glyphicon-resize-full </span><br/>
-                            <span class="glyphicon glyphicon-resize-small"> glyphicon-resize-small </span><br/>
-                            <span class="glyphicon glyphicon-exclamation-sign"> glyphicon-exclamation-sign </span><br/>
-                            <span class="glyphicon glyphicon-gift"> glyphicon-gift </span><br/>
-                            <span class="glyphicon glyphicon-leaf"> glyphicon-leaf </span><br/>
-                            <span class="glyphicon glyphicon-fire"> glyphicon-fire </span><br/>
-                            <span class="glyphicon glyphicon-eye-open"> glyphicon-eye-open </span><br/>
-                            <span class="glyphicon glyphicon-eye-close"> glyphicon-eye-close </span><br/>
-                            <span class="glyphicon glyphicon-warning-sign"> glyphicon-warning-sign </span><br/>
-                            <span class="glyphicon glyphicon-plane"> glyphicon-plane </span><br/>
-                            <span class="glyphicon glyphicon-calendar"> glyphicon-calendar </span><br/>
-                            <span class="glyphicon glyphicon-random"> glyphicon-random </span><br/>
-                            <span class="glyphicon glyphicon-comment"> glyphicon-comment </span><br/>
-                            <span class="glyphicon glyphicon-magnet"> glyphicon-magnet </span><br/>
-                            <span class="glyphicon glyphicon-chevron-up"> glyphicon-chevron-up </span><br/>
-                            <span class="glyphicon glyphicon-chevron-down"> glyphicon-chevron-down </span><br/>
-                            <span class="glyphicon glyphicon-retweet"> glyphicon-retweet </span><br/>
-                            <span class="glyphicon glyphicon-shopping-cart"> glyphicon-shopping-cart </span><br/>
-                            <span class="glyphicon glyphicon-folder-close"> glyphicon-folder-close </span><br/>
-                            <span class="glyphicon glyphicon-folder-open"> glyphicon-folder-open </span><br/>
-                            <span class="glyphicon glyphicon-resize-vertical"> glyphicon-resize-vertical </span><br/>
-                            <span class="glyphicon glyphicon-resize-horizontal"> glyphicon-resize-horizontal </span><br/>
-                            <span class="glyphicon glyphicon-hdd"> glyphicon-hdd </span><br/>
-                            <span class="glyphicon glyphicon-bullhorn"> glyphicon-bullhorn </span><br/>
-                            <span class="glyphicon glyphicon-bell"> glyphicon-bell </span><br/>
-                            <span class="glyphicon glyphicon-certificate"> glyphicon-certificate </span><br/>
-                            <span class="glyphicon glyphicon-thumbs-up"> glyphicon-thumbs-up </span><br/>
-                            <span class="glyphicon glyphicon-thumbs-down"> glyphicon-thumbs-down </span><br/>
-                            <span class="glyphicon glyphicon-hand-right"> glyphicon-hand-right </span><br/>
-                            <span class="glyphicon glyphicon-hand-left"> glyphicon-hand-left </span><br/>
-                            <span class="glyphicon glyphicon-hand-up"> glyphicon-hand-up </span><br/>
-                            <span class="glyphicon glyphicon-hand-down"> glyphicon-hand-down </span><br/>
-                            <span class="glyphicon glyphicon-circle-arrow-right"> glyphicon-circle-arrow-right </span><br/>
-                            <span class="glyphicon glyphicon-circle-arrow-left"> glyphicon-circle-arrow-left </span><br/>
-                            <span class="glyphicon glyphicon-circle-arrow-up"> glyphicon-circle-arrow-up </span><br/>
-                            <span class="glyphicon glyphicon-circle-arrow-down"> glyphicon-circle-arrow-down </span><br/>
-                            <span class="glyphicon glyphicon-globe"> glyphicon-globe </span><br/>
-                            <span class="glyphicon glyphicon-wrench"> glyphicon-wrench </span><br/>
-                            <span class="glyphicon glyphicon-tasks"> glyphicon-tasks </span><br/>
-                            <span class="glyphicon glyphicon-filter"> glyphicon-filter </span><br/>
-                            <span class="glyphicon glyphicon-briefcase"> glyphicon-briefcase </span><br/>
-                            <span class="glyphicon glyphicon-fullscreen"> glyphicon-fullscreen </span><br/>
-                            <span class="glyphicon glyphicon-dashboard"> glyphicon-dashboard </span><br/>
-                            <span class="glyphicon glyphicon-paperclip"> glyphicon-paperclip </span><br/>
-                            <span class="glyphicon glyphicon-heart-empty"> glyphicon-heart-empty </span><br/>
-                            <span class="glyphicon glyphicon-link"> glyphicon-link </span><br/>
-                            <span class="glyphicon glyphicon-phone"> glyphicon-phone </span><br/>
-                            <span class="glyphicon glyphicon-pushpin"> glyphicon-pushpin </span><br/>
-                            <span class="glyphicon glyphicon-usd"> glyphicon-usd </span><br/>
-                            <span class="glyphicon glyphicon-gbp"> glyphicon-gbp </span><br/>
-                            <span class="glyphicon glyphicon-sort"> glyphicon-sort </span><br/>
-                            <span class="glyphicon glyphicon-sort-by-alphabet"> glyphicon-sort-by-alphabet </span><br/>
-                            <span class="glyphicon glyphicon-sort-by-alphabet-alt"> glyphicon-sort-by-alphabet-alt </span><br/>
-                            <span class="glyphicon glyphicon-sort-by-order"> glyphicon-sort-by-order </span><br/>
-                            <span class="glyphicon glyphicon-sort-by-order-alt"> glyphicon-sort-by-order-alt </span><br/>
-                            <span class="glyphicon glyphicon-sort-by-attributes"> glyphicon-sort-by-attributes </span><br/>
-                            <span class="glyphicon glyphicon-sort-by-attributes-alt"> glyphicon-sort-by-attributes-alt </span><br/>
-                            <span class="glyphicon glyphicon-unchecked"> glyphicon-unchecked </span><br/>
-                            <span class="glyphicon glyphicon-expand"> glyphicon-expand </span><br/>
-                            <span class="glyphicon glyphicon-collapse-down"> glyphicon-collapse-down </span><br/>
-                            <span class="glyphicon glyphicon-collapse-up"> glyphicon-collapse-up </span><br/>
-                            <span class="glyphicon glyphicon-log-in"> glyphicon-log-in </span><br/>
-                            <span class="glyphicon glyphicon-flash"> glyphicon-flash </span><br/>
-                            <span class="glyphicon glyphicon-log-out"> glyphicon-log-out </span><br/>
-                            <span class="glyphicon glyphicon-new-window"> glyphicon-new-window </span><br/>
-                            <span class="glyphicon glyphicon-record"> glyphicon-record </span><br/>
-                            <span class="glyphicon glyphicon-save"> glyphicon-save </span><br/>
-                            <span class="glyphicon glyphicon-open"> glyphicon-open </span><br/>
-                            <span class="glyphicon glyphicon-saved"> glyphicon-saved </span><br/>
-                            <span class="glyphicon glyphicon-import"> glyphicon-import </span><br/>
-                            <span class="glyphicon glyphicon-export"> glyphicon-export </span><br/>
-                            <span class="glyphicon glyphicon-send"> glyphicon-send </span><br/>
-                        </div>
-                        <div class="bs-glyphicons col-lg-4">
-                            <span class="glyphicon glyphicon-floppy-disk"> glyphicon-floppy-disk </span><br/>
-                            <span class="glyphicon glyphicon-floppy-saved"> glyphicon-floppy-saved </span><br/>
-                            <span class="glyphicon glyphicon-floppy-remove"> glyphicon-floppy-remove </span><br/>
-                            <span class="glyphicon glyphicon-floppy-save"> glyphicon-floppy-save </span><br/>
-                            <span class="glyphicon glyphicon-floppy-open"> glyphicon-floppy-open </span><br/>
-                            <span class="glyphicon glyphicon-credit-card"> glyphicon-credit-card </span><br/>
-                            <span class="glyphicon glyphicon-transfer"> glyphicon-transfer </span><br/>
-                            <span class="glyphicon glyphicon-cutlery"> glyphicon-cutlery </span><br/>
-                            <span class="glyphicon glyphicon-header"> glyphicon-header </span><br/>
-                            <span class="glyphicon glyphicon-compressed"> glyphicon-compressed </span><br/>
-                            <span class="glyphicon glyphicon-earphone"> glyphicon-earphone </span><br/>
-                            <span class="glyphicon glyphicon-phone-alt"> glyphicon-phone-alt </span><br/>
-                            <span class="glyphicon glyphicon-tower"> glyphicon-tower </span><br/>
-                            <span class="glyphicon glyphicon-stats"> glyphicon-stats </span><br/>
-                            <span class="glyphicon glyphicon-sd-video"> glyphicon-sd-video </span><br/>
-                            <span class="glyphicon glyphicon-hd-video"> glyphicon-hd-video </span><br/>
-                            <span class="glyphicon glyphicon-subtitles"> glyphicon-subtitles </span><br/>
-                            <span class="glyphicon glyphicon-sound-stereo"> glyphicon-sound-stereo </span><br/>
-                            <span class="glyphicon glyphicon-sound-dolby"> glyphicon-sound-dolby </span><br/>
-                            <span class="glyphicon glyphicon-sound-5-1"> glyphicon-sound-5-1 </span><br/>
-                            <span class="glyphicon glyphicon-sound-6-1"> glyphicon-sound-6-1 </span><br/>
-                            <span class="glyphicon glyphicon-sound-7-1"> glyphicon-sound-7-1 </span><br/>
-                            <span class="glyphicon glyphicon-copyright-mark"> glyphicon-copyright-mark </span><br/>
-                            <span class="glyphicon glyphicon-registration-mark"> glyphicon-registration-mark </span><br/>
-                            <span class="glyphicon glyphicon-cloud-download"> glyphicon-cloud-download </span><br/>
-                            <span class="glyphicon glyphicon-cloud-upload"> glyphicon-cloud-upload </span><br/>
-                            <span class="glyphicon glyphicon-tree-conifer"> glyphicon-tree-conifer </span><br/>
-                            <span class="glyphicon glyphicon-tree-deciduous"> glyphicon-tree-deciduous </span><br/>
-                            <span class="glyphicon glyphicon-cd"> glyphicon-cd </span><br/>
-                            <span class="glyphicon glyphicon-save-file"> glyphicon-save-file </span><br/>
-                            <span class="glyphicon glyphicon-open-file"> glyphicon-open-file </span><br/>
-                            <span class="glyphicon glyphicon-level-up"> glyphicon-level-up </span><br/>
-                            <span class="glyphicon glyphicon-copy"> glyphicon-copy </span><br/>
-                            <span class="glyphicon glyphicon-paste"> glyphicon-paste </span><br/>
-                            <span class="glyphicon glyphicon-alert"> glyphicon-alert </span><br/>
-                            <span class="glyphicon glyphicon-equalizer"> glyphicon-equalizer </span><br/>
-                            <span class="glyphicon glyphicon-king"> glyphicon-king </span><br/>
-                            <span class="glyphicon glyphicon-queen"> glyphicon-queen </span><br/>
-                            <span class="glyphicon glyphicon-pawn"> glyphicon-pawn </span><br/>
-                            <span class="glyphicon glyphicon-bishop"> glyphicon-bishop </span><br/>
-                            <span class="glyphicon glyphicon-knight"> glyphicon-knight </span><br/>
-                            <span class="glyphicon glyphicon-baby-formula"> glyphicon-baby-formula </span><br/>
-                            <span class="glyphicon glyphicon-tent"> glyphicon-tent </span><br/>
-                            <span class="glyphicon glyphicon-blackboard"> glyphicon-blackboard </span><br/>
-                            <span class="glyphicon glyphicon-bed"> glyphicon-bed </span><br/>
-                            <span class="glyphicon glyphicon-apple"> glyphicon-apple </span><br/>
-                            <span class="glyphicon glyphicon-erase"> glyphicon-erase </span><br/>
-                            <span class="glyphicon glyphicon-hourglass"> glyphicon-hourglass </span><br/>
-                            <span class="glyphicon glyphicon-lamp"> glyphicon-lamp </span><br/>
-                            <span class="glyphicon glyphicon-duplicate"> glyphicon-duplicate </span><br/>
-                            <span class="glyphicon glyphicon-piggy-bank"> glyphicon-piggy-bank </span><br/>
-                            <span class="glyphicon glyphicon-scissors"> glyphicon-scissors </span><br/>
-                            <span class="glyphicon glyphicon-bitcoin"> glyphicon-bitcoin </span><br/>
-                            <span class="glyphicon glyphicon-yen"> glyphicon-yen </span><br/>
-                            <span class="glyphicon glyphicon-ruble"> glyphicon-ruble </span><br/>
-                            <span class="glyphicon glyphicon-scale"> glyphicon-scale </span><br/>
-                            <span class="glyphicon glyphicon-ice-lolly"> glyphicon-ice-lolly </span><br/>
-                            <span class="glyphicon glyphicon-ice-lolly-tasted"> glyphicon-ice-lolly-tasted </span><br/>
-                            <span class="glyphicon glyphicon-education"> glyphicon-education </span><br/>
-                            <span class="glyphicon glyphicon-option-horizontal"> glyphicon-option-horizontal </span><br/>
-                            <span class="glyphicon glyphicon-option-vertical"> glyphicon-option-vertical </span><br/>
-                            <span class="glyphicon glyphicon-menu-hamburger"> glyphicon-menu-hamburger </span><br/>
-                            <span class="glyphicon glyphicon-modal-window"> glyphicon-modal-window </span><br/>
-                            <span class="glyphicon glyphicon-oil"> glyphicon-oil </span><br/>
-                            <span class="glyphicon glyphicon-grain"> glyphicon-grain </span><br/>
-                            <span class="glyphicon glyphicon-sunglasses"> glyphicon-sunglasses </span><br/>
-                            <span class="glyphicon glyphicon-text-size"> glyphicon-text-size </span><br/>
-                            <span class="glyphicon glyphicon-text-color"> glyphicon-text-color </span><br/>
-                            <span class="glyphicon glyphicon-text-background"> glyphicon-text-background </span><br/>
-                            <span class="glyphicon glyphicon-object-align-top"> glyphicon-object-align-top </span><br/>
-                            <span class="glyphicon glyphicon-object-align-bottom"> glyphicon-object-align-bottom </span><br/>
-                            <span class="glyphicon glyphicon-object-align-horizontal"> glyphicon-object-align-horizontal </span><br/>
-                            <span class="glyphicon glyphicon-object-align-left"> glyphicon-object-align-left </span><br/>
-                            <span class="glyphicon glyphicon-object-align-vertical"> glyphicon-object-align-vertical </span><br/>
-                            <span class="glyphicon glyphicon-object-align-right"> glyphicon-object-align-right </span><br/>
-                            <span class="glyphicon glyphicon-triangle-right"> glyphicon-triangle-right </span><br/>
-                            <span class="glyphicon glyphicon-triangle-left"> glyphicon-triangle-left </span><br/>
-                            <span class="glyphicon glyphicon-triangle-bottom"> glyphicon-triangle-bottom </span><br/>
-                            <span class="glyphicon glyphicon-triangle-top"> glyphicon-triangle-top </span><br/>
-                            <span class="glyphicon glyphicon-console"> glyphicon-console </span><br/>
-                            <span class="glyphicon glyphicon-superscript"> glyphicon-superscript </span><br/>
-                            <span class="glyphicon glyphicon-subscript"> glyphicon-subscript </span><br/>
-                            <span class="glyphicon glyphicon-menu-left"> glyphicon-menu-left </span><br/>
-                            <span class="glyphicon glyphicon-menu-right"> glyphicon-menu-right </span><br/>
-                            <span class="glyphicon glyphicon-menu-down"> glyphicon-menu-down </span><br/>
-                            <span class="glyphicon glyphicon-menu-up"> glyphicon-menu-up </span><br/>
-                        </div>
+</div>
+<div class="row">
+    <div class="col-lg-12">
 
-                        <!-- /.col-lg-6 (nested) -->
-                    </div>
-                    <!-- /.row (nested) -->
-                </div>
-                <!-- /.panel-body -->
-            </div>
-            <!-- /.panel -->
-        </div>
-        <!-- /.col-lg-12 -->
+<div>
+    <section>
+        <h2 class="page-header">41 New Icons in 4.7</h2>
+        <div class="row fontawesome-icon-list">
+          <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/address-book"><i class="fa fa-address-book" aria-hidden="true"></i> <span class="sr-only">Example of </span>address-book</a></div>
+        
+          <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/address-book-o"><i class="fa fa-address-book-o" aria-hidden="true"></i> <span class="sr-only">Example of </span>address-book-o</a></div>
+        
+          <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/address-card"><i class="fa fa-address-card" aria-hidden="true"></i> <span class="sr-only">Example of </span>address-card</a></div>
+        
+          <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/address-card-o"><i class="fa fa-address-card-o" aria-hidden="true"></i> <span class="sr-only">Example of </span>address-card-o</a></div>
+        
+          <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/bandcamp"><i class="fa fa-bandcamp" aria-hidden="true"></i> <span class="sr-only">Example of </span>bandcamp</a></div>
+        
+          <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/bath"><i class="fa fa-bath" aria-hidden="true"></i> <span class="sr-only">Example of </span>bath</a></div>
+        
+          <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/bath"><i class="fa fa-bathtub" aria-hidden="true"></i> <span class="sr-only">Example of </span>bathtub <span class="text-muted">(alias)</span></a></div>
+        
+          <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/id-card"><i class="fa fa-drivers-license" aria-hidden="true"></i> <span class="sr-only">Example of </span>drivers-license <span class="text-muted">(alias)</span></a></div>
+        
+          <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/id-card-o"><i class="fa fa-drivers-license-o" aria-hidden="true"></i> <span class="sr-only">Example of </span>drivers-license-o <span class="text-muted">(alias)</span></a></div>
+        
+          <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/eercast"><i class="fa fa-eercast" aria-hidden="true"></i> <span class="sr-only">Example of </span>eercast</a></div>
+        
+          <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/envelope-open"><i class="fa fa-envelope-open" aria-hidden="true"></i> <span class="sr-only">Example of </span>envelope-open</a></div>
+        
+          <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/envelope-open-o"><i class="fa fa-envelope-open-o" aria-hidden="true"></i> <span class="sr-only">Example of </span>envelope-open-o</a></div>
+        
+          <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/etsy"><i class="fa fa-etsy" aria-hidden="true"></i> <span class="sr-only">Example of </span>etsy</a></div>
+        
+          <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/free-code-camp"><i class="fa fa-free-code-camp" aria-hidden="true"></i> <span class="sr-only">Example of </span>free-code-camp</a></div>
+        
+          <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/grav"><i class="fa fa-grav" aria-hidden="true"></i> <span class="sr-only">Example of </span>grav</a></div>
+        
+          <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/handshake-o"><i class="fa fa-handshake-o" aria-hidden="true"></i> <span class="sr-only">Example of </span>handshake-o</a></div>
+        
+          <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/id-badge"><i class="fa fa-id-badge" aria-hidden="true"></i> <span class="sr-only">Example of </span>id-badge</a></div>
+        
+          <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/id-card"><i class="fa fa-id-card" aria-hidden="true"></i> <span class="sr-only">Example of </span>id-card</a></div>
+        
+          <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/id-card-o"><i class="fa fa-id-card-o" aria-hidden="true"></i> <span class="sr-only">Example of </span>id-card-o</a></div>
+        
+          <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/imdb"><i class="fa fa-imdb" aria-hidden="true"></i> <span class="sr-only">Example of </span>imdb</a></div>
+        
+          <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/linode"><i class="fa fa-linode" aria-hidden="true"></i> <span class="sr-only">Example of </span>linode</a></div>
+        
+          <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/meetup"><i class="fa fa-meetup" aria-hidden="true"></i> <span class="sr-only">Example of </span>meetup</a></div>
+        
+          <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/microchip"><i class="fa fa-microchip" aria-hidden="true"></i> <span class="sr-only">Example of </span>microchip</a></div>
+        
+          <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/podcast"><i class="fa fa-podcast" aria-hidden="true"></i> <span class="sr-only">Example of </span>podcast</a></div>
+        
+          <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/quora"><i class="fa fa-quora" aria-hidden="true"></i> <span class="sr-only">Example of </span>quora</a></div>
+        
+          <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/ravelry"><i class="fa fa-ravelry" aria-hidden="true"></i> <span class="sr-only">Example of </span>ravelry</a></div>
+        
+          <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/bath"><i class="fa fa-s15" aria-hidden="true"></i> <span class="sr-only">Example of </span>s15 <span class="text-muted">(alias)</span></a></div>
+        
+          <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/shower"><i class="fa fa-shower" aria-hidden="true"></i> <span class="sr-only">Example of </span>shower</a></div>
+        
+          <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/snowflake-o"><i class="fa fa-snowflake-o" aria-hidden="true"></i> <span class="sr-only">Example of </span>snowflake-o</a></div>
+        
+          <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/superpowers"><i class="fa fa-superpowers" aria-hidden="true"></i> <span class="sr-only">Example of </span>superpowers</a></div>
+        
+          <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/telegram"><i class="fa fa-telegram" aria-hidden="true"></i> <span class="sr-only">Example of </span>telegram</a></div>
+        
+          <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/thermometer-full"><i class="fa fa-thermometer" aria-hidden="true"></i> <span class="sr-only">Example of </span>thermometer <span class="text-muted">(alias)</span></a></div>
+        
+          <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/thermometer-empty"><i class="fa fa-thermometer-0" aria-hidden="true"></i> <span class="sr-only">Example of </span>thermometer-0 <span class="text-muted">(alias)</span></a></div>
+        
+          <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/thermometer-quarter"><i class="fa fa-thermometer-1" aria-hidden="true"></i> <span class="sr-only">Example of </span>thermometer-1 <span class="text-muted">(alias)</span></a></div>
+        
+          <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/thermometer-half"><i class="fa fa-thermometer-2" aria-hidden="true"></i> <span class="sr-only">Example of </span>thermometer-2 <span class="text-muted">(alias)</span></a></div>
+        
+          <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/thermometer-three-quarters"><i class="fa fa-thermometer-3" aria-hidden="true"></i> <span class="sr-only">Example of </span>thermometer-3 <span class="text-muted">(alias)</span></a></div>
+        
+          <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/thermometer-full"><i class="fa fa-thermometer-4" aria-hidden="true"></i> <span class="sr-only">Example of </span>thermometer-4 <span class="text-muted">(alias)</span></a></div>
+        
+          <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/thermometer-empty"><i class="fa fa-thermometer-empty" aria-hidden="true"></i> <span class="sr-only">Example of </span>thermometer-empty</a></div>
+        
+          <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/thermometer-full"><i class="fa fa-thermometer-full" aria-hidden="true"></i> <span class="sr-only">Example of </span>thermometer-full</a></div>
+        
+          <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/thermometer-half"><i class="fa fa-thermometer-half" aria-hidden="true"></i> <span class="sr-only">Example of </span>thermometer-half</a></div>
+        
+          <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/thermometer-quarter"><i class="fa fa-thermometer-quarter" aria-hidden="true"></i> <span class="sr-only">Example of </span>thermometer-quarter</a></div>
+        
+          <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/thermometer-three-quarters"><i class="fa fa-thermometer-three-quarters" aria-hidden="true"></i> <span class="sr-only">Example of </span>thermometer-three-quarters</a></div>
+        
+          <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/window-close"><i class="fa fa-times-rectangle" aria-hidden="true"></i> <span class="sr-only">Example of </span>times-rectangle <span class="text-muted">(alias)</span></a></div>
+        
+          <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/window-close-o"><i class="fa fa-times-rectangle-o" aria-hidden="true"></i> <span class="sr-only">Example of </span>times-rectangle-o <span class="text-muted">(alias)</span></a></div>
+        
+          <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/user-circle"><i class="fa fa-user-circle" aria-hidden="true"></i> <span class="sr-only">Example of </span>user-circle</a></div>
+        
+          <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/user-circle-o"><i class="fa fa-user-circle-o" aria-hidden="true"></i> <span class="sr-only">Example of </span>user-circle-o</a></div>
+        
+          <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/user-o"><i class="fa fa-user-o" aria-hidden="true"></i> <span class="sr-only">Example of </span>user-o</a></div>
+        
+          <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/address-card"><i class="fa fa-vcard" aria-hidden="true"></i> <span class="sr-only">Example of </span>vcard <span class="text-muted">(alias)</span></a></div>
+        
+          <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/address-card-o"><i class="fa fa-vcard-o" aria-hidden="true"></i> <span class="sr-only">Example of </span>vcard-o <span class="text-muted">(alias)</span></a></div>
+        
+          <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/window-close"><i class="fa fa-window-close" aria-hidden="true"></i> <span class="sr-only">Example of </span>window-close</a></div>
+        
+          <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/window-close-o"><i class="fa fa-window-close-o" aria-hidden="true"></i> <span class="sr-only">Example of </span>window-close-o</a></div>
+        
+          <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/window-maximize"><i class="fa fa-window-maximize" aria-hidden="true"></i> <span class="sr-only">Example of </span>window-maximize</a></div>
+        
+          <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/window-minimize"><i class="fa fa-window-minimize" aria-hidden="true"></i> <span class="sr-only">Example of </span>window-minimize</a></div>
+        
+          <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/window-restore"><i class="fa fa-window-restore" aria-hidden="true"></i> <span class="sr-only">Example of </span>window-restore</a></div>
+        
+          <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/wpexplorer"><i class="fa fa-wpexplorer" aria-hidden="true"></i> <span class="sr-only">Example of </span>wpexplorer</a></div>
+    
     </div>
-    <!-- /.row -->
+
+</section>
+
+    <section id="web-application">
+  <h2 class="page-header">Web Application Icons</h2>
+
+  <div class="row fontawesome-icon-list">
+    
+
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/address-book"><i class="fa fa-address-book" aria-hidden="true"></i> <span class="sr-only">Example of </span>address-book</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/address-book-o"><i class="fa fa-address-book-o" aria-hidden="true"></i> <span class="sr-only">Example of </span>address-book-o</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/address-card"><i class="fa fa-address-card" aria-hidden="true"></i> <span class="sr-only">Example of </span>address-card</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/address-card-o"><i class="fa fa-address-card-o" aria-hidden="true"></i> <span class="sr-only">Example of </span>address-card-o</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/adjust"><i class="fa fa-adjust" aria-hidden="true"></i> <span class="sr-only">Example of </span>adjust</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/american-sign-language-interpreting"><i class="fa fa-american-sign-language-interpreting" aria-hidden="true"></i> <span class="sr-only">Example of </span>american-sign-language-interpreting</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/anchor"><i class="fa fa-anchor" aria-hidden="true"></i> <span class="sr-only">Example of </span>anchor</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/archive"><i class="fa fa-archive" aria-hidden="true"></i> <span class="sr-only">Example of </span>archive</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/area-chart"><i class="fa fa-area-chart" aria-hidden="true"></i> <span class="sr-only">Example of </span>area-chart</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/arrows"><i class="fa fa-arrows" aria-hidden="true"></i> <span class="sr-only">Example of </span>arrows</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/arrows-h"><i class="fa fa-arrows-h" aria-hidden="true"></i> <span class="sr-only">Example of </span>arrows-h</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/arrows-v"><i class="fa fa-arrows-v" aria-hidden="true"></i> <span class="sr-only">Example of </span>arrows-v</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/american-sign-language-interpreting"><i class="fa fa-asl-interpreting" aria-hidden="true"></i> <span class="sr-only">Example of </span>asl-interpreting <span class="text-muted">(alias)</span></a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/assistive-listening-systems"><i class="fa fa-assistive-listening-systems" aria-hidden="true"></i> <span class="sr-only">Example of </span>assistive-listening-systems</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/asterisk"><i class="fa fa-asterisk" aria-hidden="true"></i> <span class="sr-only">Example of </span>asterisk</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/at"><i class="fa fa-at" aria-hidden="true"></i> <span class="sr-only">Example of </span>at</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/audio-description"><i class="fa fa-audio-description" aria-hidden="true"></i> <span class="sr-only">Example of </span>audio-description</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/car"><i class="fa fa-automobile" aria-hidden="true"></i> <span class="sr-only">Example of </span>automobile <span class="text-muted">(alias)</span></a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/balance-scale"><i class="fa fa-balance-scale" aria-hidden="true"></i> <span class="sr-only">Example of </span>balance-scale</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/ban"><i class="fa fa-ban" aria-hidden="true"></i> <span class="sr-only">Example of </span>ban</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/university"><i class="fa fa-bank" aria-hidden="true"></i> <span class="sr-only">Example of </span>bank <span class="text-muted">(alias)</span></a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/bar-chart"><i class="fa fa-bar-chart" aria-hidden="true"></i> <span class="sr-only">Example of </span>bar-chart</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/bar-chart"><i class="fa fa-bar-chart-o" aria-hidden="true"></i> <span class="sr-only">Example of </span>bar-chart-o <span class="text-muted">(alias)</span></a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/barcode"><i class="fa fa-barcode" aria-hidden="true"></i> <span class="sr-only">Example of </span>barcode</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/bars"><i class="fa fa-bars" aria-hidden="true"></i> <span class="sr-only">Example of </span>bars</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/bath"><i class="fa fa-bath" aria-hidden="true"></i> <span class="sr-only">Example of </span>bath</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/bath"><i class="fa fa-bathtub" aria-hidden="true"></i> <span class="sr-only">Example of </span>bathtub <span class="text-muted">(alias)</span></a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/battery-full"><i class="fa fa-battery" aria-hidden="true"></i> <span class="sr-only">Example of </span>battery <span class="text-muted">(alias)</span></a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/battery-empty"><i class="fa fa-battery-0" aria-hidden="true"></i> <span class="sr-only">Example of </span>battery-0 <span class="text-muted">(alias)</span></a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/battery-quarter"><i class="fa fa-battery-1" aria-hidden="true"></i> <span class="sr-only">Example of </span>battery-1 <span class="text-muted">(alias)</span></a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/battery-half"><i class="fa fa-battery-2" aria-hidden="true"></i> <span class="sr-only">Example of </span>battery-2 <span class="text-muted">(alias)</span></a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/battery-three-quarters"><i class="fa fa-battery-3" aria-hidden="true"></i> <span class="sr-only">Example of </span>battery-3 <span class="text-muted">(alias)</span></a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/battery-full"><i class="fa fa-battery-4" aria-hidden="true"></i> <span class="sr-only">Example of </span>battery-4 <span class="text-muted">(alias)</span></a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/battery-empty"><i class="fa fa-battery-empty" aria-hidden="true"></i> <span class="sr-only">Example of </span>battery-empty</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/battery-full"><i class="fa fa-battery-full" aria-hidden="true"></i> <span class="sr-only">Example of </span>battery-full</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/battery-half"><i class="fa fa-battery-half" aria-hidden="true"></i> <span class="sr-only">Example of </span>battery-half</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/battery-quarter"><i class="fa fa-battery-quarter" aria-hidden="true"></i> <span class="sr-only">Example of </span>battery-quarter</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/battery-three-quarters"><i class="fa fa-battery-three-quarters" aria-hidden="true"></i> <span class="sr-only">Example of </span>battery-three-quarters</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/bed"><i class="fa fa-bed" aria-hidden="true"></i> <span class="sr-only">Example of </span>bed</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/beer"><i class="fa fa-beer" aria-hidden="true"></i> <span class="sr-only">Example of </span>beer</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/bell"><i class="fa fa-bell" aria-hidden="true"></i> <span class="sr-only">Example of </span>bell</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/bell-o"><i class="fa fa-bell-o" aria-hidden="true"></i> <span class="sr-only">Example of </span>bell-o</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/bell-slash"><i class="fa fa-bell-slash" aria-hidden="true"></i> <span class="sr-only">Example of </span>bell-slash</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/bell-slash-o"><i class="fa fa-bell-slash-o" aria-hidden="true"></i> <span class="sr-only">Example of </span>bell-slash-o</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/bicycle"><i class="fa fa-bicycle" aria-hidden="true"></i> <span class="sr-only">Example of </span>bicycle</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/binoculars"><i class="fa fa-binoculars" aria-hidden="true"></i> <span class="sr-only">Example of </span>binoculars</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/birthday-cake"><i class="fa fa-birthday-cake" aria-hidden="true"></i> <span class="sr-only">Example of </span>birthday-cake</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/blind"><i class="fa fa-blind" aria-hidden="true"></i> <span class="sr-only">Example of </span>blind</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/bluetooth"><i class="fa fa-bluetooth" aria-hidden="true"></i> <span class="sr-only">Example of </span>bluetooth</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/bluetooth-b"><i class="fa fa-bluetooth-b" aria-hidden="true"></i> <span class="sr-only">Example of </span>bluetooth-b</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/bolt"><i class="fa fa-bolt" aria-hidden="true"></i> <span class="sr-only">Example of </span>bolt</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/bomb"><i class="fa fa-bomb" aria-hidden="true"></i> <span class="sr-only">Example of </span>bomb</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/book"><i class="fa fa-book" aria-hidden="true"></i> <span class="sr-only">Example of </span>book</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/bookmark"><i class="fa fa-bookmark" aria-hidden="true"></i> <span class="sr-only">Example of </span>bookmark</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/bookmark-o"><i class="fa fa-bookmark-o" aria-hidden="true"></i> <span class="sr-only">Example of </span>bookmark-o</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/braille"><i class="fa fa-braille" aria-hidden="true"></i> <span class="sr-only">Example of </span>braille</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/briefcase"><i class="fa fa-briefcase" aria-hidden="true"></i> <span class="sr-only">Example of </span>briefcase</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/bug"><i class="fa fa-bug" aria-hidden="true"></i> <span class="sr-only">Example of </span>bug</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/building"><i class="fa fa-building" aria-hidden="true"></i> <span class="sr-only">Example of </span>building</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/building-o"><i class="fa fa-building-o" aria-hidden="true"></i> <span class="sr-only">Example of </span>building-o</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/bullhorn"><i class="fa fa-bullhorn" aria-hidden="true"></i> <span class="sr-only">Example of </span>bullhorn</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/bullseye"><i class="fa fa-bullseye" aria-hidden="true"></i> <span class="sr-only">Example of </span>bullseye</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/bus"><i class="fa fa-bus" aria-hidden="true"></i> <span class="sr-only">Example of </span>bus</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/taxi"><i class="fa fa-cab" aria-hidden="true"></i> <span class="sr-only">Example of </span>cab <span class="text-muted">(alias)</span></a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/calculator"><i class="fa fa-calculator" aria-hidden="true"></i> <span class="sr-only">Example of </span>calculator</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/calendar"><i class="fa fa-calendar" aria-hidden="true"></i> <span class="sr-only">Example of </span>calendar</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/calendar-check-o"><i class="fa fa-calendar-check-o" aria-hidden="true"></i> <span class="sr-only">Example of </span>calendar-check-o</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/calendar-minus-o"><i class="fa fa-calendar-minus-o" aria-hidden="true"></i> <span class="sr-only">Example of </span>calendar-minus-o</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/calendar-o"><i class="fa fa-calendar-o" aria-hidden="true"></i> <span class="sr-only">Example of </span>calendar-o</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/calendar-plus-o"><i class="fa fa-calendar-plus-o" aria-hidden="true"></i> <span class="sr-only">Example of </span>calendar-plus-o</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/calendar-times-o"><i class="fa fa-calendar-times-o" aria-hidden="true"></i> <span class="sr-only">Example of </span>calendar-times-o</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/camera"><i class="fa fa-camera" aria-hidden="true"></i> <span class="sr-only">Example of </span>camera</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/camera-retro"><i class="fa fa-camera-retro" aria-hidden="true"></i> <span class="sr-only">Example of </span>camera-retro</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/car"><i class="fa fa-car" aria-hidden="true"></i> <span class="sr-only">Example of </span>car</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/caret-square-o-down"><i class="fa fa-caret-square-o-down" aria-hidden="true"></i> <span class="sr-only">Example of </span>caret-square-o-down</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/caret-square-o-left"><i class="fa fa-caret-square-o-left" aria-hidden="true"></i> <span class="sr-only">Example of </span>caret-square-o-left</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/caret-square-o-right"><i class="fa fa-caret-square-o-right" aria-hidden="true"></i> <span class="sr-only">Example of </span>caret-square-o-right</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/caret-square-o-up"><i class="fa fa-caret-square-o-up" aria-hidden="true"></i> <span class="sr-only">Example of </span>caret-square-o-up</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/cart-arrow-down"><i class="fa fa-cart-arrow-down" aria-hidden="true"></i> <span class="sr-only">Example of </span>cart-arrow-down</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/cart-plus"><i class="fa fa-cart-plus" aria-hidden="true"></i> <span class="sr-only">Example of </span>cart-plus</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/cc"><i class="fa fa-cc" aria-hidden="true"></i> <span class="sr-only">Example of </span>cc</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/certificate"><i class="fa fa-certificate" aria-hidden="true"></i> <span class="sr-only">Example of </span>certificate</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/check"><i class="fa fa-check" aria-hidden="true"></i> <span class="sr-only">Example of </span>check</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/check-circle"><i class="fa fa-check-circle" aria-hidden="true"></i> <span class="sr-only">Example of </span>check-circle</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/check-circle-o"><i class="fa fa-check-circle-o" aria-hidden="true"></i> <span class="sr-only">Example of </span>check-circle-o</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/check-square"><i class="fa fa-check-square" aria-hidden="true"></i> <span class="sr-only">Example of </span>check-square</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/check-square-o"><i class="fa fa-check-square-o" aria-hidden="true"></i> <span class="sr-only">Example of </span>check-square-o</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/child"><i class="fa fa-child" aria-hidden="true"></i> <span class="sr-only">Example of </span>child</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/circle"><i class="fa fa-circle" aria-hidden="true"></i> <span class="sr-only">Example of </span>circle</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/circle-o"><i class="fa fa-circle-o" aria-hidden="true"></i> <span class="sr-only">Example of </span>circle-o</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/circle-o-notch"><i class="fa fa-circle-o-notch" aria-hidden="true"></i> <span class="sr-only">Example of </span>circle-o-notch</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/circle-thin"><i class="fa fa-circle-thin" aria-hidden="true"></i> <span class="sr-only">Example of </span>circle-thin</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/clock-o"><i class="fa fa-clock-o" aria-hidden="true"></i> <span class="sr-only">Example of </span>clock-o</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/clone"><i class="fa fa-clone" aria-hidden="true"></i> <span class="sr-only">Example of </span>clone</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/times"><i class="fa fa-close" aria-hidden="true"></i> <span class="sr-only">Example of </span>close <span class="text-muted">(alias)</span></a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/cloud"><i class="fa fa-cloud" aria-hidden="true"></i> <span class="sr-only">Example of </span>cloud</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/cloud-download"><i class="fa fa-cloud-download" aria-hidden="true"></i> <span class="sr-only">Example of </span>cloud-download</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/cloud-upload"><i class="fa fa-cloud-upload" aria-hidden="true"></i> <span class="sr-only">Example of </span>cloud-upload</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/code"><i class="fa fa-code" aria-hidden="true"></i> <span class="sr-only">Example of </span>code</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/code-fork"><i class="fa fa-code-fork" aria-hidden="true"></i> <span class="sr-only">Example of </span>code-fork</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/coffee"><i class="fa fa-coffee" aria-hidden="true"></i> <span class="sr-only">Example of </span>coffee</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/cog"><i class="fa fa-cog" aria-hidden="true"></i> <span class="sr-only">Example of </span>cog</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/cogs"><i class="fa fa-cogs" aria-hidden="true"></i> <span class="sr-only">Example of </span>cogs</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/comment"><i class="fa fa-comment" aria-hidden="true"></i> <span class="sr-only">Example of </span>comment</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/comment-o"><i class="fa fa-comment-o" aria-hidden="true"></i> <span class="sr-only">Example of </span>comment-o</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/commenting"><i class="fa fa-commenting" aria-hidden="true"></i> <span class="sr-only">Example of </span>commenting</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/commenting-o"><i class="fa fa-commenting-o" aria-hidden="true"></i> <span class="sr-only">Example of </span>commenting-o</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/comments"><i class="fa fa-comments" aria-hidden="true"></i> <span class="sr-only">Example of </span>comments</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/comments-o"><i class="fa fa-comments-o" aria-hidden="true"></i> <span class="sr-only">Example of </span>comments-o</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/compass"><i class="fa fa-compass" aria-hidden="true"></i> <span class="sr-only">Example of </span>compass</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/copyright"><i class="fa fa-copyright" aria-hidden="true"></i> <span class="sr-only">Example of </span>copyright</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/creative-commons"><i class="fa fa-creative-commons" aria-hidden="true"></i> <span class="sr-only">Example of </span>creative-commons</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/credit-card"><i class="fa fa-credit-card" aria-hidden="true"></i> <span class="sr-only">Example of </span>credit-card</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/credit-card-alt"><i class="fa fa-credit-card-alt" aria-hidden="true"></i> <span class="sr-only">Example of </span>credit-card-alt</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/crop"><i class="fa fa-crop" aria-hidden="true"></i> <span class="sr-only">Example of </span>crop</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/crosshairs"><i class="fa fa-crosshairs" aria-hidden="true"></i> <span class="sr-only">Example of </span>crosshairs</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/cube"><i class="fa fa-cube" aria-hidden="true"></i> <span class="sr-only">Example of </span>cube</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/cubes"><i class="fa fa-cubes" aria-hidden="true"></i> <span class="sr-only">Example of </span>cubes</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/cutlery"><i class="fa fa-cutlery" aria-hidden="true"></i> <span class="sr-only">Example of </span>cutlery</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/tachometer"><i class="fa fa-dashboard" aria-hidden="true"></i> <span class="sr-only">Example of </span>dashboard <span class="text-muted">(alias)</span></a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/database"><i class="fa fa-database" aria-hidden="true"></i> <span class="sr-only">Example of </span>database</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/deaf"><i class="fa fa-deaf" aria-hidden="true"></i> <span class="sr-only">Example of </span>deaf</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/deaf"><i class="fa fa-deafness" aria-hidden="true"></i> <span class="sr-only">Example of </span>deafness <span class="text-muted">(alias)</span></a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/desktop"><i class="fa fa-desktop" aria-hidden="true"></i> <span class="sr-only">Example of </span>desktop</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/diamond"><i class="fa fa-diamond" aria-hidden="true"></i> <span class="sr-only">Example of </span>diamond</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/dot-circle-o"><i class="fa fa-dot-circle-o" aria-hidden="true"></i> <span class="sr-only">Example of </span>dot-circle-o</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/download"><i class="fa fa-download" aria-hidden="true"></i> <span class="sr-only">Example of </span>download</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/id-card"><i class="fa fa-drivers-license" aria-hidden="true"></i> <span class="sr-only">Example of </span>drivers-license <span class="text-muted">(alias)</span></a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/id-card-o"><i class="fa fa-drivers-license-o" aria-hidden="true"></i> <span class="sr-only">Example of </span>drivers-license-o <span class="text-muted">(alias)</span></a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/pencil-square-o"><i class="fa fa-edit" aria-hidden="true"></i> <span class="sr-only">Example of </span>edit <span class="text-muted">(alias)</span></a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/ellipsis-h"><i class="fa fa-ellipsis-h" aria-hidden="true"></i> <span class="sr-only">Example of </span>ellipsis-h</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/ellipsis-v"><i class="fa fa-ellipsis-v" aria-hidden="true"></i> <span class="sr-only">Example of </span>ellipsis-v</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/envelope"><i class="fa fa-envelope" aria-hidden="true"></i> <span class="sr-only">Example of </span>envelope</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/envelope-o"><i class="fa fa-envelope-o" aria-hidden="true"></i> <span class="sr-only">Example of </span>envelope-o</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/envelope-open"><i class="fa fa-envelope-open" aria-hidden="true"></i> <span class="sr-only">Example of </span>envelope-open</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/envelope-open-o"><i class="fa fa-envelope-open-o" aria-hidden="true"></i> <span class="sr-only">Example of </span>envelope-open-o</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/envelope-square"><i class="fa fa-envelope-square" aria-hidden="true"></i> <span class="sr-only">Example of </span>envelope-square</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/eraser"><i class="fa fa-eraser" aria-hidden="true"></i> <span class="sr-only">Example of </span>eraser</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/exchange"><i class="fa fa-exchange" aria-hidden="true"></i> <span class="sr-only">Example of </span>exchange</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/exclamation"><i class="fa fa-exclamation" aria-hidden="true"></i> <span class="sr-only">Example of </span>exclamation</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/exclamation-circle"><i class="fa fa-exclamation-circle" aria-hidden="true"></i> <span class="sr-only">Example of </span>exclamation-circle</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/exclamation-triangle"><i class="fa fa-exclamation-triangle" aria-hidden="true"></i> <span class="sr-only">Example of </span>exclamation-triangle</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/external-link"><i class="fa fa-external-link" aria-hidden="true"></i> <span class="sr-only">Example of </span>external-link</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/external-link-square"><i class="fa fa-external-link-square" aria-hidden="true"></i> <span class="sr-only">Example of </span>external-link-square</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/eye"><i class="fa fa-eye" aria-hidden="true"></i> <span class="sr-only">Example of </span>eye</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/eye-slash"><i class="fa fa-eye-slash" aria-hidden="true"></i> <span class="sr-only">Example of </span>eye-slash</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/eyedropper"><i class="fa fa-eyedropper" aria-hidden="true"></i> <span class="sr-only">Example of </span>eyedropper</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/fax"><i class="fa fa-fax" aria-hidden="true"></i> <span class="sr-only">Example of </span>fax</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/rss"><i class="fa fa-feed" aria-hidden="true"></i> <span class="sr-only">Example of </span>feed <span class="text-muted">(alias)</span></a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/female"><i class="fa fa-female" aria-hidden="true"></i> <span class="sr-only">Example of </span>female</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/fighter-jet"><i class="fa fa-fighter-jet" aria-hidden="true"></i> <span class="sr-only">Example of </span>fighter-jet</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/file-archive-o"><i class="fa fa-file-archive-o" aria-hidden="true"></i> <span class="sr-only">Example of </span>file-archive-o</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/file-audio-o"><i class="fa fa-file-audio-o" aria-hidden="true"></i> <span class="sr-only">Example of </span>file-audio-o</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/file-code-o"><i class="fa fa-file-code-o" aria-hidden="true"></i> <span class="sr-only">Example of </span>file-code-o</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/file-excel-o"><i class="fa fa-file-excel-o" aria-hidden="true"></i> <span class="sr-only">Example of </span>file-excel-o</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/file-image-o"><i class="fa fa-file-image-o" aria-hidden="true"></i> <span class="sr-only">Example of </span>file-image-o</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/file-video-o"><i class="fa fa-file-movie-o" aria-hidden="true"></i> <span class="sr-only">Example of </span>file-movie-o <span class="text-muted">(alias)</span></a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/file-pdf-o"><i class="fa fa-file-pdf-o" aria-hidden="true"></i> <span class="sr-only">Example of </span>file-pdf-o</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/file-image-o"><i class="fa fa-file-photo-o" aria-hidden="true"></i> <span class="sr-only">Example of </span>file-photo-o <span class="text-muted">(alias)</span></a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/file-image-o"><i class="fa fa-file-picture-o" aria-hidden="true"></i> <span class="sr-only">Example of </span>file-picture-o <span class="text-muted">(alias)</span></a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/file-powerpoint-o"><i class="fa fa-file-powerpoint-o" aria-hidden="true"></i> <span class="sr-only">Example of </span>file-powerpoint-o</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/file-audio-o"><i class="fa fa-file-sound-o" aria-hidden="true"></i> <span class="sr-only">Example of </span>file-sound-o <span class="text-muted">(alias)</span></a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/file-video-o"><i class="fa fa-file-video-o" aria-hidden="true"></i> <span class="sr-only">Example of </span>file-video-o</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/file-word-o"><i class="fa fa-file-word-o" aria-hidden="true"></i> <span class="sr-only">Example of </span>file-word-o</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/file-archive-o"><i class="fa fa-file-zip-o" aria-hidden="true"></i> <span class="sr-only">Example of </span>file-zip-o <span class="text-muted">(alias)</span></a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/film"><i class="fa fa-film" aria-hidden="true"></i> <span class="sr-only">Example of </span>film</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/filter"><i class="fa fa-filter" aria-hidden="true"></i> <span class="sr-only">Example of </span>filter</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/fire"><i class="fa fa-fire" aria-hidden="true"></i> <span class="sr-only">Example of </span>fire</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/fire-extinguisher"><i class="fa fa-fire-extinguisher" aria-hidden="true"></i> <span class="sr-only">Example of </span>fire-extinguisher</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/flag"><i class="fa fa-flag" aria-hidden="true"></i> <span class="sr-only">Example of </span>flag</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/flag-checkered"><i class="fa fa-flag-checkered" aria-hidden="true"></i> <span class="sr-only">Example of </span>flag-checkered</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/flag-o"><i class="fa fa-flag-o" aria-hidden="true"></i> <span class="sr-only">Example of </span>flag-o</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/bolt"><i class="fa fa-flash" aria-hidden="true"></i> <span class="sr-only">Example of </span>flash <span class="text-muted">(alias)</span></a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/flask"><i class="fa fa-flask" aria-hidden="true"></i> <span class="sr-only">Example of </span>flask</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/folder"><i class="fa fa-folder" aria-hidden="true"></i> <span class="sr-only">Example of </span>folder</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/folder-o"><i class="fa fa-folder-o" aria-hidden="true"></i> <span class="sr-only">Example of </span>folder-o</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/folder-open"><i class="fa fa-folder-open" aria-hidden="true"></i> <span class="sr-only">Example of </span>folder-open</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/folder-open-o"><i class="fa fa-folder-open-o" aria-hidden="true"></i> <span class="sr-only">Example of </span>folder-open-o</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/frown-o"><i class="fa fa-frown-o" aria-hidden="true"></i> <span class="sr-only">Example of </span>frown-o</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/futbol-o"><i class="fa fa-futbol-o" aria-hidden="true"></i> <span class="sr-only">Example of </span>futbol-o</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/gamepad"><i class="fa fa-gamepad" aria-hidden="true"></i> <span class="sr-only">Example of </span>gamepad</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/gavel"><i class="fa fa-gavel" aria-hidden="true"></i> <span class="sr-only">Example of </span>gavel</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/cog"><i class="fa fa-gear" aria-hidden="true"></i> <span class="sr-only">Example of </span>gear <span class="text-muted">(alias)</span></a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/cogs"><i class="fa fa-gears" aria-hidden="true"></i> <span class="sr-only">Example of </span>gears <span class="text-muted">(alias)</span></a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/gift"><i class="fa fa-gift" aria-hidden="true"></i> <span class="sr-only">Example of </span>gift</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/glass"><i class="fa fa-glass" aria-hidden="true"></i> <span class="sr-only">Example of </span>glass</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/globe"><i class="fa fa-globe" aria-hidden="true"></i> <span class="sr-only">Example of </span>globe</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/graduation-cap"><i class="fa fa-graduation-cap" aria-hidden="true"></i> <span class="sr-only">Example of </span>graduation-cap</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/users"><i class="fa fa-group" aria-hidden="true"></i> <span class="sr-only">Example of </span>group <span class="text-muted">(alias)</span></a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/hand-rock-o"><i class="fa fa-hand-grab-o" aria-hidden="true"></i> <span class="sr-only">Example of </span>hand-grab-o <span class="text-muted">(alias)</span></a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/hand-lizard-o"><i class="fa fa-hand-lizard-o" aria-hidden="true"></i> <span class="sr-only">Example of </span>hand-lizard-o</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/hand-paper-o"><i class="fa fa-hand-paper-o" aria-hidden="true"></i> <span class="sr-only">Example of </span>hand-paper-o</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/hand-peace-o"><i class="fa fa-hand-peace-o" aria-hidden="true"></i> <span class="sr-only">Example of </span>hand-peace-o</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/hand-pointer-o"><i class="fa fa-hand-pointer-o" aria-hidden="true"></i> <span class="sr-only">Example of </span>hand-pointer-o</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/hand-rock-o"><i class="fa fa-hand-rock-o" aria-hidden="true"></i> <span class="sr-only">Example of </span>hand-rock-o</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/hand-scissors-o"><i class="fa fa-hand-scissors-o" aria-hidden="true"></i> <span class="sr-only">Example of </span>hand-scissors-o</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/hand-spock-o"><i class="fa fa-hand-spock-o" aria-hidden="true"></i> <span class="sr-only">Example of </span>hand-spock-o</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/hand-paper-o"><i class="fa fa-hand-stop-o" aria-hidden="true"></i> <span class="sr-only">Example of </span>hand-stop-o <span class="text-muted">(alias)</span></a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/handshake-o"><i class="fa fa-handshake-o" aria-hidden="true"></i> <span class="sr-only">Example of </span>handshake-o</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/deaf"><i class="fa fa-hard-of-hearing" aria-hidden="true"></i> <span class="sr-only">Example of </span>hard-of-hearing <span class="text-muted">(alias)</span></a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/hashtag"><i class="fa fa-hashtag" aria-hidden="true"></i> <span class="sr-only">Example of </span>hashtag</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/hdd-o"><i class="fa fa-hdd-o" aria-hidden="true"></i> <span class="sr-only">Example of </span>hdd-o</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/headphones"><i class="fa fa-headphones" aria-hidden="true"></i> <span class="sr-only">Example of </span>headphones</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/heart"><i class="fa fa-heart" aria-hidden="true"></i> <span class="sr-only">Example of </span>heart</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/heart-o"><i class="fa fa-heart-o" aria-hidden="true"></i> <span class="sr-only">Example of </span>heart-o</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/heartbeat"><i class="fa fa-heartbeat" aria-hidden="true"></i> <span class="sr-only">Example of </span>heartbeat</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/history"><i class="fa fa-history" aria-hidden="true"></i> <span class="sr-only">Example of </span>history</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/home"><i class="fa fa-home" aria-hidden="true"></i> <span class="sr-only">Example of </span>home</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/bed"><i class="fa fa-hotel" aria-hidden="true"></i> <span class="sr-only">Example of </span>hotel <span class="text-muted">(alias)</span></a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/hourglass"><i class="fa fa-hourglass" aria-hidden="true"></i> <span class="sr-only">Example of </span>hourglass</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/hourglass-start"><i class="fa fa-hourglass-1" aria-hidden="true"></i> <span class="sr-only">Example of </span>hourglass-1 <span class="text-muted">(alias)</span></a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/hourglass-half"><i class="fa fa-hourglass-2" aria-hidden="true"></i> <span class="sr-only">Example of </span>hourglass-2 <span class="text-muted">(alias)</span></a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/hourglass-end"><i class="fa fa-hourglass-3" aria-hidden="true"></i> <span class="sr-only">Example of </span>hourglass-3 <span class="text-muted">(alias)</span></a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/hourglass-end"><i class="fa fa-hourglass-end" aria-hidden="true"></i> <span class="sr-only">Example of </span>hourglass-end</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/hourglass-half"><i class="fa fa-hourglass-half" aria-hidden="true"></i> <span class="sr-only">Example of </span>hourglass-half</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/hourglass-o"><i class="fa fa-hourglass-o" aria-hidden="true"></i> <span class="sr-only">Example of </span>hourglass-o</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/hourglass-start"><i class="fa fa-hourglass-start" aria-hidden="true"></i> <span class="sr-only">Example of </span>hourglass-start</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/i-cursor"><i class="fa fa-i-cursor" aria-hidden="true"></i> <span class="sr-only">Example of </span>i-cursor</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/id-badge"><i class="fa fa-id-badge" aria-hidden="true"></i> <span class="sr-only">Example of </span>id-badge</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/id-card"><i class="fa fa-id-card" aria-hidden="true"></i> <span class="sr-only">Example of </span>id-card</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/id-card-o"><i class="fa fa-id-card-o" aria-hidden="true"></i> <span class="sr-only">Example of </span>id-card-o</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/picture-o"><i class="fa fa-image" aria-hidden="true"></i> <span class="sr-only">Example of </span>image <span class="text-muted">(alias)</span></a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/inbox"><i class="fa fa-inbox" aria-hidden="true"></i> <span class="sr-only">Example of </span>inbox</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/industry"><i class="fa fa-industry" aria-hidden="true"></i> <span class="sr-only">Example of </span>industry</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/info"><i class="fa fa-info" aria-hidden="true"></i> <span class="sr-only">Example of </span>info</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/info-circle"><i class="fa fa-info-circle" aria-hidden="true"></i> <span class="sr-only">Example of </span>info-circle</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/university"><i class="fa fa-institution" aria-hidden="true"></i> <span class="sr-only">Example of </span>institution <span class="text-muted">(alias)</span></a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/key"><i class="fa fa-key" aria-hidden="true"></i> <span class="sr-only">Example of </span>key</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/keyboard-o"><i class="fa fa-keyboard-o" aria-hidden="true"></i> <span class="sr-only">Example of </span>keyboard-o</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/language"><i class="fa fa-language" aria-hidden="true"></i> <span class="sr-only">Example of </span>language</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/laptop"><i class="fa fa-laptop" aria-hidden="true"></i> <span class="sr-only">Example of </span>laptop</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/leaf"><i class="fa fa-leaf" aria-hidden="true"></i> <span class="sr-only">Example of </span>leaf</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/gavel"><i class="fa fa-legal" aria-hidden="true"></i> <span class="sr-only">Example of </span>legal <span class="text-muted">(alias)</span></a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/lemon-o"><i class="fa fa-lemon-o" aria-hidden="true"></i> <span class="sr-only">Example of </span>lemon-o</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/level-down"><i class="fa fa-level-down" aria-hidden="true"></i> <span class="sr-only">Example of </span>level-down</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/level-up"><i class="fa fa-level-up" aria-hidden="true"></i> <span class="sr-only">Example of </span>level-up</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/life-ring"><i class="fa fa-life-bouy" aria-hidden="true"></i> <span class="sr-only">Example of </span>life-bouy <span class="text-muted">(alias)</span></a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/life-ring"><i class="fa fa-life-buoy" aria-hidden="true"></i> <span class="sr-only">Example of </span>life-buoy <span class="text-muted">(alias)</span></a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/life-ring"><i class="fa fa-life-ring" aria-hidden="true"></i> <span class="sr-only">Example of </span>life-ring</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/life-ring"><i class="fa fa-life-saver" aria-hidden="true"></i> <span class="sr-only">Example of </span>life-saver <span class="text-muted">(alias)</span></a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/lightbulb-o"><i class="fa fa-lightbulb-o" aria-hidden="true"></i> <span class="sr-only">Example of </span>lightbulb-o</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/line-chart"><i class="fa fa-line-chart" aria-hidden="true"></i> <span class="sr-only">Example of </span>line-chart</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/location-arrow"><i class="fa fa-location-arrow" aria-hidden="true"></i> <span class="sr-only">Example of </span>location-arrow</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/lock"><i class="fa fa-lock" aria-hidden="true"></i> <span class="sr-only">Example of </span>lock</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/low-vision"><i class="fa fa-low-vision" aria-hidden="true"></i> <span class="sr-only">Example of </span>low-vision</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/magic"><i class="fa fa-magic" aria-hidden="true"></i> <span class="sr-only">Example of </span>magic</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/magnet"><i class="fa fa-magnet" aria-hidden="true"></i> <span class="sr-only">Example of </span>magnet</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/share"><i class="fa fa-mail-forward" aria-hidden="true"></i> <span class="sr-only">Example of </span>mail-forward <span class="text-muted">(alias)</span></a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/reply"><i class="fa fa-mail-reply" aria-hidden="true"></i> <span class="sr-only">Example of </span>mail-reply <span class="text-muted">(alias)</span></a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/reply-all"><i class="fa fa-mail-reply-all" aria-hidden="true"></i> <span class="sr-only">Example of </span>mail-reply-all <span class="text-muted">(alias)</span></a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/male"><i class="fa fa-male" aria-hidden="true"></i> <span class="sr-only">Example of </span>male</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/map"><i class="fa fa-map" aria-hidden="true"></i> <span class="sr-only">Example of </span>map</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/map-marker"><i class="fa fa-map-marker" aria-hidden="true"></i> <span class="sr-only">Example of </span>map-marker</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/map-o"><i class="fa fa-map-o" aria-hidden="true"></i> <span class="sr-only">Example of </span>map-o</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/map-pin"><i class="fa fa-map-pin" aria-hidden="true"></i> <span class="sr-only">Example of </span>map-pin</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/map-signs"><i class="fa fa-map-signs" aria-hidden="true"></i> <span class="sr-only">Example of </span>map-signs</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/meh-o"><i class="fa fa-meh-o" aria-hidden="true"></i> <span class="sr-only">Example of </span>meh-o</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/microchip"><i class="fa fa-microchip" aria-hidden="true"></i> <span class="sr-only">Example of </span>microchip</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/microphone"><i class="fa fa-microphone" aria-hidden="true"></i> <span class="sr-only">Example of </span>microphone</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/microphone-slash"><i class="fa fa-microphone-slash" aria-hidden="true"></i> <span class="sr-only">Example of </span>microphone-slash</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/minus"><i class="fa fa-minus" aria-hidden="true"></i> <span class="sr-only">Example of </span>minus</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/minus-circle"><i class="fa fa-minus-circle" aria-hidden="true"></i> <span class="sr-only">Example of </span>minus-circle</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/minus-square"><i class="fa fa-minus-square" aria-hidden="true"></i> <span class="sr-only">Example of </span>minus-square</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/minus-square-o"><i class="fa fa-minus-square-o" aria-hidden="true"></i> <span class="sr-only">Example of </span>minus-square-o</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/mobile"><i class="fa fa-mobile" aria-hidden="true"></i> <span class="sr-only">Example of </span>mobile</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/mobile"><i class="fa fa-mobile-phone" aria-hidden="true"></i> <span class="sr-only">Example of </span>mobile-phone <span class="text-muted">(alias)</span></a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/money"><i class="fa fa-money" aria-hidden="true"></i> <span class="sr-only">Example of </span>money</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/moon-o"><i class="fa fa-moon-o" aria-hidden="true"></i> <span class="sr-only">Example of </span>moon-o</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/graduation-cap"><i class="fa fa-mortar-board" aria-hidden="true"></i> <span class="sr-only">Example of </span>mortar-board <span class="text-muted">(alias)</span></a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/motorcycle"><i class="fa fa-motorcycle" aria-hidden="true"></i> <span class="sr-only">Example of </span>motorcycle</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/mouse-pointer"><i class="fa fa-mouse-pointer" aria-hidden="true"></i> <span class="sr-only">Example of </span>mouse-pointer</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/music"><i class="fa fa-music" aria-hidden="true"></i> <span class="sr-only">Example of </span>music</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/bars"><i class="fa fa-navicon" aria-hidden="true"></i> <span class="sr-only">Example of </span>navicon <span class="text-muted">(alias)</span></a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/newspaper-o"><i class="fa fa-newspaper-o" aria-hidden="true"></i> <span class="sr-only">Example of </span>newspaper-o</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/object-group"><i class="fa fa-object-group" aria-hidden="true"></i> <span class="sr-only">Example of </span>object-group</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/object-ungroup"><i class="fa fa-object-ungroup" aria-hidden="true"></i> <span class="sr-only">Example of </span>object-ungroup</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/paint-brush"><i class="fa fa-paint-brush" aria-hidden="true"></i> <span class="sr-only">Example of </span>paint-brush</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/paper-plane"><i class="fa fa-paper-plane" aria-hidden="true"></i> <span class="sr-only">Example of </span>paper-plane</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/paper-plane-o"><i class="fa fa-paper-plane-o" aria-hidden="true"></i> <span class="sr-only">Example of </span>paper-plane-o</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/paw"><i class="fa fa-paw" aria-hidden="true"></i> <span class="sr-only">Example of </span>paw</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/pencil"><i class="fa fa-pencil" aria-hidden="true"></i> <span class="sr-only">Example of </span>pencil</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/pencil-square"><i class="fa fa-pencil-square" aria-hidden="true"></i> <span class="sr-only">Example of </span>pencil-square</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/pencil-square-o"><i class="fa fa-pencil-square-o" aria-hidden="true"></i> <span class="sr-only">Example of </span>pencil-square-o</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/percent"><i class="fa fa-percent" aria-hidden="true"></i> <span class="sr-only">Example of </span>percent</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/phone"><i class="fa fa-phone" aria-hidden="true"></i> <span class="sr-only">Example of </span>phone</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/phone-square"><i class="fa fa-phone-square" aria-hidden="true"></i> <span class="sr-only">Example of </span>phone-square</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/picture-o"><i class="fa fa-photo" aria-hidden="true"></i> <span class="sr-only">Example of </span>photo <span class="text-muted">(alias)</span></a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/picture-o"><i class="fa fa-picture-o" aria-hidden="true"></i> <span class="sr-only">Example of </span>picture-o</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/pie-chart"><i class="fa fa-pie-chart" aria-hidden="true"></i> <span class="sr-only">Example of </span>pie-chart</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/plane"><i class="fa fa-plane" aria-hidden="true"></i> <span class="sr-only">Example of </span>plane</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/plug"><i class="fa fa-plug" aria-hidden="true"></i> <span class="sr-only">Example of </span>plug</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/plus"><i class="fa fa-plus" aria-hidden="true"></i> <span class="sr-only">Example of </span>plus</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/plus-circle"><i class="fa fa-plus-circle" aria-hidden="true"></i> <span class="sr-only">Example of </span>plus-circle</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/plus-square"><i class="fa fa-plus-square" aria-hidden="true"></i> <span class="sr-only">Example of </span>plus-square</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/plus-square-o"><i class="fa fa-plus-square-o" aria-hidden="true"></i> <span class="sr-only">Example of </span>plus-square-o</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/podcast"><i class="fa fa-podcast" aria-hidden="true"></i> <span class="sr-only">Example of </span>podcast</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/power-off"><i class="fa fa-power-off" aria-hidden="true"></i> <span class="sr-only">Example of </span>power-off</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/print"><i class="fa fa-print" aria-hidden="true"></i> <span class="sr-only">Example of </span>print</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/puzzle-piece"><i class="fa fa-puzzle-piece" aria-hidden="true"></i> <span class="sr-only">Example of </span>puzzle-piece</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/qrcode"><i class="fa fa-qrcode" aria-hidden="true"></i> <span class="sr-only">Example of </span>qrcode</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/question"><i class="fa fa-question" aria-hidden="true"></i> <span class="sr-only">Example of </span>question</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/question-circle"><i class="fa fa-question-circle" aria-hidden="true"></i> <span class="sr-only">Example of </span>question-circle</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/question-circle-o"><i class="fa fa-question-circle-o" aria-hidden="true"></i> <span class="sr-only">Example of </span>question-circle-o</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/quote-left"><i class="fa fa-quote-left" aria-hidden="true"></i> <span class="sr-only">Example of </span>quote-left</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/quote-right"><i class="fa fa-quote-right" aria-hidden="true"></i> <span class="sr-only">Example of </span>quote-right</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/random"><i class="fa fa-random" aria-hidden="true"></i> <span class="sr-only">Example of </span>random</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/recycle"><i class="fa fa-recycle" aria-hidden="true"></i> <span class="sr-only">Example of </span>recycle</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/refresh"><i class="fa fa-refresh" aria-hidden="true"></i> <span class="sr-only">Example of </span>refresh</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/registered"><i class="fa fa-registered" aria-hidden="true"></i> <span class="sr-only">Example of </span>registered</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/times"><i class="fa fa-remove" aria-hidden="true"></i> <span class="sr-only">Example of </span>remove <span class="text-muted">(alias)</span></a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/bars"><i class="fa fa-reorder" aria-hidden="true"></i> <span class="sr-only">Example of </span>reorder <span class="text-muted">(alias)</span></a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/reply"><i class="fa fa-reply" aria-hidden="true"></i> <span class="sr-only">Example of </span>reply</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/reply-all"><i class="fa fa-reply-all" aria-hidden="true"></i> <span class="sr-only">Example of </span>reply-all</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/retweet"><i class="fa fa-retweet" aria-hidden="true"></i> <span class="sr-only">Example of </span>retweet</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/road"><i class="fa fa-road" aria-hidden="true"></i> <span class="sr-only">Example of </span>road</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/rocket"><i class="fa fa-rocket" aria-hidden="true"></i> <span class="sr-only">Example of </span>rocket</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/rss"><i class="fa fa-rss" aria-hidden="true"></i> <span class="sr-only">Example of </span>rss</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/rss-square"><i class="fa fa-rss-square" aria-hidden="true"></i> <span class="sr-only">Example of </span>rss-square</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/bath"><i class="fa fa-s15" aria-hidden="true"></i> <span class="sr-only">Example of </span>s15 <span class="text-muted">(alias)</span></a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/search"><i class="fa fa-search" aria-hidden="true"></i> <span class="sr-only">Example of </span>search</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/search-minus"><i class="fa fa-search-minus" aria-hidden="true"></i> <span class="sr-only">Example of </span>search-minus</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/search-plus"><i class="fa fa-search-plus" aria-hidden="true"></i> <span class="sr-only">Example of </span>search-plus</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/paper-plane"><i class="fa fa-send" aria-hidden="true"></i> <span class="sr-only">Example of </span>send <span class="text-muted">(alias)</span></a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/paper-plane-o"><i class="fa fa-send-o" aria-hidden="true"></i> <span class="sr-only">Example of </span>send-o <span class="text-muted">(alias)</span></a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/server"><i class="fa fa-server" aria-hidden="true"></i> <span class="sr-only">Example of </span>server</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/share"><i class="fa fa-share" aria-hidden="true"></i> <span class="sr-only">Example of </span>share</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/share-alt"><i class="fa fa-share-alt" aria-hidden="true"></i> <span class="sr-only">Example of </span>share-alt</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/share-alt-square"><i class="fa fa-share-alt-square" aria-hidden="true"></i> <span class="sr-only">Example of </span>share-alt-square</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/share-square"><i class="fa fa-share-square" aria-hidden="true"></i> <span class="sr-only">Example of </span>share-square</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/share-square-o"><i class="fa fa-share-square-o" aria-hidden="true"></i> <span class="sr-only">Example of </span>share-square-o</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/shield"><i class="fa fa-shield" aria-hidden="true"></i> <span class="sr-only">Example of </span>shield</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/ship"><i class="fa fa-ship" aria-hidden="true"></i> <span class="sr-only">Example of </span>ship</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/shopping-bag"><i class="fa fa-shopping-bag" aria-hidden="true"></i> <span class="sr-only">Example of </span>shopping-bag</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/shopping-basket"><i class="fa fa-shopping-basket" aria-hidden="true"></i> <span class="sr-only">Example of </span>shopping-basket</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/shopping-cart"><i class="fa fa-shopping-cart" aria-hidden="true"></i> <span class="sr-only">Example of </span>shopping-cart</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/shower"><i class="fa fa-shower" aria-hidden="true"></i> <span class="sr-only">Example of </span>shower</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/sign-in"><i class="fa fa-sign-in" aria-hidden="true"></i> <span class="sr-only">Example of </span>sign-in</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/sign-language"><i class="fa fa-sign-language" aria-hidden="true"></i> <span class="sr-only">Example of </span>sign-language</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/sign-out"><i class="fa fa-sign-out" aria-hidden="true"></i> <span class="sr-only">Example of </span>sign-out</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/signal"><i class="fa fa-signal" aria-hidden="true"></i> <span class="sr-only">Example of </span>signal</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/sign-language"><i class="fa fa-signing" aria-hidden="true"></i> <span class="sr-only">Example of </span>signing <span class="text-muted">(alias)</span></a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/sitemap"><i class="fa fa-sitemap" aria-hidden="true"></i> <span class="sr-only">Example of </span>sitemap</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/sliders"><i class="fa fa-sliders" aria-hidden="true"></i> <span class="sr-only">Example of </span>sliders</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/smile-o"><i class="fa fa-smile-o" aria-hidden="true"></i> <span class="sr-only">Example of </span>smile-o</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/snowflake-o"><i class="fa fa-snowflake-o" aria-hidden="true"></i> <span class="sr-only">Example of </span>snowflake-o</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/futbol-o"><i class="fa fa-soccer-ball-o" aria-hidden="true"></i> <span class="sr-only">Example of </span>soccer-ball-o <span class="text-muted">(alias)</span></a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/sort"><i class="fa fa-sort" aria-hidden="true"></i> <span class="sr-only">Example of </span>sort</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/sort-alpha-asc"><i class="fa fa-sort-alpha-asc" aria-hidden="true"></i> <span class="sr-only">Example of </span>sort-alpha-asc</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/sort-alpha-desc"><i class="fa fa-sort-alpha-desc" aria-hidden="true"></i> <span class="sr-only">Example of </span>sort-alpha-desc</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/sort-amount-asc"><i class="fa fa-sort-amount-asc" aria-hidden="true"></i> <span class="sr-only">Example of </span>sort-amount-asc</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/sort-amount-desc"><i class="fa fa-sort-amount-desc" aria-hidden="true"></i> <span class="sr-only">Example of </span>sort-amount-desc</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/sort-asc"><i class="fa fa-sort-asc" aria-hidden="true"></i> <span class="sr-only">Example of </span>sort-asc</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/sort-desc"><i class="fa fa-sort-desc" aria-hidden="true"></i> <span class="sr-only">Example of </span>sort-desc</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/sort-desc"><i class="fa fa-sort-down" aria-hidden="true"></i> <span class="sr-only">Example of </span>sort-down <span class="text-muted">(alias)</span></a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/sort-numeric-asc"><i class="fa fa-sort-numeric-asc" aria-hidden="true"></i> <span class="sr-only">Example of </span>sort-numeric-asc</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/sort-numeric-desc"><i class="fa fa-sort-numeric-desc" aria-hidden="true"></i> <span class="sr-only">Example of </span>sort-numeric-desc</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/sort-asc"><i class="fa fa-sort-up" aria-hidden="true"></i> <span class="sr-only">Example of </span>sort-up <span class="text-muted">(alias)</span></a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/space-shuttle"><i class="fa fa-space-shuttle" aria-hidden="true"></i> <span class="sr-only">Example of </span>space-shuttle</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/spinner"><i class="fa fa-spinner" aria-hidden="true"></i> <span class="sr-only">Example of </span>spinner</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/spoon"><i class="fa fa-spoon" aria-hidden="true"></i> <span class="sr-only">Example of </span>spoon</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/square"><i class="fa fa-square" aria-hidden="true"></i> <span class="sr-only">Example of </span>square</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/square-o"><i class="fa fa-square-o" aria-hidden="true"></i> <span class="sr-only">Example of </span>square-o</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/star"><i class="fa fa-star" aria-hidden="true"></i> <span class="sr-only">Example of </span>star</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/star-half"><i class="fa fa-star-half" aria-hidden="true"></i> <span class="sr-only">Example of </span>star-half</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/star-half-o"><i class="fa fa-star-half-empty" aria-hidden="true"></i> <span class="sr-only">Example of </span>star-half-empty <span class="text-muted">(alias)</span></a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/star-half-o"><i class="fa fa-star-half-full" aria-hidden="true"></i> <span class="sr-only">Example of </span>star-half-full <span class="text-muted">(alias)</span></a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/star-half-o"><i class="fa fa-star-half-o" aria-hidden="true"></i> <span class="sr-only">Example of </span>star-half-o</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/star-o"><i class="fa fa-star-o" aria-hidden="true"></i> <span class="sr-only">Example of </span>star-o</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/sticky-note"><i class="fa fa-sticky-note" aria-hidden="true"></i> <span class="sr-only">Example of </span>sticky-note</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/sticky-note-o"><i class="fa fa-sticky-note-o" aria-hidden="true"></i> <span class="sr-only">Example of </span>sticky-note-o</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/street-view"><i class="fa fa-street-view" aria-hidden="true"></i> <span class="sr-only">Example of </span>street-view</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/suitcase"><i class="fa fa-suitcase" aria-hidden="true"></i> <span class="sr-only">Example of </span>suitcase</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/sun-o"><i class="fa fa-sun-o" aria-hidden="true"></i> <span class="sr-only">Example of </span>sun-o</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/life-ring"><i class="fa fa-support" aria-hidden="true"></i> <span class="sr-only">Example of </span>support <span class="text-muted">(alias)</span></a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/tablet"><i class="fa fa-tablet" aria-hidden="true"></i> <span class="sr-only">Example of </span>tablet</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/tachometer"><i class="fa fa-tachometer" aria-hidden="true"></i> <span class="sr-only">Example of </span>tachometer</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/tag"><i class="fa fa-tag" aria-hidden="true"></i> <span class="sr-only">Example of </span>tag</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/tags"><i class="fa fa-tags" aria-hidden="true"></i> <span class="sr-only">Example of </span>tags</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/tasks"><i class="fa fa-tasks" aria-hidden="true"></i> <span class="sr-only">Example of </span>tasks</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/taxi"><i class="fa fa-taxi" aria-hidden="true"></i> <span class="sr-only">Example of </span>taxi</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/television"><i class="fa fa-television" aria-hidden="true"></i> <span class="sr-only">Example of </span>television</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/terminal"><i class="fa fa-terminal" aria-hidden="true"></i> <span class="sr-only">Example of </span>terminal</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/thermometer-full"><i class="fa fa-thermometer" aria-hidden="true"></i> <span class="sr-only">Example of </span>thermometer <span class="text-muted">(alias)</span></a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/thermometer-empty"><i class="fa fa-thermometer-0" aria-hidden="true"></i> <span class="sr-only">Example of </span>thermometer-0 <span class="text-muted">(alias)</span></a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/thermometer-quarter"><i class="fa fa-thermometer-1" aria-hidden="true"></i> <span class="sr-only">Example of </span>thermometer-1 <span class="text-muted">(alias)</span></a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/thermometer-half"><i class="fa fa-thermometer-2" aria-hidden="true"></i> <span class="sr-only">Example of </span>thermometer-2 <span class="text-muted">(alias)</span></a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/thermometer-three-quarters"><i class="fa fa-thermometer-3" aria-hidden="true"></i> <span class="sr-only">Example of </span>thermometer-3 <span class="text-muted">(alias)</span></a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/thermometer-full"><i class="fa fa-thermometer-4" aria-hidden="true"></i> <span class="sr-only">Example of </span>thermometer-4 <span class="text-muted">(alias)</span></a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/thermometer-empty"><i class="fa fa-thermometer-empty" aria-hidden="true"></i> <span class="sr-only">Example of </span>thermometer-empty</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/thermometer-full"><i class="fa fa-thermometer-full" aria-hidden="true"></i> <span class="sr-only">Example of </span>thermometer-full</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/thermometer-half"><i class="fa fa-thermometer-half" aria-hidden="true"></i> <span class="sr-only">Example of </span>thermometer-half</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/thermometer-quarter"><i class="fa fa-thermometer-quarter" aria-hidden="true"></i> <span class="sr-only">Example of </span>thermometer-quarter</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/thermometer-three-quarters"><i class="fa fa-thermometer-three-quarters" aria-hidden="true"></i> <span class="sr-only">Example of </span>thermometer-three-quarters</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/thumb-tack"><i class="fa fa-thumb-tack" aria-hidden="true"></i> <span class="sr-only">Example of </span>thumb-tack</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/thumbs-down"><i class="fa fa-thumbs-down" aria-hidden="true"></i> <span class="sr-only">Example of </span>thumbs-down</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/thumbs-o-down"><i class="fa fa-thumbs-o-down" aria-hidden="true"></i> <span class="sr-only">Example of </span>thumbs-o-down</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/thumbs-o-up"><i class="fa fa-thumbs-o-up" aria-hidden="true"></i> <span class="sr-only">Example of </span>thumbs-o-up</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/thumbs-up"><i class="fa fa-thumbs-up" aria-hidden="true"></i> <span class="sr-only">Example of </span>thumbs-up</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/ticket"><i class="fa fa-ticket" aria-hidden="true"></i> <span class="sr-only">Example of </span>ticket</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/times"><i class="fa fa-times" aria-hidden="true"></i> <span class="sr-only">Example of </span>times</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/times-circle"><i class="fa fa-times-circle" aria-hidden="true"></i> <span class="sr-only">Example of </span>times-circle</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/times-circle-o"><i class="fa fa-times-circle-o" aria-hidden="true"></i> <span class="sr-only">Example of </span>times-circle-o</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/window-close"><i class="fa fa-times-rectangle" aria-hidden="true"></i> <span class="sr-only">Example of </span>times-rectangle <span class="text-muted">(alias)</span></a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/window-close-o"><i class="fa fa-times-rectangle-o" aria-hidden="true"></i> <span class="sr-only">Example of </span>times-rectangle-o <span class="text-muted">(alias)</span></a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/tint"><i class="fa fa-tint" aria-hidden="true"></i> <span class="sr-only">Example of </span>tint</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/caret-square-o-down"><i class="fa fa-toggle-down" aria-hidden="true"></i> <span class="sr-only">Example of </span>toggle-down <span class="text-muted">(alias)</span></a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/caret-square-o-left"><i class="fa fa-toggle-left" aria-hidden="true"></i> <span class="sr-only">Example of </span>toggle-left <span class="text-muted">(alias)</span></a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/toggle-off"><i class="fa fa-toggle-off" aria-hidden="true"></i> <span class="sr-only">Example of </span>toggle-off</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/toggle-on"><i class="fa fa-toggle-on" aria-hidden="true"></i> <span class="sr-only">Example of </span>toggle-on</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/caret-square-o-right"><i class="fa fa-toggle-right" aria-hidden="true"></i> <span class="sr-only">Example of </span>toggle-right <span class="text-muted">(alias)</span></a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/caret-square-o-up"><i class="fa fa-toggle-up" aria-hidden="true"></i> <span class="sr-only">Example of </span>toggle-up <span class="text-muted">(alias)</span></a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/trademark"><i class="fa fa-trademark" aria-hidden="true"></i> <span class="sr-only">Example of </span>trademark</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/trash"><i class="fa fa-trash" aria-hidden="true"></i> <span class="sr-only">Example of </span>trash</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/trash-o"><i class="fa fa-trash-o" aria-hidden="true"></i> <span class="sr-only">Example of </span>trash-o</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/tree"><i class="fa fa-tree" aria-hidden="true"></i> <span class="sr-only">Example of </span>tree</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/trophy"><i class="fa fa-trophy" aria-hidden="true"></i> <span class="sr-only">Example of </span>trophy</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/truck"><i class="fa fa-truck" aria-hidden="true"></i> <span class="sr-only">Example of </span>truck</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/tty"><i class="fa fa-tty" aria-hidden="true"></i> <span class="sr-only">Example of </span>tty</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/television"><i class="fa fa-tv" aria-hidden="true"></i> <span class="sr-only">Example of </span>tv <span class="text-muted">(alias)</span></a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/umbrella"><i class="fa fa-umbrella" aria-hidden="true"></i> <span class="sr-only">Example of </span>umbrella</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/universal-access"><i class="fa fa-universal-access" aria-hidden="true"></i> <span class="sr-only">Example of </span>universal-access</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/university"><i class="fa fa-university" aria-hidden="true"></i> <span class="sr-only">Example of </span>university</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/unlock"><i class="fa fa-unlock" aria-hidden="true"></i> <span class="sr-only">Example of </span>unlock</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/unlock-alt"><i class="fa fa-unlock-alt" aria-hidden="true"></i> <span class="sr-only">Example of </span>unlock-alt</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/sort"><i class="fa fa-unsorted" aria-hidden="true"></i> <span class="sr-only">Example of </span>unsorted <span class="text-muted">(alias)</span></a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/upload"><i class="fa fa-upload" aria-hidden="true"></i> <span class="sr-only">Example of </span>upload</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/user"><i class="fa fa-user" aria-hidden="true"></i> <span class="sr-only">Example of </span>user</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/user-circle"><i class="fa fa-user-circle" aria-hidden="true"></i> <span class="sr-only">Example of </span>user-circle</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/user-circle-o"><i class="fa fa-user-circle-o" aria-hidden="true"></i> <span class="sr-only">Example of </span>user-circle-o</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/user-o"><i class="fa fa-user-o" aria-hidden="true"></i> <span class="sr-only">Example of </span>user-o</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/user-plus"><i class="fa fa-user-plus" aria-hidden="true"></i> <span class="sr-only">Example of </span>user-plus</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/user-secret"><i class="fa fa-user-secret" aria-hidden="true"></i> <span class="sr-only">Example of </span>user-secret</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/user-times"><i class="fa fa-user-times" aria-hidden="true"></i> <span class="sr-only">Example of </span>user-times</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/users"><i class="fa fa-users" aria-hidden="true"></i> <span class="sr-only">Example of </span>users</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/address-card"><i class="fa fa-vcard" aria-hidden="true"></i> <span class="sr-only">Example of </span>vcard <span class="text-muted">(alias)</span></a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/address-card-o"><i class="fa fa-vcard-o" aria-hidden="true"></i> <span class="sr-only">Example of </span>vcard-o <span class="text-muted">(alias)</span></a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/video-camera"><i class="fa fa-video-camera" aria-hidden="true"></i> <span class="sr-only">Example of </span>video-camera</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/volume-control-phone"><i class="fa fa-volume-control-phone" aria-hidden="true"></i> <span class="sr-only">Example of </span>volume-control-phone</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/volume-down"><i class="fa fa-volume-down" aria-hidden="true"></i> <span class="sr-only">Example of </span>volume-down</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/volume-off"><i class="fa fa-volume-off" aria-hidden="true"></i> <span class="sr-only">Example of </span>volume-off</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/volume-up"><i class="fa fa-volume-up" aria-hidden="true"></i> <span class="sr-only">Example of </span>volume-up</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/exclamation-triangle"><i class="fa fa-warning" aria-hidden="true"></i> <span class="sr-only">Example of </span>warning <span class="text-muted">(alias)</span></a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/wheelchair"><i class="fa fa-wheelchair" aria-hidden="true"></i> <span class="sr-only">Example of </span>wheelchair</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/wheelchair-alt"><i class="fa fa-wheelchair-alt" aria-hidden="true"></i> <span class="sr-only">Example of </span>wheelchair-alt</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/wifi"><i class="fa fa-wifi" aria-hidden="true"></i> <span class="sr-only">Example of </span>wifi</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/window-close"><i class="fa fa-window-close" aria-hidden="true"></i> <span class="sr-only">Example of </span>window-close</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/window-close-o"><i class="fa fa-window-close-o" aria-hidden="true"></i> <span class="sr-only">Example of </span>window-close-o</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/window-maximize"><i class="fa fa-window-maximize" aria-hidden="true"></i> <span class="sr-only">Example of </span>window-maximize</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/window-minimize"><i class="fa fa-window-minimize" aria-hidden="true"></i> <span class="sr-only">Example of </span>window-minimize</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/window-restore"><i class="fa fa-window-restore" aria-hidden="true"></i> <span class="sr-only">Example of </span>window-restore</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/wrench"><i class="fa fa-wrench" aria-hidden="true"></i> <span class="sr-only">Example of </span>wrench</a></div>
+    
+  </div>
+
+</section>
+
+    <section id="accessibility">
+  <h2 class="page-header">Accessibility Icons</h2>
+
+  <div class="row fontawesome-icon-list">
+    
+
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/american-sign-language-interpreting"><i class="fa fa-american-sign-language-interpreting" aria-hidden="true"></i> <span class="sr-only">Example of </span>american-sign-language-interpreting</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/american-sign-language-interpreting"><i class="fa fa-asl-interpreting" aria-hidden="true"></i> <span class="sr-only">Example of </span>asl-interpreting <span class="text-muted">(alias)</span></a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/assistive-listening-systems"><i class="fa fa-assistive-listening-systems" aria-hidden="true"></i> <span class="sr-only">Example of </span>assistive-listening-systems</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/audio-description"><i class="fa fa-audio-description" aria-hidden="true"></i> <span class="sr-only">Example of </span>audio-description</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/blind"><i class="fa fa-blind" aria-hidden="true"></i> <span class="sr-only">Example of </span>blind</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/braille"><i class="fa fa-braille" aria-hidden="true"></i> <span class="sr-only">Example of </span>braille</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/cc"><i class="fa fa-cc" aria-hidden="true"></i> <span class="sr-only">Example of </span>cc</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/deaf"><i class="fa fa-deaf" aria-hidden="true"></i> <span class="sr-only">Example of </span>deaf</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/deaf"><i class="fa fa-deafness" aria-hidden="true"></i> <span class="sr-only">Example of </span>deafness <span class="text-muted">(alias)</span></a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/deaf"><i class="fa fa-hard-of-hearing" aria-hidden="true"></i> <span class="sr-only">Example of </span>hard-of-hearing <span class="text-muted">(alias)</span></a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/low-vision"><i class="fa fa-low-vision" aria-hidden="true"></i> <span class="sr-only">Example of </span>low-vision</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/question-circle-o"><i class="fa fa-question-circle-o" aria-hidden="true"></i> <span class="sr-only">Example of </span>question-circle-o</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/sign-language"><i class="fa fa-sign-language" aria-hidden="true"></i> <span class="sr-only">Example of </span>sign-language</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/sign-language"><i class="fa fa-signing" aria-hidden="true"></i> <span class="sr-only">Example of </span>signing <span class="text-muted">(alias)</span></a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/tty"><i class="fa fa-tty" aria-hidden="true"></i> <span class="sr-only">Example of </span>tty</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/universal-access"><i class="fa fa-universal-access" aria-hidden="true"></i> <span class="sr-only">Example of </span>universal-access</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/volume-control-phone"><i class="fa fa-volume-control-phone" aria-hidden="true"></i> <span class="sr-only">Example of </span>volume-control-phone</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/wheelchair"><i class="fa fa-wheelchair" aria-hidden="true"></i> <span class="sr-only">Example of </span>wheelchair</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/wheelchair-alt"><i class="fa fa-wheelchair-alt" aria-hidden="true"></i> <span class="sr-only">Example of </span>wheelchair-alt</a></div>
+    
+  </div>
+
+</section>
+
+    <section id="hand">
+  <h2 class="page-header">Hand Icons</h2>
+
+  <div class="row fontawesome-icon-list">
+    
+
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/hand-rock-o"><i class="fa fa-hand-grab-o" aria-hidden="true"></i> <span class="sr-only">Example of </span>hand-grab-o <span class="text-muted">(alias)</span></a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/hand-lizard-o"><i class="fa fa-hand-lizard-o" aria-hidden="true"></i> <span class="sr-only">Example of </span>hand-lizard-o</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/hand-o-down"><i class="fa fa-hand-o-down" aria-hidden="true"></i> <span class="sr-only">Example of </span>hand-o-down</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/hand-o-left"><i class="fa fa-hand-o-left" aria-hidden="true"></i> <span class="sr-only">Example of </span>hand-o-left</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/hand-o-right"><i class="fa fa-hand-o-right" aria-hidden="true"></i> <span class="sr-only">Example of </span>hand-o-right</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/hand-o-up"><i class="fa fa-hand-o-up" aria-hidden="true"></i> <span class="sr-only">Example of </span>hand-o-up</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/hand-paper-o"><i class="fa fa-hand-paper-o" aria-hidden="true"></i> <span class="sr-only">Example of </span>hand-paper-o</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/hand-peace-o"><i class="fa fa-hand-peace-o" aria-hidden="true"></i> <span class="sr-only">Example of </span>hand-peace-o</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/hand-pointer-o"><i class="fa fa-hand-pointer-o" aria-hidden="true"></i> <span class="sr-only">Example of </span>hand-pointer-o</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/hand-rock-o"><i class="fa fa-hand-rock-o" aria-hidden="true"></i> <span class="sr-only">Example of </span>hand-rock-o</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/hand-scissors-o"><i class="fa fa-hand-scissors-o" aria-hidden="true"></i> <span class="sr-only">Example of </span>hand-scissors-o</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/hand-spock-o"><i class="fa fa-hand-spock-o" aria-hidden="true"></i> <span class="sr-only">Example of </span>hand-spock-o</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/hand-paper-o"><i class="fa fa-hand-stop-o" aria-hidden="true"></i> <span class="sr-only">Example of </span>hand-stop-o <span class="text-muted">(alias)</span></a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/thumbs-down"><i class="fa fa-thumbs-down" aria-hidden="true"></i> <span class="sr-only">Example of </span>thumbs-down</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/thumbs-o-down"><i class="fa fa-thumbs-o-down" aria-hidden="true"></i> <span class="sr-only">Example of </span>thumbs-o-down</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/thumbs-o-up"><i class="fa fa-thumbs-o-up" aria-hidden="true"></i> <span class="sr-only">Example of </span>thumbs-o-up</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/thumbs-up"><i class="fa fa-thumbs-up" aria-hidden="true"></i> <span class="sr-only">Example of </span>thumbs-up</a></div>
+    
+  </div>
+
+</section>
+
+    <section id="transportation">
+  <h2 class="page-header">Transportation Icons</h2>
+
+  <div class="row fontawesome-icon-list">
+    
+
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/ambulance"><i class="fa fa-ambulance" aria-hidden="true"></i> <span class="sr-only">Example of </span>ambulance</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/car"><i class="fa fa-automobile" aria-hidden="true"></i> <span class="sr-only">Example of </span>automobile <span class="text-muted">(alias)</span></a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/bicycle"><i class="fa fa-bicycle" aria-hidden="true"></i> <span class="sr-only">Example of </span>bicycle</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/bus"><i class="fa fa-bus" aria-hidden="true"></i> <span class="sr-only">Example of </span>bus</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/taxi"><i class="fa fa-cab" aria-hidden="true"></i> <span class="sr-only">Example of </span>cab <span class="text-muted">(alias)</span></a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/car"><i class="fa fa-car" aria-hidden="true"></i> <span class="sr-only">Example of </span>car</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/fighter-jet"><i class="fa fa-fighter-jet" aria-hidden="true"></i> <span class="sr-only">Example of </span>fighter-jet</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/motorcycle"><i class="fa fa-motorcycle" aria-hidden="true"></i> <span class="sr-only">Example of </span>motorcycle</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/plane"><i class="fa fa-plane" aria-hidden="true"></i> <span class="sr-only">Example of </span>plane</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/rocket"><i class="fa fa-rocket" aria-hidden="true"></i> <span class="sr-only">Example of </span>rocket</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/ship"><i class="fa fa-ship" aria-hidden="true"></i> <span class="sr-only">Example of </span>ship</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/space-shuttle"><i class="fa fa-space-shuttle" aria-hidden="true"></i> <span class="sr-only">Example of </span>space-shuttle</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/subway"><i class="fa fa-subway" aria-hidden="true"></i> <span class="sr-only">Example of </span>subway</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/taxi"><i class="fa fa-taxi" aria-hidden="true"></i> <span class="sr-only">Example of </span>taxi</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/train"><i class="fa fa-train" aria-hidden="true"></i> <span class="sr-only">Example of </span>train</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/truck"><i class="fa fa-truck" aria-hidden="true"></i> <span class="sr-only">Example of </span>truck</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/wheelchair"><i class="fa fa-wheelchair" aria-hidden="true"></i> <span class="sr-only">Example of </span>wheelchair</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/wheelchair-alt"><i class="fa fa-wheelchair-alt" aria-hidden="true"></i> <span class="sr-only">Example of </span>wheelchair-alt</a></div>
+    
+  </div>
+
+</section>
+
+    <section id="gender">
+  <h2 class="page-header">Gender Icons</h2>
+
+  <div class="row fontawesome-icon-list">
+    
+
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/genderless"><i class="fa fa-genderless" aria-hidden="true"></i> <span class="sr-only">Example of </span>genderless</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/transgender"><i class="fa fa-intersex" aria-hidden="true"></i> <span class="sr-only">Example of </span>intersex <span class="text-muted">(alias)</span></a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/mars"><i class="fa fa-mars" aria-hidden="true"></i> <span class="sr-only">Example of </span>mars</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/mars-double"><i class="fa fa-mars-double" aria-hidden="true"></i> <span class="sr-only">Example of </span>mars-double</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/mars-stroke"><i class="fa fa-mars-stroke" aria-hidden="true"></i> <span class="sr-only">Example of </span>mars-stroke</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/mars-stroke-h"><i class="fa fa-mars-stroke-h" aria-hidden="true"></i> <span class="sr-only">Example of </span>mars-stroke-h</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/mars-stroke-v"><i class="fa fa-mars-stroke-v" aria-hidden="true"></i> <span class="sr-only">Example of </span>mars-stroke-v</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/mercury"><i class="fa fa-mercury" aria-hidden="true"></i> <span class="sr-only">Example of </span>mercury</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/neuter"><i class="fa fa-neuter" aria-hidden="true"></i> <span class="sr-only">Example of </span>neuter</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/transgender"><i class="fa fa-transgender" aria-hidden="true"></i> <span class="sr-only">Example of </span>transgender</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/transgender-alt"><i class="fa fa-transgender-alt" aria-hidden="true"></i> <span class="sr-only">Example of </span>transgender-alt</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/venus"><i class="fa fa-venus" aria-hidden="true"></i> <span class="sr-only">Example of </span>venus</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/venus-double"><i class="fa fa-venus-double" aria-hidden="true"></i> <span class="sr-only">Example of </span>venus-double</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/venus-mars"><i class="fa fa-venus-mars" aria-hidden="true"></i> <span class="sr-only">Example of </span>venus-mars</a></div>
+    
+  </div>
+
+</section>
+
+    <section id="file-type">
+  <h2 class="page-header">File Type Icons</h2>
+
+  <div class="row fontawesome-icon-list">
+    
+
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/file"><i class="fa fa-file" aria-hidden="true"></i> <span class="sr-only">Example of </span>file</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/file-archive-o"><i class="fa fa-file-archive-o" aria-hidden="true"></i> <span class="sr-only">Example of </span>file-archive-o</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/file-audio-o"><i class="fa fa-file-audio-o" aria-hidden="true"></i> <span class="sr-only">Example of </span>file-audio-o</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/file-code-o"><i class="fa fa-file-code-o" aria-hidden="true"></i> <span class="sr-only">Example of </span>file-code-o</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/file-excel-o"><i class="fa fa-file-excel-o" aria-hidden="true"></i> <span class="sr-only">Example of </span>file-excel-o</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/file-image-o"><i class="fa fa-file-image-o" aria-hidden="true"></i> <span class="sr-only">Example of </span>file-image-o</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/file-video-o"><i class="fa fa-file-movie-o" aria-hidden="true"></i> <span class="sr-only">Example of </span>file-movie-o <span class="text-muted">(alias)</span></a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/file-o"><i class="fa fa-file-o" aria-hidden="true"></i> <span class="sr-only">Example of </span>file-o</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/file-pdf-o"><i class="fa fa-file-pdf-o" aria-hidden="true"></i> <span class="sr-only">Example of </span>file-pdf-o</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/file-image-o"><i class="fa fa-file-photo-o" aria-hidden="true"></i> <span class="sr-only">Example of </span>file-photo-o <span class="text-muted">(alias)</span></a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/file-image-o"><i class="fa fa-file-picture-o" aria-hidden="true"></i> <span class="sr-only">Example of </span>file-picture-o <span class="text-muted">(alias)</span></a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/file-powerpoint-o"><i class="fa fa-file-powerpoint-o" aria-hidden="true"></i> <span class="sr-only">Example of </span>file-powerpoint-o</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/file-audio-o"><i class="fa fa-file-sound-o" aria-hidden="true"></i> <span class="sr-only">Example of </span>file-sound-o <span class="text-muted">(alias)</span></a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/file-text"><i class="fa fa-file-text" aria-hidden="true"></i> <span class="sr-only">Example of </span>file-text</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/file-text-o"><i class="fa fa-file-text-o" aria-hidden="true"></i> <span class="sr-only">Example of </span>file-text-o</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/file-video-o"><i class="fa fa-file-video-o" aria-hidden="true"></i> <span class="sr-only">Example of </span>file-video-o</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/file-word-o"><i class="fa fa-file-word-o" aria-hidden="true"></i> <span class="sr-only">Example of </span>file-word-o</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/file-archive-o"><i class="fa fa-file-zip-o" aria-hidden="true"></i> <span class="sr-only">Example of </span>file-zip-o <span class="text-muted">(alias)</span></a></div>
+    
+  </div>
+
+</section>
+
+    <section id="spinner">
+  <h2 class="page-header">Spinner Icons</h2>
+
+  <div class="alert alert-success">
+    <ul class="fa-ul">
+      <li>
+        <i class="fa fa-info-circle fa-lg fa-li" aria-hidden="true"></i>
+        <strong class="sr-only">Note:</strong>
+        These icons work great with the <code>fa-spin</code> class. Check out the
+        <a href="http://fontawesome.io/ examples/#animated" class="alert-link">spinning icons example</a>.
+      </li>
+    </ul>
+  </div>
+
+  <div class="row fontawesome-icon-list">
+    
+
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/circle-o-notch"><i class="fa fa-circle-o-notch" aria-hidden="true"></i> <span class="sr-only">Example of </span>circle-o-notch</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/cog"><i class="fa fa-cog" aria-hidden="true"></i> <span class="sr-only">Example of </span>cog</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/cog"><i class="fa fa-gear" aria-hidden="true"></i> <span class="sr-only">Example of </span>gear <span class="text-muted">(alias)</span></a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/refresh"><i class="fa fa-refresh" aria-hidden="true"></i> <span class="sr-only">Example of </span>refresh</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/spinner"><i class="fa fa-spinner" aria-hidden="true"></i> <span class="sr-only">Example of </span>spinner</a></div>
+    
+  </div>
+</section>
+
+    <section id="form-control">
+  <h2 class="page-header">Form Control Icons</h2>
+
+  <div class="row fontawesome-icon-list">
+    
+
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/check-square"><i class="fa fa-check-square" aria-hidden="true"></i> <span class="sr-only">Example of </span>check-square</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/check-square-o"><i class="fa fa-check-square-o" aria-hidden="true"></i> <span class="sr-only">Example of </span>check-square-o</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/circle"><i class="fa fa-circle" aria-hidden="true"></i> <span class="sr-only">Example of </span>circle</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/circle-o"><i class="fa fa-circle-o" aria-hidden="true"></i> <span class="sr-only">Example of </span>circle-o</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/dot-circle-o"><i class="fa fa-dot-circle-o" aria-hidden="true"></i> <span class="sr-only">Example of </span>dot-circle-o</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/minus-square"><i class="fa fa-minus-square" aria-hidden="true"></i> <span class="sr-only">Example of </span>minus-square</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/minus-square-o"><i class="fa fa-minus-square-o" aria-hidden="true"></i> <span class="sr-only">Example of </span>minus-square-o</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/plus-square"><i class="fa fa-plus-square" aria-hidden="true"></i> <span class="sr-only">Example of </span>plus-square</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/plus-square-o"><i class="fa fa-plus-square-o" aria-hidden="true"></i> <span class="sr-only">Example of </span>plus-square-o</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/square"><i class="fa fa-square" aria-hidden="true"></i> <span class="sr-only">Example of </span>square</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/square-o"><i class="fa fa-square-o" aria-hidden="true"></i> <span class="sr-only">Example of </span>square-o</a></div>
+    
+  </div>
+</section>
+
+    <section id="payment">
+  <h2 class="page-header">Payment Icons</h2>
+
+  <div class="row fontawesome-icon-list">
+    
+
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/cc-amex"><i class="fa fa-cc-amex" aria-hidden="true"></i> <span class="sr-only">Example of </span>cc-amex</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/cc-diners-club"><i class="fa fa-cc-diners-club" aria-hidden="true"></i> <span class="sr-only">Example of </span>cc-diners-club</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/cc-discover"><i class="fa fa-cc-discover" aria-hidden="true"></i> <span class="sr-only">Example of </span>cc-discover</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/cc-jcb"><i class="fa fa-cc-jcb" aria-hidden="true"></i> <span class="sr-only">Example of </span>cc-jcb</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/cc-mastercard"><i class="fa fa-cc-mastercard" aria-hidden="true"></i> <span class="sr-only">Example of </span>cc-mastercard</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/cc-paypal"><i class="fa fa-cc-paypal" aria-hidden="true"></i> <span class="sr-only">Example of </span>cc-paypal</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/cc-stripe"><i class="fa fa-cc-stripe" aria-hidden="true"></i> <span class="sr-only">Example of </span>cc-stripe</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/cc-visa"><i class="fa fa-cc-visa" aria-hidden="true"></i> <span class="sr-only">Example of </span>cc-visa</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/credit-card"><i class="fa fa-credit-card" aria-hidden="true"></i> <span class="sr-only">Example of </span>credit-card</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/credit-card-alt"><i class="fa fa-credit-card-alt" aria-hidden="true"></i> <span class="sr-only">Example of </span>credit-card-alt</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/google-wallet"><i class="fa fa-google-wallet" aria-hidden="true"></i> <span class="sr-only">Example of </span>google-wallet</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/paypal"><i class="fa fa-paypal" aria-hidden="true"></i> <span class="sr-only">Example of </span>paypal</a></div>
+    
+  </div>
+
+</section>
+
+    <section id="chart">
+  <h2 class="page-header">Chart Icons</h2>
+
+  <div class="row fontawesome-icon-list">
+    
+
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/area-chart"><i class="fa fa-area-chart" aria-hidden="true"></i> <span class="sr-only">Example of </span>area-chart</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/bar-chart"><i class="fa fa-bar-chart" aria-hidden="true"></i> <span class="sr-only">Example of </span>bar-chart</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/bar-chart"><i class="fa fa-bar-chart-o" aria-hidden="true"></i> <span class="sr-only">Example of </span>bar-chart-o <span class="text-muted">(alias)</span></a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/line-chart"><i class="fa fa-line-chart" aria-hidden="true"></i> <span class="sr-only">Example of </span>line-chart</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/pie-chart"><i class="fa fa-pie-chart" aria-hidden="true"></i> <span class="sr-only">Example of </span>pie-chart</a></div>
+    
+  </div>
+
+</section>
+
+    <section id="currency">
+  <h2 class="page-header">Currency Icons</h2>
+
+  <div class="row fontawesome-icon-list">
+    
+
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/btc"><i class="fa fa-bitcoin" aria-hidden="true"></i> <span class="sr-only">Example of </span>bitcoin <span class="text-muted">(alias)</span></a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/btc"><i class="fa fa-btc" aria-hidden="true"></i> <span class="sr-only">Example of </span>btc</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/jpy"><i class="fa fa-cny" aria-hidden="true"></i> <span class="sr-only">Example of </span>cny <span class="text-muted">(alias)</span></a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/usd"><i class="fa fa-dollar" aria-hidden="true"></i> <span class="sr-only">Example of </span>dollar <span class="text-muted">(alias)</span></a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/eur"><i class="fa fa-eur" aria-hidden="true"></i> <span class="sr-only">Example of </span>eur</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/eur"><i class="fa fa-euro" aria-hidden="true"></i> <span class="sr-only">Example of </span>euro <span class="text-muted">(alias)</span></a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/gbp"><i class="fa fa-gbp" aria-hidden="true"></i> <span class="sr-only">Example of </span>gbp</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/gg"><i class="fa fa-gg" aria-hidden="true"></i> <span class="sr-only">Example of </span>gg</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/gg-circle"><i class="fa fa-gg-circle" aria-hidden="true"></i> <span class="sr-only">Example of </span>gg-circle</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/ils"><i class="fa fa-ils" aria-hidden="true"></i> <span class="sr-only">Example of </span>ils</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/inr"><i class="fa fa-inr" aria-hidden="true"></i> <span class="sr-only">Example of </span>inr</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/jpy"><i class="fa fa-jpy" aria-hidden="true"></i> <span class="sr-only">Example of </span>jpy</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/krw"><i class="fa fa-krw" aria-hidden="true"></i> <span class="sr-only">Example of </span>krw</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/money"><i class="fa fa-money" aria-hidden="true"></i> <span class="sr-only">Example of </span>money</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/jpy"><i class="fa fa-rmb" aria-hidden="true"></i> <span class="sr-only">Example of </span>rmb <span class="text-muted">(alias)</span></a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/rub"><i class="fa fa-rouble" aria-hidden="true"></i> <span class="sr-only">Example of </span>rouble <span class="text-muted">(alias)</span></a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/rub"><i class="fa fa-rub" aria-hidden="true"></i> <span class="sr-only">Example of </span>rub</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/rub"><i class="fa fa-ruble" aria-hidden="true"></i> <span class="sr-only">Example of </span>ruble <span class="text-muted">(alias)</span></a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/inr"><i class="fa fa-rupee" aria-hidden="true"></i> <span class="sr-only">Example of </span>rupee <span class="text-muted">(alias)</span></a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/ils"><i class="fa fa-shekel" aria-hidden="true"></i> <span class="sr-only">Example of </span>shekel <span class="text-muted">(alias)</span></a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/ils"><i class="fa fa-sheqel" aria-hidden="true"></i> <span class="sr-only">Example of </span>sheqel <span class="text-muted">(alias)</span></a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/try"><i class="fa fa-try" aria-hidden="true"></i> <span class="sr-only">Example of </span>try</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/try"><i class="fa fa-turkish-lira" aria-hidden="true"></i> <span class="sr-only">Example of </span>turkish-lira <span class="text-muted">(alias)</span></a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/usd"><i class="fa fa-usd" aria-hidden="true"></i> <span class="sr-only">Example of </span>usd</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/krw"><i class="fa fa-won" aria-hidden="true"></i> <span class="sr-only">Example of </span>won <span class="text-muted">(alias)</span></a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/jpy"><i class="fa fa-yen" aria-hidden="true"></i> <span class="sr-only">Example of </span>yen <span class="text-muted">(alias)</span></a></div>
+    
+  </div>
+
+</section>
+
+    <section id="text-editor">
+  <h2 class="page-header">Text Editor Icons</h2>
+
+  <div class="row fontawesome-icon-list">
+    
+
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/align-center"><i class="fa fa-align-center" aria-hidden="true"></i> <span class="sr-only">Example of </span>align-center</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/align-justify"><i class="fa fa-align-justify" aria-hidden="true"></i> <span class="sr-only">Example of </span>align-justify</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/align-left"><i class="fa fa-align-left" aria-hidden="true"></i> <span class="sr-only">Example of </span>align-left</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/align-right"><i class="fa fa-align-right" aria-hidden="true"></i> <span class="sr-only">Example of </span>align-right</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/bold"><i class="fa fa-bold" aria-hidden="true"></i> <span class="sr-only">Example of </span>bold</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/link"><i class="fa fa-chain" aria-hidden="true"></i> <span class="sr-only">Example of </span>chain <span class="text-muted">(alias)</span></a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/chain-broken"><i class="fa fa-chain-broken" aria-hidden="true"></i> <span class="sr-only">Example of </span>chain-broken</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/clipboard"><i class="fa fa-clipboard" aria-hidden="true"></i> <span class="sr-only">Example of </span>clipboard</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/columns"><i class="fa fa-columns" aria-hidden="true"></i> <span class="sr-only">Example of </span>columns</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/files-o"><i class="fa fa-copy" aria-hidden="true"></i> <span class="sr-only">Example of </span>copy <span class="text-muted">(alias)</span></a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/scissors"><i class="fa fa-cut" aria-hidden="true"></i> <span class="sr-only">Example of </span>cut <span class="text-muted">(alias)</span></a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/outdent"><i class="fa fa-dedent" aria-hidden="true"></i> <span class="sr-only">Example of </span>dedent <span class="text-muted">(alias)</span></a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/eraser"><i class="fa fa-eraser" aria-hidden="true"></i> <span class="sr-only">Example of </span>eraser</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/file"><i class="fa fa-file" aria-hidden="true"></i> <span class="sr-only">Example of </span>file</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/file-o"><i class="fa fa-file-o" aria-hidden="true"></i> <span class="sr-only">Example of </span>file-o</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/file-text"><i class="fa fa-file-text" aria-hidden="true"></i> <span class="sr-only">Example of </span>file-text</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/file-text-o"><i class="fa fa-file-text-o" aria-hidden="true"></i> <span class="sr-only">Example of </span>file-text-o</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/files-o"><i class="fa fa-files-o" aria-hidden="true"></i> <span class="sr-only">Example of </span>files-o</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/floppy-o"><i class="fa fa-floppy-o" aria-hidden="true"></i> <span class="sr-only">Example of </span>floppy-o</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/font"><i class="fa fa-font" aria-hidden="true"></i> <span class="sr-only">Example of </span>font</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/header"><i class="fa fa-header" aria-hidden="true"></i> <span class="sr-only">Example of </span>header</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/indent"><i class="fa fa-indent" aria-hidden="true"></i> <span class="sr-only">Example of </span>indent</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/italic"><i class="fa fa-italic" aria-hidden="true"></i> <span class="sr-only">Example of </span>italic</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/link"><i class="fa fa-link" aria-hidden="true"></i> <span class="sr-only">Example of </span>link</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/list"><i class="fa fa-list" aria-hidden="true"></i> <span class="sr-only">Example of </span>list</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/list-alt"><i class="fa fa-list-alt" aria-hidden="true"></i> <span class="sr-only">Example of </span>list-alt</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/list-ol"><i class="fa fa-list-ol" aria-hidden="true"></i> <span class="sr-only">Example of </span>list-ol</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/list-ul"><i class="fa fa-list-ul" aria-hidden="true"></i> <span class="sr-only">Example of </span>list-ul</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/outdent"><i class="fa fa-outdent" aria-hidden="true"></i> <span class="sr-only">Example of </span>outdent</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/paperclip"><i class="fa fa-paperclip" aria-hidden="true"></i> <span class="sr-only">Example of </span>paperclip</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/paragraph"><i class="fa fa-paragraph" aria-hidden="true"></i> <span class="sr-only">Example of </span>paragraph</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/clipboard"><i class="fa fa-paste" aria-hidden="true"></i> <span class="sr-only">Example of </span>paste <span class="text-muted">(alias)</span></a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/repeat"><i class="fa fa-repeat" aria-hidden="true"></i> <span class="sr-only">Example of </span>repeat</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/undo"><i class="fa fa-rotate-left" aria-hidden="true"></i> <span class="sr-only">Example of </span>rotate-left <span class="text-muted">(alias)</span></a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/repeat"><i class="fa fa-rotate-right" aria-hidden="true"></i> <span class="sr-only">Example of </span>rotate-right <span class="text-muted">(alias)</span></a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/floppy-o"><i class="fa fa-save" aria-hidden="true"></i> <span class="sr-only">Example of </span>save <span class="text-muted">(alias)</span></a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/scissors"><i class="fa fa-scissors" aria-hidden="true"></i> <span class="sr-only">Example of </span>scissors</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/strikethrough"><i class="fa fa-strikethrough" aria-hidden="true"></i> <span class="sr-only">Example of </span>strikethrough</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/subscript"><i class="fa fa-subscript" aria-hidden="true"></i> <span class="sr-only">Example of </span>subscript</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/superscript"><i class="fa fa-superscript" aria-hidden="true"></i> <span class="sr-only">Example of </span>superscript</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/table"><i class="fa fa-table" aria-hidden="true"></i> <span class="sr-only">Example of </span>table</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/text-height"><i class="fa fa-text-height" aria-hidden="true"></i> <span class="sr-only">Example of </span>text-height</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/text-width"><i class="fa fa-text-width" aria-hidden="true"></i> <span class="sr-only">Example of </span>text-width</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/th"><i class="fa fa-th" aria-hidden="true"></i> <span class="sr-only">Example of </span>th</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/th-large"><i class="fa fa-th-large" aria-hidden="true"></i> <span class="sr-only">Example of </span>th-large</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/th-list"><i class="fa fa-th-list" aria-hidden="true"></i> <span class="sr-only">Example of </span>th-list</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/underline"><i class="fa fa-underline" aria-hidden="true"></i> <span class="sr-only">Example of </span>underline</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/undo"><i class="fa fa-undo" aria-hidden="true"></i> <span class="sr-only">Example of </span>undo</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/chain-broken"><i class="fa fa-unlink" aria-hidden="true"></i> <span class="sr-only">Example of </span>unlink <span class="text-muted">(alias)</span></a></div>
+    
+  </div>
+
+</section>
+
+    <section id="directional">
+  <h2 class="page-header">Directional Icons</h2>
+
+  <div class="row fontawesome-icon-list">
+    
+
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/angle-double-down"><i class="fa fa-angle-double-down" aria-hidden="true"></i> <span class="sr-only">Example of </span>angle-double-down</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/angle-double-left"><i class="fa fa-angle-double-left" aria-hidden="true"></i> <span class="sr-only">Example of </span>angle-double-left</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/angle-double-right"><i class="fa fa-angle-double-right" aria-hidden="true"></i> <span class="sr-only">Example of </span>angle-double-right</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/angle-double-up"><i class="fa fa-angle-double-up" aria-hidden="true"></i> <span class="sr-only">Example of </span>angle-double-up</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/angle-down"><i class="fa fa-angle-down" aria-hidden="true"></i> <span class="sr-only">Example of </span>angle-down</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/angle-left"><i class="fa fa-angle-left" aria-hidden="true"></i> <span class="sr-only">Example of </span>angle-left</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/angle-right"><i class="fa fa-angle-right" aria-hidden="true"></i> <span class="sr-only">Example of </span>angle-right</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/angle-up"><i class="fa fa-angle-up" aria-hidden="true"></i> <span class="sr-only">Example of </span>angle-up</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/arrow-circle-down"><i class="fa fa-arrow-circle-down" aria-hidden="true"></i> <span class="sr-only">Example of </span>arrow-circle-down</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/arrow-circle-left"><i class="fa fa-arrow-circle-left" aria-hidden="true"></i> <span class="sr-only">Example of </span>arrow-circle-left</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/arrow-circle-o-down"><i class="fa fa-arrow-circle-o-down" aria-hidden="true"></i> <span class="sr-only">Example of </span>arrow-circle-o-down</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/arrow-circle-o-left"><i class="fa fa-arrow-circle-o-left" aria-hidden="true"></i> <span class="sr-only">Example of </span>arrow-circle-o-left</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/arrow-circle-o-right"><i class="fa fa-arrow-circle-o-right" aria-hidden="true"></i> <span class="sr-only">Example of </span>arrow-circle-o-right</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/arrow-circle-o-up"><i class="fa fa-arrow-circle-o-up" aria-hidden="true"></i> <span class="sr-only">Example of </span>arrow-circle-o-up</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/arrow-circle-right"><i class="fa fa-arrow-circle-right" aria-hidden="true"></i> <span class="sr-only">Example of </span>arrow-circle-right</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/arrow-circle-up"><i class="fa fa-arrow-circle-up" aria-hidden="true"></i> <span class="sr-only">Example of </span>arrow-circle-up</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/arrow-down"><i class="fa fa-arrow-down" aria-hidden="true"></i> <span class="sr-only">Example of </span>arrow-down</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/arrow-left"><i class="fa fa-arrow-left" aria-hidden="true"></i> <span class="sr-only">Example of </span>arrow-left</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/arrow-right"><i class="fa fa-arrow-right" aria-hidden="true"></i> <span class="sr-only">Example of </span>arrow-right</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/arrow-up"><i class="fa fa-arrow-up" aria-hidden="true"></i> <span class="sr-only">Example of </span>arrow-up</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/arrows"><i class="fa fa-arrows" aria-hidden="true"></i> <span class="sr-only">Example of </span>arrows</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/arrows-alt"><i class="fa fa-arrows-alt" aria-hidden="true"></i> <span class="sr-only">Example of </span>arrows-alt</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/arrows-h"><i class="fa fa-arrows-h" aria-hidden="true"></i> <span class="sr-only">Example of </span>arrows-h</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/arrows-v"><i class="fa fa-arrows-v" aria-hidden="true"></i> <span class="sr-only">Example of </span>arrows-v</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/caret-down"><i class="fa fa-caret-down" aria-hidden="true"></i> <span class="sr-only">Example of </span>caret-down</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/caret-left"><i class="fa fa-caret-left" aria-hidden="true"></i> <span class="sr-only">Example of </span>caret-left</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/caret-right"><i class="fa fa-caret-right" aria-hidden="true"></i> <span class="sr-only">Example of </span>caret-right</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/caret-square-o-down"><i class="fa fa-caret-square-o-down" aria-hidden="true"></i> <span class="sr-only">Example of </span>caret-square-o-down</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/caret-square-o-left"><i class="fa fa-caret-square-o-left" aria-hidden="true"></i> <span class="sr-only">Example of </span>caret-square-o-left</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/caret-square-o-right"><i class="fa fa-caret-square-o-right" aria-hidden="true"></i> <span class="sr-only">Example of </span>caret-square-o-right</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/caret-square-o-up"><i class="fa fa-caret-square-o-up" aria-hidden="true"></i> <span class="sr-only">Example of </span>caret-square-o-up</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/caret-up"><i class="fa fa-caret-up" aria-hidden="true"></i> <span class="sr-only">Example of </span>caret-up</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/chevron-circle-down"><i class="fa fa-chevron-circle-down" aria-hidden="true"></i> <span class="sr-only">Example of </span>chevron-circle-down</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/chevron-circle-left"><i class="fa fa-chevron-circle-left" aria-hidden="true"></i> <span class="sr-only">Example of </span>chevron-circle-left</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/chevron-circle-right"><i class="fa fa-chevron-circle-right" aria-hidden="true"></i> <span class="sr-only">Example of </span>chevron-circle-right</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/chevron-circle-up"><i class="fa fa-chevron-circle-up" aria-hidden="true"></i> <span class="sr-only">Example of </span>chevron-circle-up</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/chevron-down"><i class="fa fa-chevron-down" aria-hidden="true"></i> <span class="sr-only">Example of </span>chevron-down</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/chevron-left"><i class="fa fa-chevron-left" aria-hidden="true"></i> <span class="sr-only">Example of </span>chevron-left</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/chevron-right"><i class="fa fa-chevron-right" aria-hidden="true"></i> <span class="sr-only">Example of </span>chevron-right</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/chevron-up"><i class="fa fa-chevron-up" aria-hidden="true"></i> <span class="sr-only">Example of </span>chevron-up</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/exchange"><i class="fa fa-exchange" aria-hidden="true"></i> <span class="sr-only">Example of </span>exchange</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/hand-o-down"><i class="fa fa-hand-o-down" aria-hidden="true"></i> <span class="sr-only">Example of </span>hand-o-down</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/hand-o-left"><i class="fa fa-hand-o-left" aria-hidden="true"></i> <span class="sr-only">Example of </span>hand-o-left</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/hand-o-right"><i class="fa fa-hand-o-right" aria-hidden="true"></i> <span class="sr-only">Example of </span>hand-o-right</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/hand-o-up"><i class="fa fa-hand-o-up" aria-hidden="true"></i> <span class="sr-only">Example of </span>hand-o-up</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/long-arrow-down"><i class="fa fa-long-arrow-down" aria-hidden="true"></i> <span class="sr-only">Example of </span>long-arrow-down</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/long-arrow-left"><i class="fa fa-long-arrow-left" aria-hidden="true"></i> <span class="sr-only">Example of </span>long-arrow-left</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/long-arrow-right"><i class="fa fa-long-arrow-right" aria-hidden="true"></i> <span class="sr-only">Example of </span>long-arrow-right</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/long-arrow-up"><i class="fa fa-long-arrow-up" aria-hidden="true"></i> <span class="sr-only">Example of </span>long-arrow-up</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/caret-square-o-down"><i class="fa fa-toggle-down" aria-hidden="true"></i> <span class="sr-only">Example of </span>toggle-down <span class="text-muted">(alias)</span></a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/caret-square-o-left"><i class="fa fa-toggle-left" aria-hidden="true"></i> <span class="sr-only">Example of </span>toggle-left <span class="text-muted">(alias)</span></a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/caret-square-o-right"><i class="fa fa-toggle-right" aria-hidden="true"></i> <span class="sr-only">Example of </span>toggle-right <span class="text-muted">(alias)</span></a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/caret-square-o-up"><i class="fa fa-toggle-up" aria-hidden="true"></i> <span class="sr-only">Example of </span>toggle-up <span class="text-muted">(alias)</span></a></div>
+    
+  </div>
+
+</section>
+
+    <section id="video-player">
+  <h2 class="page-header">Video Player Icons</h2>
+
+  <div class="row fontawesome-icon-list">
+    
+
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/arrows-alt"><i class="fa fa-arrows-alt" aria-hidden="true"></i> <span class="sr-only">Example of </span>arrows-alt</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/backward"><i class="fa fa-backward" aria-hidden="true"></i> <span class="sr-only">Example of </span>backward</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/compress"><i class="fa fa-compress" aria-hidden="true"></i> <span class="sr-only">Example of </span>compress</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/eject"><i class="fa fa-eject" aria-hidden="true"></i> <span class="sr-only">Example of </span>eject</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/expand"><i class="fa fa-expand" aria-hidden="true"></i> <span class="sr-only">Example of </span>expand</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/fast-backward"><i class="fa fa-fast-backward" aria-hidden="true"></i> <span class="sr-only">Example of </span>fast-backward</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/fast-forward"><i class="fa fa-fast-forward" aria-hidden="true"></i> <span class="sr-only">Example of </span>fast-forward</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/forward"><i class="fa fa-forward" aria-hidden="true"></i> <span class="sr-only">Example of </span>forward</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/pause"><i class="fa fa-pause" aria-hidden="true"></i> <span class="sr-only">Example of </span>pause</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/pause-circle"><i class="fa fa-pause-circle" aria-hidden="true"></i> <span class="sr-only">Example of </span>pause-circle</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/pause-circle-o"><i class="fa fa-pause-circle-o" aria-hidden="true"></i> <span class="sr-only">Example of </span>pause-circle-o</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/play"><i class="fa fa-play" aria-hidden="true"></i> <span class="sr-only">Example of </span>play</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/play-circle"><i class="fa fa-play-circle" aria-hidden="true"></i> <span class="sr-only">Example of </span>play-circle</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/play-circle-o"><i class="fa fa-play-circle-o" aria-hidden="true"></i> <span class="sr-only">Example of </span>play-circle-o</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/random"><i class="fa fa-random" aria-hidden="true"></i> <span class="sr-only">Example of </span>random</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/step-backward"><i class="fa fa-step-backward" aria-hidden="true"></i> <span class="sr-only">Example of </span>step-backward</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/step-forward"><i class="fa fa-step-forward" aria-hidden="true"></i> <span class="sr-only">Example of </span>step-forward</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/stop"><i class="fa fa-stop" aria-hidden="true"></i> <span class="sr-only">Example of </span>stop</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/stop-circle"><i class="fa fa-stop-circle" aria-hidden="true"></i> <span class="sr-only">Example of </span>stop-circle</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/stop-circle-o"><i class="fa fa-stop-circle-o" aria-hidden="true"></i> <span class="sr-only">Example of </span>stop-circle-o</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/youtube-play"><i class="fa fa-youtube-play" aria-hidden="true"></i> <span class="sr-only">Example of </span>youtube-play</a></div>
+    
+  </div>
+
+</section>
+
+    <section id="brand">
+  <h2 class="page-header">Brand Icons</h2>
+
+  <div class="row fontawesome-icon-list margin-bottom-lg">
+    
+
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/500px"><i class="fa fa-500px" aria-hidden="true"></i> <span class="sr-only">Example of </span>500px</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/adn"><i class="fa fa-adn" aria-hidden="true"></i> <span class="sr-only">Example of </span>adn</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/amazon"><i class="fa fa-amazon" aria-hidden="true"></i> <span class="sr-only">Example of </span>amazon</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/android"><i class="fa fa-android" aria-hidden="true"></i> <span class="sr-only">Example of </span>android</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/angellist"><i class="fa fa-angellist" aria-hidden="true"></i> <span class="sr-only">Example of </span>angellist</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/apple"><i class="fa fa-apple" aria-hidden="true"></i> <span class="sr-only">Example of </span>apple</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/bandcamp"><i class="fa fa-bandcamp" aria-hidden="true"></i> <span class="sr-only">Example of </span>bandcamp</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/behance"><i class="fa fa-behance" aria-hidden="true"></i> <span class="sr-only">Example of </span>behance</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/behance-square"><i class="fa fa-behance-square" aria-hidden="true"></i> <span class="sr-only">Example of </span>behance-square</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/bitbucket"><i class="fa fa-bitbucket" aria-hidden="true"></i> <span class="sr-only">Example of </span>bitbucket</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/bitbucket-square"><i class="fa fa-bitbucket-square" aria-hidden="true"></i> <span class="sr-only">Example of </span>bitbucket-square</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/btc"><i class="fa fa-bitcoin" aria-hidden="true"></i> <span class="sr-only">Example of </span>bitcoin <span class="text-muted">(alias)</span></a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/black-tie"><i class="fa fa-black-tie" aria-hidden="true"></i> <span class="sr-only">Example of </span>black-tie</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/bluetooth"><i class="fa fa-bluetooth" aria-hidden="true"></i> <span class="sr-only">Example of </span>bluetooth</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/bluetooth-b"><i class="fa fa-bluetooth-b" aria-hidden="true"></i> <span class="sr-only">Example of </span>bluetooth-b</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/btc"><i class="fa fa-btc" aria-hidden="true"></i> <span class="sr-only">Example of </span>btc</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/buysellads"><i class="fa fa-buysellads" aria-hidden="true"></i> <span class="sr-only">Example of </span>buysellads</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/cc-amex"><i class="fa fa-cc-amex" aria-hidden="true"></i> <span class="sr-only">Example of </span>cc-amex</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/cc-diners-club"><i class="fa fa-cc-diners-club" aria-hidden="true"></i> <span class="sr-only">Example of </span>cc-diners-club</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/cc-discover"><i class="fa fa-cc-discover" aria-hidden="true"></i> <span class="sr-only">Example of </span>cc-discover</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/cc-jcb"><i class="fa fa-cc-jcb" aria-hidden="true"></i> <span class="sr-only">Example of </span>cc-jcb</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/cc-mastercard"><i class="fa fa-cc-mastercard" aria-hidden="true"></i> <span class="sr-only">Example of </span>cc-mastercard</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/cc-paypal"><i class="fa fa-cc-paypal" aria-hidden="true"></i> <span class="sr-only">Example of </span>cc-paypal</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/cc-stripe"><i class="fa fa-cc-stripe" aria-hidden="true"></i> <span class="sr-only">Example of </span>cc-stripe</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/cc-visa"><i class="fa fa-cc-visa" aria-hidden="true"></i> <span class="sr-only">Example of </span>cc-visa</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/chrome"><i class="fa fa-chrome" aria-hidden="true"></i> <span class="sr-only">Example of </span>chrome</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/codepen"><i class="fa fa-codepen" aria-hidden="true"></i> <span class="sr-only">Example of </span>codepen</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/codiepie"><i class="fa fa-codiepie" aria-hidden="true"></i> <span class="sr-only">Example of </span>codiepie</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/connectdevelop"><i class="fa fa-connectdevelop" aria-hidden="true"></i> <span class="sr-only">Example of </span>connectdevelop</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/contao"><i class="fa fa-contao" aria-hidden="true"></i> <span class="sr-only">Example of </span>contao</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/css3"><i class="fa fa-css3" aria-hidden="true"></i> <span class="sr-only">Example of </span>css3</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/dashcube"><i class="fa fa-dashcube" aria-hidden="true"></i> <span class="sr-only">Example of </span>dashcube</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/delicious"><i class="fa fa-delicious" aria-hidden="true"></i> <span class="sr-only">Example of </span>delicious</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/deviantart"><i class="fa fa-deviantart" aria-hidden="true"></i> <span class="sr-only">Example of </span>deviantart</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/digg"><i class="fa fa-digg" aria-hidden="true"></i> <span class="sr-only">Example of </span>digg</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/dribbble"><i class="fa fa-dribbble" aria-hidden="true"></i> <span class="sr-only">Example of </span>dribbble</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/dropbox"><i class="fa fa-dropbox" aria-hidden="true"></i> <span class="sr-only">Example of </span>dropbox</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/drupal"><i class="fa fa-drupal" aria-hidden="true"></i> <span class="sr-only">Example of </span>drupal</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/edge"><i class="fa fa-edge" aria-hidden="true"></i> <span class="sr-only">Example of </span>edge</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/eercast"><i class="fa fa-eercast" aria-hidden="true"></i> <span class="sr-only">Example of </span>eercast</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/empire"><i class="fa fa-empire" aria-hidden="true"></i> <span class="sr-only">Example of </span>empire</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/envira"><i class="fa fa-envira" aria-hidden="true"></i> <span class="sr-only">Example of </span>envira</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/etsy"><i class="fa fa-etsy" aria-hidden="true"></i> <span class="sr-only">Example of </span>etsy</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/expeditedssl"><i class="fa fa-expeditedssl" aria-hidden="true"></i> <span class="sr-only">Example of </span>expeditedssl</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/font-awesome"><i class="fa fa-fa" aria-hidden="true"></i> <span class="sr-only">Example of </span>fa <span class="text-muted">(alias)</span></a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/facebook"><i class="fa fa-facebook" aria-hidden="true"></i> <span class="sr-only">Example of </span>facebook</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/facebook"><i class="fa fa-facebook-f" aria-hidden="true"></i> <span class="sr-only">Example of </span>facebook-f <span class="text-muted">(alias)</span></a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/facebook-official"><i class="fa fa-facebook-official" aria-hidden="true"></i> <span class="sr-only">Example of </span>facebook-official</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/facebook-square"><i class="fa fa-facebook-square" aria-hidden="true"></i> <span class="sr-only">Example of </span>facebook-square</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/firefox"><i class="fa fa-firefox" aria-hidden="true"></i> <span class="sr-only">Example of </span>firefox</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/first-order"><i class="fa fa-first-order" aria-hidden="true"></i> <span class="sr-only">Example of </span>first-order</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/flickr"><i class="fa fa-flickr" aria-hidden="true"></i> <span class="sr-only">Example of </span>flickr</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/font-awesome"><i class="fa fa-font-awesome" aria-hidden="true"></i> <span class="sr-only">Example of </span>font-awesome</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/fonticons"><i class="fa fa-fonticons" aria-hidden="true"></i> <span class="sr-only">Example of </span>fonticons</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/fort-awesome"><i class="fa fa-fort-awesome" aria-hidden="true"></i> <span class="sr-only">Example of </span>fort-awesome</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/forumbee"><i class="fa fa-forumbee" aria-hidden="true"></i> <span class="sr-only">Example of </span>forumbee</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/foursquare"><i class="fa fa-foursquare" aria-hidden="true"></i> <span class="sr-only">Example of </span>foursquare</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/free-code-camp"><i class="fa fa-free-code-camp" aria-hidden="true"></i> <span class="sr-only">Example of </span>free-code-camp</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/empire"><i class="fa fa-ge" aria-hidden="true"></i> <span class="sr-only">Example of </span>ge <span class="text-muted">(alias)</span></a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/get-pocket"><i class="fa fa-get-pocket" aria-hidden="true"></i> <span class="sr-only">Example of </span>get-pocket</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/gg"><i class="fa fa-gg" aria-hidden="true"></i> <span class="sr-only">Example of </span>gg</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/gg-circle"><i class="fa fa-gg-circle" aria-hidden="true"></i> <span class="sr-only">Example of </span>gg-circle</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/git"><i class="fa fa-git" aria-hidden="true"></i> <span class="sr-only">Example of </span>git</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/git-square"><i class="fa fa-git-square" aria-hidden="true"></i> <span class="sr-only">Example of </span>git-square</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/github"><i class="fa fa-github" aria-hidden="true"></i> <span class="sr-only">Example of </span>github</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/github-alt"><i class="fa fa-github-alt" aria-hidden="true"></i> <span class="sr-only">Example of </span>github-alt</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/github-square"><i class="fa fa-github-square" aria-hidden="true"></i> <span class="sr-only">Example of </span>github-square</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/gitlab"><i class="fa fa-gitlab" aria-hidden="true"></i> <span class="sr-only">Example of </span>gitlab</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/gratipay"><i class="fa fa-gittip" aria-hidden="true"></i> <span class="sr-only">Example of </span>gittip <span class="text-muted">(alias)</span></a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/glide"><i class="fa fa-glide" aria-hidden="true"></i> <span class="sr-only">Example of </span>glide</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/glide-g"><i class="fa fa-glide-g" aria-hidden="true"></i> <span class="sr-only">Example of </span>glide-g</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/google"><i class="fa fa-google" aria-hidden="true"></i> <span class="sr-only">Example of </span>google</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/google-plus"><i class="fa fa-google-plus" aria-hidden="true"></i> <span class="sr-only">Example of </span>google-plus</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/google-plus-official"><i class="fa fa-google-plus-circle" aria-hidden="true"></i> <span class="sr-only">Example of </span>google-plus-circle <span class="text-muted">(alias)</span></a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/google-plus-official"><i class="fa fa-google-plus-official" aria-hidden="true"></i> <span class="sr-only">Example of </span>google-plus-official</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/google-plus-square"><i class="fa fa-google-plus-square" aria-hidden="true"></i> <span class="sr-only">Example of </span>google-plus-square</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/google-wallet"><i class="fa fa-google-wallet" aria-hidden="true"></i> <span class="sr-only">Example of </span>google-wallet</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/gratipay"><i class="fa fa-gratipay" aria-hidden="true"></i> <span class="sr-only">Example of </span>gratipay</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/grav"><i class="fa fa-grav" aria-hidden="true"></i> <span class="sr-only">Example of </span>grav</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/hacker-news"><i class="fa fa-hacker-news" aria-hidden="true"></i> <span class="sr-only">Example of </span>hacker-news</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/houzz"><i class="fa fa-houzz" aria-hidden="true"></i> <span class="sr-only">Example of </span>houzz</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/html5"><i class="fa fa-html5" aria-hidden="true"></i> <span class="sr-only">Example of </span>html5</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/imdb"><i class="fa fa-imdb" aria-hidden="true"></i> <span class="sr-only">Example of </span>imdb</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/instagram"><i class="fa fa-instagram" aria-hidden="true"></i> <span class="sr-only">Example of </span>instagram</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/internet-explorer"><i class="fa fa-internet-explorer" aria-hidden="true"></i> <span class="sr-only">Example of </span>internet-explorer</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/ioxhost"><i class="fa fa-ioxhost" aria-hidden="true"></i> <span class="sr-only">Example of </span>ioxhost</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/joomla"><i class="fa fa-joomla" aria-hidden="true"></i> <span class="sr-only">Example of </span>joomla</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/jsfiddle"><i class="fa fa-jsfiddle" aria-hidden="true"></i> <span class="sr-only">Example of </span>jsfiddle</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/lastfm"><i class="fa fa-lastfm" aria-hidden="true"></i> <span class="sr-only">Example of </span>lastfm</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/lastfm-square"><i class="fa fa-lastfm-square" aria-hidden="true"></i> <span class="sr-only">Example of </span>lastfm-square</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/leanpub"><i class="fa fa-leanpub" aria-hidden="true"></i> <span class="sr-only">Example of </span>leanpub</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/linkedin"><i class="fa fa-linkedin" aria-hidden="true"></i> <span class="sr-only">Example of </span>linkedin</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/linkedin-square"><i class="fa fa-linkedin-square" aria-hidden="true"></i> <span class="sr-only">Example of </span>linkedin-square</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/linode"><i class="fa fa-linode" aria-hidden="true"></i> <span class="sr-only">Example of </span>linode</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/linux"><i class="fa fa-linux" aria-hidden="true"></i> <span class="sr-only">Example of </span>linux</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/maxcdn"><i class="fa fa-maxcdn" aria-hidden="true"></i> <span class="sr-only">Example of </span>maxcdn</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/meanpath"><i class="fa fa-meanpath" aria-hidden="true"></i> <span class="sr-only">Example of </span>meanpath</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/medium"><i class="fa fa-medium" aria-hidden="true"></i> <span class="sr-only">Example of </span>medium</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/meetup"><i class="fa fa-meetup" aria-hidden="true"></i> <span class="sr-only">Example of </span>meetup</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/mixcloud"><i class="fa fa-mixcloud" aria-hidden="true"></i> <span class="sr-only">Example of </span>mixcloud</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/modx"><i class="fa fa-modx" aria-hidden="true"></i> <span class="sr-only">Example of </span>modx</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/odnoklassniki"><i class="fa fa-odnoklassniki" aria-hidden="true"></i> <span class="sr-only">Example of </span>odnoklassniki</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/odnoklassniki-square"><i class="fa fa-odnoklassniki-square" aria-hidden="true"></i> <span class="sr-only">Example of </span>odnoklassniki-square</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/opencart"><i class="fa fa-opencart" aria-hidden="true"></i> <span class="sr-only">Example of </span>opencart</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/openid"><i class="fa fa-openid" aria-hidden="true"></i> <span class="sr-only">Example of </span>openid</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/opera"><i class="fa fa-opera" aria-hidden="true"></i> <span class="sr-only">Example of </span>opera</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/optin-monster"><i class="fa fa-optin-monster" aria-hidden="true"></i> <span class="sr-only">Example of </span>optin-monster</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/pagelines"><i class="fa fa-pagelines" aria-hidden="true"></i> <span class="sr-only">Example of </span>pagelines</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/paypal"><i class="fa fa-paypal" aria-hidden="true"></i> <span class="sr-only">Example of </span>paypal</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/pied-piper"><i class="fa fa-pied-piper" aria-hidden="true"></i> <span class="sr-only">Example of </span>pied-piper</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/pied-piper-alt"><i class="fa fa-pied-piper-alt" aria-hidden="true"></i> <span class="sr-only">Example of </span>pied-piper-alt</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/pied-piper-pp"><i class="fa fa-pied-piper-pp" aria-hidden="true"></i> <span class="sr-only">Example of </span>pied-piper-pp</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/pinterest"><i class="fa fa-pinterest" aria-hidden="true"></i> <span class="sr-only">Example of </span>pinterest</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/pinterest-p"><i class="fa fa-pinterest-p" aria-hidden="true"></i> <span class="sr-only">Example of </span>pinterest-p</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/pinterest-square"><i class="fa fa-pinterest-square" aria-hidden="true"></i> <span class="sr-only">Example of </span>pinterest-square</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/product-hunt"><i class="fa fa-product-hunt" aria-hidden="true"></i> <span class="sr-only">Example of </span>product-hunt</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/qq"><i class="fa fa-qq" aria-hidden="true"></i> <span class="sr-only">Example of </span>qq</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/quora"><i class="fa fa-quora" aria-hidden="true"></i> <span class="sr-only">Example of </span>quora</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/rebel"><i class="fa fa-ra" aria-hidden="true"></i> <span class="sr-only">Example of </span>ra <span class="text-muted">(alias)</span></a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/ravelry"><i class="fa fa-ravelry" aria-hidden="true"></i> <span class="sr-only">Example of </span>ravelry</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/rebel"><i class="fa fa-rebel" aria-hidden="true"></i> <span class="sr-only">Example of </span>rebel</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/reddit"><i class="fa fa-reddit" aria-hidden="true"></i> <span class="sr-only">Example of </span>reddit</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/reddit-alien"><i class="fa fa-reddit-alien" aria-hidden="true"></i> <span class="sr-only">Example of </span>reddit-alien</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/reddit-square"><i class="fa fa-reddit-square" aria-hidden="true"></i> <span class="sr-only">Example of </span>reddit-square</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/renren"><i class="fa fa-renren" aria-hidden="true"></i> <span class="sr-only">Example of </span>renren</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/rebel"><i class="fa fa-resistance" aria-hidden="true"></i> <span class="sr-only">Example of </span>resistance <span class="text-muted">(alias)</span></a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/safari"><i class="fa fa-safari" aria-hidden="true"></i> <span class="sr-only">Example of </span>safari</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/scribd"><i class="fa fa-scribd" aria-hidden="true"></i> <span class="sr-only">Example of </span>scribd</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/sellsy"><i class="fa fa-sellsy" aria-hidden="true"></i> <span class="sr-only">Example of </span>sellsy</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/share-alt"><i class="fa fa-share-alt" aria-hidden="true"></i> <span class="sr-only">Example of </span>share-alt</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/share-alt-square"><i class="fa fa-share-alt-square" aria-hidden="true"></i> <span class="sr-only">Example of </span>share-alt-square</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/shirtsinbulk"><i class="fa fa-shirtsinbulk" aria-hidden="true"></i> <span class="sr-only">Example of </span>shirtsinbulk</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/simplybuilt"><i class="fa fa-simplybuilt" aria-hidden="true"></i> <span class="sr-only">Example of </span>simplybuilt</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/skyatlas"><i class="fa fa-skyatlas" aria-hidden="true"></i> <span class="sr-only">Example of </span>skyatlas</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/skype"><i class="fa fa-skype" aria-hidden="true"></i> <span class="sr-only">Example of </span>skype</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/slack"><i class="fa fa-slack" aria-hidden="true"></i> <span class="sr-only">Example of </span>slack</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/slideshare"><i class="fa fa-slideshare" aria-hidden="true"></i> <span class="sr-only">Example of </span>slideshare</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/snapchat"><i class="fa fa-snapchat" aria-hidden="true"></i> <span class="sr-only">Example of </span>snapchat</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/snapchat-ghost"><i class="fa fa-snapchat-ghost" aria-hidden="true"></i> <span class="sr-only">Example of </span>snapchat-ghost</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/snapchat-square"><i class="fa fa-snapchat-square" aria-hidden="true"></i> <span class="sr-only">Example of </span>snapchat-square</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/soundcloud"><i class="fa fa-soundcloud" aria-hidden="true"></i> <span class="sr-only">Example of </span>soundcloud</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/spotify"><i class="fa fa-spotify" aria-hidden="true"></i> <span class="sr-only">Example of </span>spotify</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/stack-exchange"><i class="fa fa-stack-exchange" aria-hidden="true"></i> <span class="sr-only">Example of </span>stack-exchange</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/stack-overflow"><i class="fa fa-stack-overflow" aria-hidden="true"></i> <span class="sr-only">Example of </span>stack-overflow</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/steam"><i class="fa fa-steam" aria-hidden="true"></i> <span class="sr-only">Example of </span>steam</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/steam-square"><i class="fa fa-steam-square" aria-hidden="true"></i> <span class="sr-only">Example of </span>steam-square</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/stumbleupon"><i class="fa fa-stumbleupon" aria-hidden="true"></i> <span class="sr-only">Example of </span>stumbleupon</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/stumbleupon-circle"><i class="fa fa-stumbleupon-circle" aria-hidden="true"></i> <span class="sr-only">Example of </span>stumbleupon-circle</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/superpowers"><i class="fa fa-superpowers" aria-hidden="true"></i> <span class="sr-only">Example of </span>superpowers</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/telegram"><i class="fa fa-telegram" aria-hidden="true"></i> <span class="sr-only">Example of </span>telegram</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/tencent-weibo"><i class="fa fa-tencent-weibo" aria-hidden="true"></i> <span class="sr-only">Example of </span>tencent-weibo</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/themeisle"><i class="fa fa-themeisle" aria-hidden="true"></i> <span class="sr-only">Example of </span>themeisle</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/trello"><i class="fa fa-trello" aria-hidden="true"></i> <span class="sr-only">Example of </span>trello</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/tripadvisor"><i class="fa fa-tripadvisor" aria-hidden="true"></i> <span class="sr-only">Example of </span>tripadvisor</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/tumblr"><i class="fa fa-tumblr" aria-hidden="true"></i> <span class="sr-only">Example of </span>tumblr</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/tumblr-square"><i class="fa fa-tumblr-square" aria-hidden="true"></i> <span class="sr-only">Example of </span>tumblr-square</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/twitch"><i class="fa fa-twitch" aria-hidden="true"></i> <span class="sr-only">Example of </span>twitch</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/twitter"><i class="fa fa-twitter" aria-hidden="true"></i> <span class="sr-only">Example of </span>twitter</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/twitter-square"><i class="fa fa-twitter-square" aria-hidden="true"></i> <span class="sr-only">Example of </span>twitter-square</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/usb"><i class="fa fa-usb" aria-hidden="true"></i> <span class="sr-only">Example of </span>usb</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/viacoin"><i class="fa fa-viacoin" aria-hidden="true"></i> <span class="sr-only">Example of </span>viacoin</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/viadeo"><i class="fa fa-viadeo" aria-hidden="true"></i> <span class="sr-only">Example of </span>viadeo</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/viadeo-square"><i class="fa fa-viadeo-square" aria-hidden="true"></i> <span class="sr-only">Example of </span>viadeo-square</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/vimeo"><i class="fa fa-vimeo" aria-hidden="true"></i> <span class="sr-only">Example of </span>vimeo</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/vimeo-square"><i class="fa fa-vimeo-square" aria-hidden="true"></i> <span class="sr-only">Example of </span>vimeo-square</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/vine"><i class="fa fa-vine" aria-hidden="true"></i> <span class="sr-only">Example of </span>vine</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/vk"><i class="fa fa-vk" aria-hidden="true"></i> <span class="sr-only">Example of </span>vk</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/weixin"><i class="fa fa-wechat" aria-hidden="true"></i> <span class="sr-only">Example of </span>wechat <span class="text-muted">(alias)</span></a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/weibo"><i class="fa fa-weibo" aria-hidden="true"></i> <span class="sr-only">Example of </span>weibo</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/weixin"><i class="fa fa-weixin" aria-hidden="true"></i> <span class="sr-only">Example of </span>weixin</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/whatsapp"><i class="fa fa-whatsapp" aria-hidden="true"></i> <span class="sr-only">Example of </span>whatsapp</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/wikipedia-w"><i class="fa fa-wikipedia-w" aria-hidden="true"></i> <span class="sr-only">Example of </span>wikipedia-w</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/windows"><i class="fa fa-windows" aria-hidden="true"></i> <span class="sr-only">Example of </span>windows</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/wordpress"><i class="fa fa-wordpress" aria-hidden="true"></i> <span class="sr-only">Example of </span>wordpress</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/wpbeginner"><i class="fa fa-wpbeginner" aria-hidden="true"></i> <span class="sr-only">Example of </span>wpbeginner</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/wpexplorer"><i class="fa fa-wpexplorer" aria-hidden="true"></i> <span class="sr-only">Example of </span>wpexplorer</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/wpforms"><i class="fa fa-wpforms" aria-hidden="true"></i> <span class="sr-only">Example of </span>wpforms</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/xing"><i class="fa fa-xing" aria-hidden="true"></i> <span class="sr-only">Example of </span>xing</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/xing-square"><i class="fa fa-xing-square" aria-hidden="true"></i> <span class="sr-only">Example of </span>xing-square</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/y-combinator"><i class="fa fa-y-combinator" aria-hidden="true"></i> <span class="sr-only">Example of </span>y-combinator</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/hacker-news"><i class="fa fa-y-combinator-square" aria-hidden="true"></i> <span class="sr-only">Example of </span>y-combinator-square <span class="text-muted">(alias)</span></a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/yahoo"><i class="fa fa-yahoo" aria-hidden="true"></i> <span class="sr-only">Example of </span>yahoo</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/y-combinator"><i class="fa fa-yc" aria-hidden="true"></i> <span class="sr-only">Example of </span>yc <span class="text-muted">(alias)</span></a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/hacker-news"><i class="fa fa-yc-square" aria-hidden="true"></i> <span class="sr-only">Example of </span>yc-square <span class="text-muted">(alias)</span></a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/yelp"><i class="fa fa-yelp" aria-hidden="true"></i> <span class="sr-only">Example of </span>yelp</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/yoast"><i class="fa fa-yoast" aria-hidden="true"></i> <span class="sr-only">Example of </span>yoast</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/youtube"><i class="fa fa-youtube" aria-hidden="true"></i> <span class="sr-only">Example of </span>youtube</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/youtube-play"><i class="fa fa-youtube-play" aria-hidden="true"></i> <span class="sr-only">Example of </span>youtube-play</a></div>
+    
+      <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/youtube-square"><i class="fa fa-youtube-square" aria-hidden="true"></i> <span class="sr-only">Example of </span>youtube-square</a></div>
+    
+        </div>
+        <div class="alert alert-warning">
+            <h4><i class="fa fa-warning" aria-hidden"true"=""></i> Warning!</h4>
+            Apparently, Adblock Plus can remove Font Awesome brand icons with their "Remove Social
+            Media Buttons" setting. We will not use hacks to force them to display. Please
+            <a href="https://adblockplus.org/en/bugs" class="alert-link">report an issue with Adblock Plus</a> if you believe this to be
+            an error. To work around this, you'll need to modify the social icon class names.
+        </div>
+        <div class="alert alert-success">
+            <ul class="margin-bottom-none padding-left-lg">
+              <li>All brand icons are trademarks of their respective owners.</li>
+              <li>The use of these trademarks does not indicate endorsement of the trademark holder by Font Awesome, nor vice versa.</li>
+              <li>Brand icons should only be used to represent the company or product to which they refer.</li>
+              <li class="strong">Please do not use brand logos for any purpose except to represent that particular brand or service.</li>
+            </ul>
+        </div>
+    </section>
+    <section id="medical">
+        <h2 class="page-header">Medical Icons</h2>
+        <div class="row fontawesome-icon-list">
+          <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/ambulance"><i class="fa fa-ambulance" aria-hidden="true"></i> <span class="sr-only">Example of </span>ambulance</a></div>
+        
+          <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/h-square"><i class="fa fa-h-square" aria-hidden="true"></i> <span class="sr-only">Example of </span>h-square</a></div>
+        
+          <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/heart"><i class="fa fa-heart" aria-hidden="true"></i> <span class="sr-only">Example of </span>heart</a></div>
+        
+          <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/heart-o"><i class="fa fa-heart-o" aria-hidden="true"></i> <span class="sr-only">Example of </span>heart-o</a></div>
+        
+          <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/heartbeat"><i class="fa fa-heartbeat" aria-hidden="true"></i> <span class="sr-only">Example of </span>heartbeat</a></div>
+        
+          <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/hospital-o"><i class="fa fa-hospital-o" aria-hidden="true"></i> <span class="sr-only">Example of </span>hospital-o</a></div>
+        
+          <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/medkit"><i class="fa fa-medkit" aria-hidden="true"></i> <span class="sr-only">Example of </span>medkit</a></div>
+        
+          <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/plus-square"><i class="fa fa-plus-square" aria-hidden="true"></i> <span class="sr-only">Example of </span>plus-square</a></div>
+        
+          <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/stethoscope"><i class="fa fa-stethoscope" aria-hidden="true"></i> <span class="sr-only">Example of </span>stethoscope</a></div>
+        
+          <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/user-md"><i class="fa fa-user-md" aria-hidden="true"></i> <span class="sr-only">Example of </span>user-md</a></div>
+        
+          <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/wheelchair"><i class="fa fa-wheelchair" aria-hidden="true"></i> <span class="sr-only">Example of </span>wheelchair</a></div>
+        
+          <div class="fa-hover col-md-3 col-sm-4"><a href="http://fontawesome.io/ icon/wheelchair-alt"><i class="fa fa-wheelchair-alt" aria-hidden="true"></i> <span class="sr-only">Example of </span>wheelchair-alt</a></div>
+        </div>
+
+    </section>
+</div>
+
+    </div>
+</div>
+

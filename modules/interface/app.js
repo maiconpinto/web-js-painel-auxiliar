@@ -15,6 +15,7 @@ define(
 			},
 			Render: function(el_content){
 				var self = this;
+
 				el_content.find('.get-module').click(function(){
 					var mod_name = $(this).data('option');
 					require([(mod_name+'/app')], function(mod_name){

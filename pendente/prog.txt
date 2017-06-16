@@ -1,4 +1,18 @@
 
+#HTML5 captura de media, img, audio de microfone, video de webcam
+https://www.html5rocks.com/pt/tutorials/getusermedia/intro/
+
+
+#iframe bing
+<iframe width="100%" height="300" frameborder="0" style="border:0" src="http://www.bing.com/search?q=teste"></iframe>
+
+#iframe mapa google
+https://developers.google.com/maps/documentation/embed/guide
+MODE = place, directions, search, view, streetview.
+https://www.google.com/maps/embed/v1/MODE?key=YOUR_API_KEY&parameters
+<iframe width="100%" height="300" frameborder="0" style="border:0" src="https://www.google.com/maps/embed/v1/search?key=YOUR_API_KEY&q=sapiranga"></iframe>
+
+
 
 //##### Montar ASCII ART Text #######
 http://patorjk.com/software/taag/#p=display&f=Graffiti&t=

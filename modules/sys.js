@@ -1,4 +1,3 @@
-
 var Sys = new function () {
 
 	var _var = {

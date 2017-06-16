@@ -25,6 +25,7 @@ define(
 					var objPanelJq = el_list.find('#'+objSerial);
 					objPanelJq.hide();
 					objPanelJq.html(html_view);
+					draggable(objSerial);
 
 					//montando css do panel
 					objPanelJq.addClass(sizePanel);
@@ -36,7 +37,7 @@ define(
 						objDiv.parentNode.removeChild(objDiv);
 					});
 
-					// chada do conteudo da modal requisitado
+					// chamada do conteudo da modal requisitado
 					$.post(options.url, {}, function (modal_html) {
 						var el_modal = objPanelJq.find('#item-content');
 						el_modal.html(modal_html);
