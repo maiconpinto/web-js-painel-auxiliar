@@ -19,6 +19,11 @@ define(
 					sizePanel = options.size_class;
 				}
 
+				var dataModal = {};
+				if(typeof options.data != 'undefined'){
+					dataModal = options.data;
+				}
+
 				// chamada da estrutura padrao do model
 				var url = url_view('interface','module_panel');
 				$.post(url, {}, function (html_view) {
@@ -38,12 +43,26 @@ define(
 					});
 
 					// chamada do conteudo da modal requisitado
-					$.post(options.url, {}, function (modal_html) {
+					$.ajax({
+						type: "POST",
+						url: options.url,
+						data: dataModal,
+						success: function (modal_html) {
+							var el_modal = objPanelJq.find('#item-content');
+							el_modal.html(modal_html);
+							options.callback(el_modal);
+							objPanelJq.show();
+						},
+						//dataType: dataType
+					});
+
+					//old
+					/*$.post(options.url, {}, function (modal_html) {
 						var el_modal = objPanelJq.find('#item-content');
 						el_modal.html(modal_html);
 						options.callback(el_modal);
 						objPanelJq.show();
-					});
+					}); */
 				});
 			}
 		}

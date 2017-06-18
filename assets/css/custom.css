@@ -20,4 +20,9 @@
 	padding-right: 3px;
 	padding-bottom: 3px;
 	padding-top: 3px;
+   cursor: grab;
+}
+
+.table-condensed {
+   font-size: 12px;
 }

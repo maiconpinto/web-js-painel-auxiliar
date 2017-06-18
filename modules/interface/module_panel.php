@@ -18,6 +18,6 @@
 	        	</div> -->
         	</div>
     	</div>
-        <div id="item-content" class="panel-body"></div>
+        <div id="item-content" class="panel-body min-padding"></div>
     </div>
 </div>
