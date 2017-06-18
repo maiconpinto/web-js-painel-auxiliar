@@ -10,7 +10,7 @@ define(
 				App.Modal({
 					title: 'Clima',
 					url: self.Url('form'),
-					size_class: 'col-lg-4',
+					size_class: 'col-lg-2',
 					callback: function(div){
 						self.Render(div);
 					}
@@ -18,16 +18,27 @@ define(
 			},
 			Render: function(el_content){
 				var self = this;
-				var elString = el_content.find('#cript-text');
-
-				// #webservice previsao do tempo
-				// http://servicos.cptec.inpe.br/XML/listaCidades?city=porto%20alegre // para buscar cods
-				// http://servicos.cptec.inpe.br/XML/listaCidades // 237 = poa, 5092 sapirang, 1929 estancia velha, 3591 nh, 4969 sao leo
-				// http://servicos.cptec.inpe.br/XML/cidade/3591/previsao.xml // previsao do tempo prox 4 dias
-				// http://servicos.cptec.inpe.br/XML/cidade/7dias/3591/previsao.xml // previsao do tempo prox 7 dias
-				// http://servicos.cptec.inpe.br/XML/cidade/7dias/-22.90/-47.06/previsaoLatLon.xml // 7 dias para latitudo e longitude, pegando a cidade mais proxima
-				// http://servicos.cptec.inpe.br/XML/cidade/3591/estendida.xml // 7 dias depois dos 7 normais, totalizando 14 dias de previsao
-				// http://servicos.cptec.inpe.br/XML/#estacoes-metar
+				
+				el_content.find('.prev-clima').on('click',function(){
+					var idCidade = $(this).data('cidade');
+					if(idCidade > 0){
+						self.PrevClima(idCidade);
+					} else {
+						alert('Código da cidade incorreto.');
+					}
+				});
+			},
+			PrevClima: function(idCidade){
+				var self = this;
+				App.Modal({
+					title: 'Clima - Cidade',
+					url: self.Url('prev_clima'),
+					size_class: 'col-lg-4',
+					data: {id_cidade : idCidade},
+					callback: function(div){
+						//self.Render(div);
+					}
+				});
 			}
 		}
 	}

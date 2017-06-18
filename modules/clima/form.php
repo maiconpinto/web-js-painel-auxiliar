@@ -1,28 +1,18 @@
-<div class="row">
-	<div class="col-lg-12">
-	    
-    </div>
-</div>
-<div class="row">
-	<div class="col-lg-12">
-	    <button type="button" class="btn btn-info" id="clima-atualizar">Atualizar</button> 
-    </div>
-</div>
-
-
-<?php 
-
-$ch = curl_init();
-// informar URL e outras funções ao CURL
-curl_setopt($ch, CURLOPT_URL, "http://servicos.cptec.inpe.br/XML/cidade/3591/previsao.xml");
-curl_setopt($ch, CURLOPT_RETURNTRANSFER, true);
-// Acessar a URL e retornar a saída
-$output = curl_exec($ch);
-// liberar
-curl_close($ch);
-// Substituir ‘Google’ por ‘PHP Curl’
-//$output = str_replace('Google', 'PHP Curl', $output);
-// Imprimir a saída
-echo $output;
-
+<?php
+	$cidades = array(
+		'3591' => 'Novo Hamburgo',
+		'5092' => 'Sapiranga',
+		'1929' => 'Estância Velha',
+		'237' => 'Porto Alegre',
+		'3994' => 'Pinherinho do Vale',
+		'3511' => 'Nova Esperança do Sul',
+	);
 ?>
+
+<div class="row">
+	<div class="col-lg-12">
+		<?php foreach($cidades as $cod => $cidade){ ?>
+		<button type="button" class="btn btn-sm btn-default prev-clima" data-cidade="<?=$cod?>"><?=$cidade?></button> 
+	    <?php } ?> 
+    </div>
+</div>
