@@ -1,4 +1,7 @@
 
+#clima
+https://www.google.com.br/search?q=previsao+do+tempo+novo+hamburgo
+
 #HTML5 captura de media, img, audio de microfone, video de webcam
 https://www.html5rocks.com/pt/tutorials/getusermedia/intro/
 
